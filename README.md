@@ -45,6 +45,45 @@ Screening is fail-safe by design: API errors or malformed replies just leave the
 listing unscreened and it's retried next run. Job descriptions are only held in
 memory during a run — they're never committed to the repo.
 
+## Catch-all market search via Adzuna (optional, recommended)
+
+The company list only sees companies you've added. Adzuna is a job aggregator that
+indexes thousands of job sites — adding its free API gives the tracker a market-wide
+phrase search for your title keywords, catching roles at companies you've never heard
+of, including many postings that also appear on LinkedIn and BuiltIn.
+
+Setup: sign up free at developer.adzuna.com → create an application → you get an
+**App ID** and an **App Key**. Add both as repository secrets (Settings → Secrets and
+variables → Actions → New repository secret): one named `ADZUNA_APP_ID`, one named
+`ADZUNA_APP_KEY`.
+
+Notes:
+- Results are deduplicated against your direct ATS boards by company + title, but the
+  same posting syndicated to multiple sites can occasionally slip through with a
+  different company spelling.
+- Adzuna descriptions are snippets, so screening verdicts for adzuna-sourced jobs are
+  based on less text — treat them as a first pass and read the posting.
+- Default market is the US; set the `ADZUNA_COUNTRY` env var in the workflow (e.g.
+  `gb`, `ca`, `de`) to change it.
+
+## Widening the net with keywords
+
+Title matching is literal: a "Strategy & Operations Lead" posting will not match
+"chief of staff". If you want adjacent roles, add phrases to `title_keywords` in
+`companies.json`, e.g. `"business operations"`, `"founder's office"`,
+`"strategy & operations"`. Each phrase is also searched market-wide on Adzuna, so
+add them thoughtfully — broader phrases mean more borderline results (the LLM
+screening badges help sort those).
+
+## Why not LinkedIn / BuiltIn directly?
+
+Neither offers a public API, and both actively block automated scraping (it's also
+against their terms of service), so a scraper would be unreliable and short-lived.
+The practical combination that gets you equivalent coverage:
+1. This tracker's direct ATS boards (deepest, fastest signal for companies you watch)
+2. The Adzuna catch-all (market-wide; overlaps heavily with LinkedIn/BuiltIn content)
+3. LinkedIn's and BuiltIn's own saved-search email alerts, set up once on their sites
+
 ## Curating `companies.json` (the important part)
 
 The seed list is a starting guess — some slugs may be wrong or companies may have
@@ -81,7 +120,7 @@ open docs/index.html
 ## How it works
 
 ```
-scrape.py            fetch boards → filter titles → dedupe → screen via Claude → data/jobs.json
+scrape.py            fetch boards + Adzuna market search → filter titles → dedupe → screen via Claude → data/jobs.json
 build_dashboard.py   data/jobs.json → docs/index.html (static, self-contained)
 .github/workflows/   cron every 6h → run both → commit changes back to the repo
 ```
@@ -94,7 +133,5 @@ build_dashboard.py   data/jobs.json → docs/index.html (static, self-contained)
 
 ## Ideas for later
 
-- **Catch-all search**: add an Adzuna or SerpAPI (Google Jobs) fetcher with an API key
-  stored as a GitHub Actions secret, to catch companies not on your list.
 - **Push alerts**: if you ever want pings, add a step that posts new listings to a
   Slack/Discord webhook or sends an email — the new-vs-seen diff logic already exists.

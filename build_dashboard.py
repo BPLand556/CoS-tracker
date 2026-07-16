@@ -173,6 +173,7 @@ TEMPLATE = """<!DOCTYPE html>
       <option value="greenhouse">Greenhouse</option>
       <option value="lever">Lever</option>
       <option value="ashby">Ashby</option>
+      <option value="adzuna">Adzuna (catch-all)</option>
     </select>
     <label class="toggle"><input type="checkbox" id="hide-weak"> Hide weak matches</label>
     <label class="toggle"><input type="checkbox" id="show-closed"> Show closed</label>

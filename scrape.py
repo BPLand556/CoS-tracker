@@ -13,10 +13,12 @@ its jobs are NOT marked closed (a network hiccup shouldn't close listings).
 
 import hashlib
 import json
+import os
 import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import quote
 
 import requests
 
@@ -101,6 +103,49 @@ FETCHERS = {
 }
 
 
+# ------------------------------------------------- catch-all search source
+
+ADZUNA_COUNTRY = os.environ.get("ADZUNA_COUNTRY", "us")
+ADZUNA_MAX_PAGES = 3  # up to 150 results per keyword
+
+
+def fetch_adzuna(keywords: list[str]):
+    """Phrase-search the whole job market via Adzuna's free API.
+
+    Returns a list of listings, or None if API keys aren't configured
+    (None tells the caller not to treat missing adzuna jobs as closed).
+    """
+    app_id = os.environ.get("ADZUNA_APP_ID")
+    app_key = os.environ.get("ADZUNA_APP_KEY")
+    if not (app_id and app_key):
+        print("adzuna: ADZUNA_APP_ID/ADZUNA_APP_KEY not set, skipping catch-all search")
+        return None
+
+    results = []
+    for kw in keywords:
+        for page in range(1, ADZUNA_MAX_PAGES + 1):
+            data = fetch_json(
+                f"https://api.adzuna.com/v1/api/jobs/{ADZUNA_COUNTRY}/search/{page}"
+                f"?app_id={app_id}&app_key={app_key}"
+                f"&results_per_page=50&sort_by=date&what_phrase={quote(kw)}"
+            )
+            batch = data.get("results", [])
+            for job in batch:
+                results.append({
+                    "slug": "adzuna",
+                    "company": (job.get("company") or {}).get("display_name") or "Unknown",
+                    "title": strip_html(job.get("title", "")),
+                    "location": (job.get("location") or {}).get("display_name", ""),
+                    "url": job.get("redirect_url", ""),
+                    "source": "adzuna",
+                    "description": strip_html(job.get("description", "")),
+                })
+            if len(batch) < 50:
+                break
+            time.sleep(0.5)
+    return results
+
+
 # ---------------------------------------------------------------- pipeline
 
 def load_config() -> dict:
@@ -162,6 +207,44 @@ def main() -> int:
                     }
                     new_count += 1
                     print(f"NEW: {name} — {listing['title']}")
+
+    # Catch-all search via Adzuna (optional; needs ADZUNA_APP_ID/APP_KEY secrets).
+    # Skip results that duplicate a job already tracked via a direct ATS board.
+    direct_keys = {
+        (j["company"].strip().lower(), j["title"].strip().lower())
+        for jid, j in jobs.items()
+        if jid in seen_ids and j["source"] != "adzuna"
+    }
+    try:
+        adzuna_results = fetch_adzuna(keywords)
+    except Exception as exc:  # noqa: BLE001
+        errors.append(f"adzuna: {exc}")
+        adzuna_results = None
+    if adzuna_results is None:
+        failed_boards.add("adzuna/adzuna")  # don't close adzuna jobs on a skipped/failed run
+    else:
+        for listing in adzuna_results:
+            if not listing["url"] or not title_matches(listing["title"], keywords):
+                continue
+            if (listing["company"].strip().lower(), listing["title"].strip().lower()) in direct_keys:
+                continue  # already tracked via its own ATS board
+            jid = job_id("adzuna", "adzuna", listing["url"])
+            seen_ids.add(jid)
+            descriptions[jid] = listing.pop("description", "")
+            if jid in jobs:
+                jobs[jid].update(listing)
+                jobs[jid]["last_seen"] = run_time
+                jobs[jid]["status"] = "active"
+                jobs[jid].pop("closed_at", None)
+            else:
+                jobs[jid] = {
+                    **listing,
+                    "first_seen": run_time,
+                    "last_seen": run_time,
+                    "status": "active",
+                }
+                new_count += 1
+                print(f"NEW: {listing['company']} — {listing['title']} (adzuna)")
 
     # Mark vanished listings closed — unless their board failed this run.
     for jid, job in jobs.items():
