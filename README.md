@@ -45,6 +45,29 @@ Screening is fail-safe by design: API errors or malformed replies just leave the
 listing unscreened and it's retried next run. Job descriptions are only held in
 memory during a run — they're never committed to the repo.
 
+## Self-expanding watch list (automatic board discovery)
+
+Roughly once a day, the tracker uses your existing Anthropic API key to run web
+searches (restricted to jobs.ashbyhq.com, jobs.lever.co, and the Greenhouse job
+sites) for your title keywords. Every company found gets adopted into the watch
+list automatically and permanently — its board is then fetched through the proper
+ATS API like any hand-added company, every run, until the end of time.
+
+- No new accounts or secrets needed; it reuses `ANTHROPIC_API_KEY`.
+- Discovered boards live in `data/jobs.json` under `discovered` (separate from
+  `companies.json`, which remains yours to curate by hand).
+- A discovered slug that turns out not to exist (404) is dropped automatically;
+  transient network errors don't drop anything.
+- Coverage compounds: each day's searches surface different postings, and every
+  adoption is permanent, so the watched-boards count grows week over week.
+- Cost: up to 6 web searches once per day (web search is billed at $10 per 1,000
+  searches, plus small Haiku token costs) — roughly $2–3/month. Tunables via env
+  vars in the workflow: `DISCOVERY_INTERVAL_HOURS` (default 20),
+  `DISCOVERY_MAX_SEARCHES` (default 6), `DISCOVERY_MODEL`.
+
+Hand-adding companies still matters for guaranteed coverage of companies you care
+about most; discovery + Adzuna handle the long tail you'd never find yourself.
+
 ## Catch-all market search via Adzuna (optional, recommended)
 
 The company list only sees companies you've added. Adzuna is a job aggregator that
@@ -120,7 +143,7 @@ open docs/index.html
 ## How it works
 
 ```
-scrape.py            fetch boards + Adzuna market search → filter titles → dedupe → screen via Claude → data/jobs.json
+scrape.py            discover new boards (Claude web search) → fetch boards + Adzuna market search → filter titles → dedupe → screen via Claude → data/jobs.json
 build_dashboard.py   data/jobs.json → docs/index.html (static, self-contained)
 .github/workflows/   cron every 6h → run both → commit changes back to the repo
 ```

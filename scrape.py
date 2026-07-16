@@ -22,6 +22,7 @@ from urllib.parse import quote
 
 import requests
 
+from discover import run_discovery
 from screen import screen_new_jobs, strip_html
 
 ROOT = Path(__file__).parent
@@ -174,6 +175,19 @@ def main() -> int:
     failed_boards: set[str] = set()
     new_count = 0
 
+    # Self-expanding watch list: discover new ATS boards via Claude web search
+    # (runs ~once a day; failures are logged and retried next run).
+    try:
+        run_discovery(store, keywords)
+    except Exception as exc:  # noqa: BLE001
+        errors.append(f"discovery: {exc}")
+    for source in FETCHERS:
+        configured = {e["slug"] for e in config.get(source, [])}
+        for slug in store.get("discovered", {}).get(source, []):
+            if slug not in configured:
+                pretty = slug.replace("%20", " ").replace("-", " ").replace("_", " ").title()
+                config.setdefault(source, []).append({"slug": slug, "name": pretty})
+
     for source, fetcher in FETCHERS.items():
         for entry in config.get(source, []):
             slug = entry["slug"]
@@ -183,6 +197,17 @@ def main() -> int:
             except Exception as exc:  # noqa: BLE001 - keep the run alive
                 errors.append(f"{source}/{slug}: {exc}")
                 failed_boards.add(f"{source}/{slug}")
+                # A discovered board that definitively doesn't exist (404) gets
+                # dropped; a real one will be re-discovered. Transient errors keep it.
+                is_404 = (
+                    isinstance(exc, requests.HTTPError)
+                    and exc.response is not None
+                    and exc.response.status_code == 404
+                )
+                disc = store.get("discovered", {}).get(source, [])
+                if is_404 and slug in disc:
+                    disc.remove(slug)
+                    print(f"discovery: dropped nonexistent board {source}/{slug}")
                 continue
             finally:
                 time.sleep(0.5)  # be polite to the APIs
