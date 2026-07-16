@@ -1,0 +1,95 @@
+{
+  "title_keywords": [
+    "chief of staff"
+  ],
+  "greenhouse": [
+    {
+      "slug": "anthropic",
+      "name": "Anthropic"
+    },
+    {
+      "slug": "stripe",
+      "name": "Stripe"
+    },
+    {
+      "slug": "figma",
+      "name": "Figma"
+    },
+    {
+      "slug": "notion",
+      "name": "Notion"
+    },
+    {
+      "slug": "airtable",
+      "name": "Airtable"
+    },
+    {
+      "slug": "brex",
+      "name": "Brex"
+    },
+    {
+      "slug": "scaleai",
+      "name": "Scale AI"
+    },
+    {
+      "slug": "vercel",
+      "name": "Vercel"
+    },
+    {
+      "slug": "rippling",
+      "name": "Rippling"
+    },
+    {
+      "slug": "gusto",
+      "name": "Gusto"
+    },
+    {
+      "slug": "checkr",
+      "name": "Checkr"
+    }
+  ],
+  "lever": [
+    {
+      "slug": "plaid",
+      "name": "Plaid"
+    },
+    {
+      "slug": "mistral",
+      "name": "Mistral AI"
+    },
+    {
+      "slug": "anduril",
+      "name": "Anduril"
+    },
+    {
+      "slug": "attentive",
+      "name": "Attentive"
+    },
+    {
+      "slug": "zoox",
+      "name": "Zoox"
+    }
+  ],
+  "ashby": [
+    {
+      "slug": "openai",
+      "name": "OpenAI"
+    },
+    {
+      "slug": "linear",
+      "name": "Linear"
+    },
+    {
+      "slug": "ramp",
+      "name": "Ramp"
+    },
+    {
+      "slug": "replit",
+      "name": "Replit"
+    },
+    {
+      "slug": "deel",
+      "name": "Deel"
+    }
+  ]
+}
