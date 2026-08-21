@@ -7,13 +7,14 @@
   ],
   "jobs": {
     "000494f6f82ca55f": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Capital One",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Mc Lean, Fairfax County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Senior Director, Chief of Staff, Integrated Work Force Transformation",
       "url": "https://www.adzuna.com/land/ad/5850729287?se=hseAjl2d8RGBPduReAo1dw&utm_medium=api&utm_source=f62da352&v=409AED318119CC825903B58F2237D1FF1C6B10D0"
     },
@@ -572,7 +573,7 @@
     "040e6a3342b086db": {
       "company": "HP",
       "first_seen": "2026-08-21T12:40:41Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "Houston, Harris County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -607,7 +608,7 @@
     "04245df7e478800d": {
       "company": "Scale AI",
       "first_seen": "2026-08-03T19:26:43Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "Washington, DC",
       "slug": "scaleai",
       "source": "greenhouse",
@@ -640,13 +641,14 @@
       "url": "https://www.adzuna.com/land/ad/5841625169?se=YsCZARGY8RGOaqmpVDVsqA&utm_medium=api&utm_source=f62da352&v=80A9FB5A385D29881614EA5C7C0CA27B33808C46"
     },
     "047ffbbcd9fb8fbf": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Wyoming, Kent County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850459309?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=3D33125EE9E92679B079FA62A657C7F727396831"
     },
@@ -1311,13 +1313,14 @@
       "url": "https://www.adzuna.com/land/ad/5823520157?se=7pNXR4GN8RG8DqYT68M2aw&utm_medium=api&utm_source=f62da352&v=8C968C6C9E929A707415089E826BCF82A5EE3AAC"
     },
     "08388c237d22af3c": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Google",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Mountain View, Santa Clara County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GeminiApp UX, DeepMind",
       "url": "https://www.adzuna.com/land/ad/5850672518?se=hseAjl2d8RGBPduReAo1dw&utm_medium=api&utm_source=f62da352&v=7462970A3D3A2B0C6072ED3F6AF1CF2875236F7C"
     },
@@ -1468,7 +1471,7 @@
     "08e6b453292243cb": {
       "company": "PEAK6",
       "first_seen": "2026-08-21T06:40:25Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "Austin, Travis County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -1731,7 +1734,7 @@
     "0a3fda9e7cd954af": {
       "company": "talentpluto",
       "first_seen": "2026-08-21T12:40:41Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -2123,6 +2126,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5812335364?utm_medium=api&utm_source=f62da352"
     },
+    "0c2e1f3fbf17022d": {
+      "company": "Yeah! Global",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Noe Valley, San Francisco",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff (Remote Worldwide) (San Francisco)",
+      "url": "https://www.adzuna.com/land/ad/5851312138?se=IGh-u46d8RGR5o_pugR4nQ&utm_medium=api&utm_source=f62da352&v=AD7F900E06F33837AB6F46B2D32EDF1E756CEE36"
+    },
     "0c303a2c89d2cbfc": {
       "closed_at": "2026-08-12T13:02:00Z",
       "company": "Banfield",
@@ -2460,13 +2474,14 @@
       "url": "https://www.adzuna.com/land/ad/5850176952?se=uFY0PSud8RGhArhxtbtVlg&utm_medium=api&utm_source=f62da352&v=A03AFBB70514B3DAE61D84AAA01C6A922FBF474C"
     },
     "0dee123e41a81cbe": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Jackson, Hinds County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850464213?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=A082F8AA4740BAA275390DAF84935FE2ABBDD6DB"
     },
@@ -3239,13 +3254,14 @@
       "url": "https://www.adzuna.com/land/ad/5809538571?se=rMIScgGG8RGLktLhk9EKMw&utm_medium=api&utm_source=f62da352&v=322737D8E013B0DC545F62A5F3895506B3A4CF34"
     },
     "137ce7884f9cd382": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Washington Metropolitan Area Transit Authority",
       "first_seen": "2026-08-21T06:40:25Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Fairfax, Fairfax County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Special Projects Coordinator- Chief of Staff & Government Relations",
       "url": "https://www.adzuna.com/details/5850360546?utm_medium=api&utm_source=f62da352"
     },
@@ -3922,13 +3938,14 @@
       "url": "https://www.adzuna.com/land/ad/5844845929?se=gMbtsKCa8RGB8rnM-OiTpQ&utm_medium=api&utm_source=f62da352&v=BFA4BA4A348794833DF6DD95850E8330AF4DCC86"
     },
     "17fc69185fcdb42d": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Washington Metropolitan Area Transit Authority",
       "first_seen": "2026-08-21T06:40:25Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Leesburg, Loudoun County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Special Projects Coordinator- Chief of Staff & Government Relations",
       "url": "https://www.adzuna.com/details/5850360536?utm_medium=api&utm_source=f62da352"
     },
@@ -3979,6 +3996,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5812345346?se=miOXCzmH8RG4J83nekfXWA&utm_medium=api&utm_source=f62da352&v=B74F83E6E84AF05B87D30DB2569C850FCC1B4483"
+    },
+    "18225540ebfcb6db": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Saint Paul, Ramsey County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850436259?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=16D6E3D332E36AEF57637E45CDEBCDBDA541856F"
     },
     "1835de5a492b8d72": {
       "closed_at": "2026-08-07T07:11:07Z",
@@ -4317,13 +4345,14 @@
       "url": "https://www.adzuna.com/land/ad/5817237189?se=aotrX8eJ8RGRmd94HTiRYQ&utm_medium=api&utm_source=f62da352&v=5661A30F9E0B8A47FD1623029E5B7698878F2239"
     },
     "1a9675fa0db83591": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Chisolm, Montgomery County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850436478?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=C87128877FA2B3BC033E891CDB4705BC0927D226"
     },
@@ -4338,6 +4367,17 @@
       "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850459351?se=3pFWPCud8RGhArhxtbtVlg&utm_medium=api&utm_source=f62da352&v=9F9740E796039E23D1019E8FC20A34076C23366D"
+    },
+    "1aa466ebc5342fb5": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Charleston, Kanawha County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850583026?se=_ip4vI6d8RGR5o_pugR4nQ&utm_medium=api&utm_source=f62da352&v=D1EDB3A9BB558131D4923567D91FF651026EAF05"
     },
     "1aab911892cc6cc2": {
       "closed_at": "2026-07-29T19:12:11Z",
@@ -4532,13 +4572,14 @@
       "url": "https://www.adzuna.com/land/ad/5825811194?se=ZtjfLaWO8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=633903197BC1882D9F169F0B0CB575CC7A2C5C93"
     },
     "1bc51c0b0f86e44b": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850441029?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=EC44ED578D2472AAE7C9A68EEC632E29F88BAD2B"
     },
@@ -5121,7 +5162,7 @@
     "1fe0d5723169a36b": {
       "company": "Raydar",
       "first_seen": "2026-08-21T12:40:41Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -5176,6 +5217,17 @@
       "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5836569396?se=ODatQISV8RG6LpicnsiRlg&utm_medium=api&utm_source=f62da352&v=D8B439DE6F28AA1EBBFF5E0B393E5B24AAC6FCB4"
+    },
+    "205d7698bd086fe8": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Jackson, Hinds County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850464213?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=A082F8AA4740BAA275390DAF84935FE2ABBDD6DB"
     },
     "207b999ea58237ed": {
       "closed_at": "2026-08-04T02:13:33Z",
@@ -6066,13 +6118,14 @@
       "url": "https://www.adzuna.com/details/5812300531?utm_medium=api&utm_source=f62da352"
     },
     "264895be62dec5a9": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Topeka, Shawnee County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850464649?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=EB3CA3A435346DB336727FD20F865B7D8C7004DE"
     },
@@ -6257,13 +6310,14 @@
       "url": "https://www.adzuna.com/land/ad/5842984584?se=1O_4nDyZ8RGJftUyzQ0_4w&utm_medium=api&utm_source=f62da352&v=8F63A36D61470C62F48EBA88A65F45B6E39D394F"
     },
     "276f73420651ae38": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Edgewood, Richland County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850367221?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=E4FC7BD18DA77ADBB3F353C3B492BE4D1BBF735D"
     },
@@ -7276,13 +7330,14 @@
       "url": "https://www.adzuna.com/land/ad/5808261080?se=SsNH93KE8RGrzJaJ3knFvQ&utm_medium=api&utm_source=f62da352&v=CEDCE3082842F9F2CEC37E66F146F82CAE8FA940"
     },
     "2d77f1a7be608d48": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Mongmong, Mongmong-Toto-Maite",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850457982?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=CA3D3AF8B8797B852793B5296325918684BB900C"
     },
@@ -7382,6 +7437,17 @@
       "title": "Executive Director, Health 100 Product & Engineering Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5843891447?se=pFWkaWqa8RGB8rnM-OiTpQ&utm_medium=api&utm_source=f62da352&v=9C8341A7AD285BB1B00923B5D008FF832821D424"
     },
+    "2df7bebd968554c5": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Providence, Providence County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850462973?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=712977AA52A49CF9D9F01837F2C56D9C6C4DCBC9"
+    },
     "2e180ba41f50c2f4": {
       "closed_at": "2026-07-28T19:18:51Z",
       "company": "Sprinklr",
@@ -7395,13 +7461,14 @@
       "url": "https://www.adzuna.com/land/ad/5816100624?se=FojYhF6K8RG1d7LYFOmBDw&utm_medium=api&utm_source=f62da352&v=D3C707DA82FB2EEEAF90474F90E084284E36537B"
     },
     "2e1edca6607f3ba9": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Washington Metropolitan Area Transit Authority",
       "first_seen": "2026-08-21T06:40:25Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "North Springfield, Fairfax County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Special Projects Coordinator- Chief of Staff & Government Relations",
       "url": "https://www.adzuna.com/details/5850360537?utm_medium=api&utm_source=f62da352"
     },
@@ -7574,13 +7641,14 @@
       "url": "https://www.adzuna.com/land/ad/5803650445?se=KqdXneKB8RGaN9WsQAuM2w&utm_medium=api&utm_source=f62da352&v=30B10136D9FFA9790C245CBDB43E2DC67FE87C91"
     },
     "2f17f15737bcc898": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Grandview Heights, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850448969?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=E482FC957A5F9A5FC51553F7CC831DB7E7905736"
     },
@@ -8220,6 +8288,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5836337991?se=HlurQYSV8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=ED83ACAAC8417AF061095F36374609D06D55EAAE"
     },
+    "31a6375797a9827b": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Boston, Suffolk County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850441029?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=EC44ED578D2472AAE7C9A68EEC632E29F88BAD2B"
+    },
     "31aa1137cf72295e": {
       "closed_at": "2026-08-18T01:03:37Z",
       "company": "Coinbase",
@@ -8233,13 +8312,14 @@
       "url": "https://www.adzuna.com/land/ad/5844855575?se=Jm1iZ2qa8RGLRNMmwLdNsA&utm_medium=api&utm_source=f62da352&v=8B0ED2AEE78B2309BCB56CF7171338A81940E7F8"
     },
     "31ae24e24f4210df": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Bonnie, Utah County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850632190?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=B27B80D5EF12D92F00BCE1FFB4857CBB0023910A"
     },
@@ -8364,13 +8444,14 @@
       "url": "https://www.adzuna.com/land/ad/5812358030?se=eJZ5XweH8RGlu8FcJJTwKw&utm_medium=api&utm_source=f62da352&v=0A8E2B93BEF9D277CCF5261CF4E80FC76F1AEAEE"
     },
     "329ae1ba31dca8dd": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Washington Metropolitan Area Transit Authority",
       "first_seen": "2026-08-21T06:40:25Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Tysons, Fairfax County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Special Projects Coordinator- Chief of Staff & Government Relations",
       "url": "https://www.adzuna.com/details/5850360545?utm_medium=api&utm_source=f62da352"
     },
@@ -8397,6 +8478,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5848952524?utm_medium=api&utm_source=f62da352"
+    },
+    "32d5a43b10df9a32": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Concord, Merrimack County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850463839?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=8FB2678358AE2642D908BA7DBB73E5C1885EF074"
     },
     "32d8399e3cc8c3d7": {
       "closed_at": "2026-08-01T08:16:04Z",
@@ -8818,6 +8910,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5837402431?se=rqRx4X-W8RGZjegz1di2Mg&utm_medium=api&utm_source=f62da352&v=061DA603127278F75579705FBDE809BBB12C5A6D"
     },
+    "35504f557f4eec65": {
+      "company": "HITT Contracting",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Falls Church City, Virginia",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff Manager",
+      "url": "https://www.adzuna.com/land/ad/5850814336?se=IGh-u46d8RGR5o_pugR4nQ&utm_medium=api&utm_source=f62da352&v=AC9CF55A46081830B51E765E727365AEC3D56F80"
+    },
     "35537b9372dd1326": {
       "closed_at": "2026-08-15T12:31:45Z",
       "company": "Sprecher Brewing Company Inc",
@@ -8903,13 +9006,14 @@
       "url": "https://www.adzuna.com/land/ad/5823141434?se=wNDTeFGN8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=8457586E23C80E571579FAFC94DB728DC43FCDD3"
     },
     "35b2991b41fcd255": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Urbanizaci\u00f3n El Vedado, San Juan",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850458206?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=F9F7D49015C45CE4B142FB7E7C8422586AE5115D"
     },
@@ -10284,7 +10388,7 @@
     "3eb9492152abc56b": {
       "company": "Checkr",
       "first_seen": "2026-07-16T16:52:38Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "San Francisco, California, United States",
       "slug": "checkr",
       "source": "greenhouse",
@@ -10965,15 +11069,27 @@
       "url": "https://www.adzuna.com/land/ad/5826404468?se=iq-4R0iP8RGeH-dJzLXcrg&utm_medium=api&utm_source=f62da352&v=8294DA795FD9D4B2EE865702A4F1B73558BA804C"
     },
     "42385e830158ec38": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Talcott Village, Hartford County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850432025?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=B6D78B28152AA8D27F0B1592996F6E0C5D208965"
+    },
+    "42403a68aafed525": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Urbanizaci\u00f3n El Vedado, San Juan",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850458206?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=F9F7D49015C45CE4B142FB7E7C8422586AE5115D"
     },
     "424225354053293d": {
       "closed_at": "2026-08-11T18:58:05Z",
@@ -12142,7 +12258,7 @@
     "486862ad8c5ba6ed": {
       "company": "Novig",
       "first_seen": "2026-08-21T12:40:41Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -12777,7 +12893,7 @@
     "4bb118efdf41986a": {
       "company": "Open roles",
       "first_seen": "2026-08-21T12:40:41Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -12868,6 +12984,17 @@
       "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850366243?se=3pFWPCud8RGhArhxtbtVlg&utm_medium=api&utm_source=f62da352&v=BC4CBE3722BBCAEE46CD73F684285684258B9383"
+    },
+    "4c28e78132f79ab8": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Five Points, Wake County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850445112?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=AFF81079362C4463BEB3897B09C008702373CC92"
     },
     "4c64eb75a46bed97": {
       "closed_at": "2026-08-12T01:43:07Z",
@@ -13229,6 +13356,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5834873808?se=KJq6PiGU8RGfYpUpwqr7ew&utm_medium=api&utm_source=f62da352&v=B88DE2D0EB0DCE4BAF715D4B22464C3EC14E9B06"
     },
+    "4e5ff2fea1f16071": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Phoenix, Maricopa County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850439367?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=51FDA5D240843A6441A0F4AFB65ED0D983890B2F"
+    },
     "4e670bf3b98b4a40": {
       "closed_at": "2026-07-17T13:22:32Z",
       "company": "HITT Contracting",
@@ -13408,6 +13546,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5821646629?se=7k0ZcIiM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=D5055D2F0B3404CEB4EAA893C21BA1D206A54CFE"
+    },
+    "4f61fde1bf0c9f9f": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Bonnie, Utah County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850632190?se=_ip4vI6d8RGR5o_pugR4nQ&utm_medium=api&utm_source=f62da352&v=B27B80D5EF12D92F00BCE1FFB4857CBB0023910A"
     },
     "4f63bd44334fbc19": {
       "closed_at": "2026-08-11T18:58:05Z",
@@ -14321,6 +14470,17 @@
       "title": "Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/land/ad/5823968154?se=cHrUBUuO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=41C3DED1A808C4507F87A6308A2F796D2AFF9334"
     },
+    "54f3755de1b8bd8d": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Lansing, Ingham County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850440678?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=510D6B077EEC0A2FEEDD34A2E61B40DE0294935F"
+    },
     "54fd9d5c53297b90": {
       "closed_at": "2026-08-12T01:43:07Z",
       "company": "Banfield",
@@ -14646,13 +14806,14 @@
       "url": "https://www.adzuna.com/land/ad/5834873808?se=rgFCx1qU8RG1jtA4vRlyKQ&utm_medium=api&utm_source=f62da352&v=B88DE2D0EB0DCE4BAF715D4B22464C3EC14E9B06"
     },
     "5718b202b70564de": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Glendale, Denver",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850439443?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=1455D9050E5BC9F197A13AACB6A75F7E7E518DF2"
     },
@@ -15617,20 +15778,21 @@
       "url": "https://www.adzuna.com/land/ad/5814056149?se=tFo4T9CH8RGMv-1xTUutqg&utm_medium=api&utm_source=f62da352&v=FDE88D078B1ABE7AA5C67A214C6F036C13B47E25"
     },
     "5cd0d2caedca4f27": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Washington Metropolitan Area Transit Authority",
       "first_seen": "2026-08-21T06:40:25Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Reston, Fairfax County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Special Projects Coordinator- Chief of Staff & Government Relations",
       "url": "https://www.adzuna.com/details/5850360543?utm_medium=api&utm_source=f62da352"
     },
     "5ce4be2a4038a1a1": {
       "company": "Cisco",
       "first_seen": "2026-08-21T12:40:41Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "San Jose, Santa Clara County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -15711,13 +15873,14 @@
       "url": "https://www.adzuna.com/land/ad/5823972201?se=1M5paxqO8RGBm-nBsWM45g&utm_medium=api&utm_source=f62da352&v=C15513A06EC33A0ED5163AE6F127C7DF6D36EDAB"
     },
     "5d3a542be3715400": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Washington Metropolitan Area Transit Authority",
       "first_seen": "2026-08-21T06:40:25Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "West Falls Church, Fairfax County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Special Projects Coordinator- Chief of Staff & Government Relations",
       "url": "https://www.adzuna.com/details/5850360528?utm_medium=api&utm_source=f62da352"
     },
@@ -16345,6 +16508,17 @@
       "title": "Chief of Staff - Patient & Provider Services",
       "url": "https://www.adzuna.com/land/ad/5802342457?se=ir5HdUmB8RGuXZiVwx-Xkw&utm_medium=api&utm_source=f62da352&v=A67A60364AACAA4D3279D73CF76C41D70F10868A"
     },
+    "612fc3889d8e18d4": {
+      "company": "HITT Contracting",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Falls Church City, Virginia",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Associate, Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5850795167?se=_ip4vI6d8RGR5o_pugR4nQ&utm_medium=api&utm_source=f62da352&v=A99174BBD61AFE2648ECB93C58FE4155D99A269B"
+    },
     "6135db78192509b3": {
       "closed_at": "2026-08-15T01:04:01Z",
       "company": "HP",
@@ -16658,13 +16832,14 @@
       "url": "https://www.adzuna.com/details/5846099715?utm_medium=api&utm_source=f62da352"
     },
     "62d646fa454702f0": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Lansing, Ingham County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850440678?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=510D6B077EEC0A2FEEDD34A2E61B40DE0294935F"
     },
@@ -16777,13 +16952,14 @@
       "url": "https://www.adzuna.com/land/ad/5850176942?se=uFY0PSud8RGhArhxtbtVlg&utm_medium=api&utm_source=f62da352&v=C662DE0A6664A956C1281189CB25F53C693CE37A"
     },
     "6365d6067c35580c": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Pear VC",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Austin, Travis County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff - Blueberry",
       "url": "https://www.adzuna.com/land/ad/5850757059?se=hseAjl2d8RGBPduReAo1dw&utm_medium=api&utm_source=f62da352&v=8109F7A7F7AF25F04A6A23D225159BCF6C1CEC83"
     },
@@ -17256,13 +17432,14 @@
       "url": "https://www.adzuna.com/land/ad/5835322911?se=4B228IyU8RGlDuOngCclFw&utm_medium=api&utm_source=f62da352&v=CE2995B3CB01CE9EACA3D189A0738AD5AD22F2ED"
     },
     "67678c5c20f42623": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Archer, Laramie County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850457667?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=A41EBDDEE2F249238206087315C4D35F63813CE5"
     },
@@ -17375,13 +17552,14 @@
       "url": "https://www.adzuna.com/details/5814716500?utm_medium=api&utm_source=f62da352"
     },
     "68358f25f171c58c": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Montpelier, Washington County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850559788?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=E2BD3D9A0903E33EAF73716C0B47B360C33CDC4A"
     },
@@ -17604,7 +17782,7 @@
     "69f6fb2443e6fa7f": {
       "company": "Walmart",
       "first_seen": "2026-08-21T06:40:25Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "Bentonville, Benton County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -18009,13 +18187,14 @@
       "url": "https://www.adzuna.com/land/ad/5826705548?se=pmSWTHGP8RGiFPg8UCT7uA&utm_medium=api&utm_source=f62da352&v=CC751E4B1B1E8C04A19707F232DD44B7D78CE53E"
     },
     "6c9b4144c7e6a08b": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Baton Rouge, East Baton Rouge Parish",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850434550?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=A18ADD4ED97765FDC369F01339A8400978592FA9"
     },
@@ -18106,7 +18285,7 @@
     "6d116e0f5bb03ad6": {
       "company": "Advantage Surveillance",
       "first_seen": "2026-08-21T06:40:25Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "Centerview, Cabarrus County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -18117,7 +18296,7 @@
     "6d2847919114dddb": {
       "company": "Commonwealth of Massachusetts",
       "first_seen": "2026-08-21T06:40:25Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -18473,6 +18652,17 @@
       "title": "Strategic Legal Ops Chief of Staff (San Francisco)",
       "url": "https://www.adzuna.com/details/5832184852?utm_medium=api&utm_source=f62da352"
     },
+    "6f2f6a762b7a481a": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Mongmong, Mongmong-Toto-Maite",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850457982?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=CA3D3AF8B8797B852793B5296325918684BB900C"
+    },
     "6f33baec07f7570c": {
       "closed_at": "2026-08-01T19:04:38Z",
       "company": "Banfield",
@@ -18486,13 +18676,14 @@
       "url": "https://www.adzuna.com/land/ad/5823947975?se=uoZ-8aqN8RGv1eY0AXRckA&utm_medium=api&utm_source=f62da352&v=E0F2FCDA0CC5BFC43D7EF7BAC5944756B6A665A4"
     },
     "6f3f8e3744f9987d": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Helena, Lewis and Clark County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850363661?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=00CE89D272DE84854EC85721C88E610007EAF88E"
     },
@@ -18531,6 +18722,17 @@
       "status": "closed",
       "title": "Director, Chief of Staff & Business Operations",
       "url": "https://www.adzuna.com/details/5816274287?utm_medium=api&utm_source=f62da352"
+    },
+    "6f67571f5b5e4f3d": {
+      "company": "Pear VC",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Austin, Travis County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff - Blueberry",
+      "url": "https://www.adzuna.com/land/ad/5850757059?se=_ip4vI6d8RGR5o_pugR4nQ&utm_medium=api&utm_source=f62da352&v=8109F7A7F7AF25F04A6A23D225159BCF6C1CEC83"
     },
     "6f8a864d15367021": {
       "closed_at": "2026-08-21T06:40:25Z",
@@ -18605,24 +18807,26 @@
       "url": "https://www.adzuna.com/land/ad/5821362758?se=7k0ZcIiM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=F4CA65C60F9917D18DA429D0F55E403E5022DFA1"
     },
     "7016049df95bea0e": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Washington Metropolitan Area Transit Authority",
       "first_seen": "2026-08-21T06:40:25Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Ashburn, Loudoun County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Special Projects Coordinator- Chief of Staff & Government Relations",
       "url": "https://www.adzuna.com/details/5850360540?utm_medium=api&utm_source=f62da352"
     },
     "7026f149692c70bb": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Concord, Merrimack County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850463839?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=8FB2678358AE2642D908BA7DBB73E5C1885EF074"
     },
@@ -18989,7 +19193,7 @@
     "72574547c97dde62": {
       "company": "InStride Health",
       "first_seen": "2026-08-21T12:40:41Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -19932,6 +20136,17 @@
       "status": "closed",
       "title": "Associate, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5812076031?se=gO_nhsqG8RG4J83nekfXWA&utm_medium=api&utm_source=f62da352&v=A7AE9825A3F2BC10E23B69603F9F1DBEE08EA823"
+    },
+    "787a3811a167c81d": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Frankfort, Franklin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850465187?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=A255477F97A1261139C1A39990A6168B6238E2DE"
     },
     "7888af095361fb53": {
       "closed_at": "2026-08-21T12:40:41Z",
@@ -21352,7 +21567,7 @@
     "7fdd8e44e7870ec6": {
       "company": "Wmata",
       "first_seen": "2026-08-21T12:40:41Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -21483,7 +21698,7 @@
     "809eec83a770387d": {
       "company": "ID.me",
       "first_seen": "2026-08-21T12:40:41Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -21828,13 +22043,14 @@
       "url": "https://www.adzuna.com/land/ad/5812337653?se=-pZQmJ2G8RGH_PwTOBsIqA&utm_medium=api&utm_source=f62da352&v=850249F3F27D3548077250ED3ADB66CD450CFD87"
     },
     "82d908012df48345": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Charleston, Kanawha County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850583026?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=D1EDB3A9BB558131D4923567D91FF651026EAF05"
     },
@@ -24023,24 +24239,26 @@
       "url": "https://www.adzuna.com/land/ad/5825812611?se=tBGwLh-P8RG3SvDIKJ74_A&utm_medium=api&utm_source=f62da352&v=89D2117F71F9048FB009F423C296834D434AF135"
     },
     "8f751dff99bce4d0": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Cedar, Cole County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850466322?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=CC32540B21A5C387AEEDC0B10EC9CC7D8798EB39"
     },
     "8f76f84d85d71fa9": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Des Moines, Polk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850366243?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=BC4CBE3722BBCAEE46CD73F684285684258B9383"
     },
@@ -24465,13 +24683,14 @@
       "url": "https://www.adzuna.com/land/ad/5850484836?se=1sJbOyud8RGVwpWvD-HIQQ&utm_medium=api&utm_source=f62da352&v=C624C22669FF0E4D25B30DFF5589589C4BD47264"
     },
     "91f735cbb025bf2a": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Carson Mall, Carson City",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850463482?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=EAC6CBB4A971BD988B1417724C57BCDAA789BFDE"
     },
@@ -24740,13 +24959,14 @@
       "url": "https://www.adzuna.com/land/ad/5822097547?se=gtNzQLyM8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=847174F60A07FC32C5A669BCB2BB9015D1368174"
     },
     "935725d4f18d7be6": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Madison, Dane County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850636379?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=47000641744AF4DC91780E5B219E1E1AA76054C3"
     },
@@ -24846,6 +25066,17 @@
       "title": "Associate, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5847995297?se=CkoPDDOc8RGvGrvTGRxIcA&utm_medium=api&utm_source=f62da352&v=ACE28C162C3F5C47C871A3571E804C53789DF75A"
     },
+    "9429908a81ddeca7": {
+      "company": "Nuveen",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Buckingham, Dallas",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Managing Director, Head of Business Operations & Chief of Staff (Dallas)",
+      "url": "https://www.adzuna.com/land/ad/5851315342?se=IGh-u46d8RGR5o_pugR4nQ&utm_medium=api&utm_source=f62da352&v=33BA518BFC5F22A20C13AFFB87BF2A2D855985CA"
+    },
     "942cc3ed7eb4d558": {
       "closed_at": "2026-07-23T13:51:08Z",
       "company": "Lumen",
@@ -24871,13 +25102,14 @@
       "url": "https://www.adzuna.com/land/ad/5827479285?se=NKy3pDqQ8RGkw8i02SesdQ&utm_medium=api&utm_source=f62da352&v=46D493A3FD2F043E78893DB125222A8B3017452D"
     },
     "94407adb3a493d7e": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Washington Metropolitan Area Transit Authority",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Washington, D.C., US",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Special Projects Coordinator- Chief of Staff & Government Relations",
       "url": "https://www.adzuna.com/land/ad/5850460258?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=35B1136630C0EB71D16A4EA6F84FB528D96797E3"
     },
@@ -25158,13 +25390,14 @@
       "url": "https://www.adzuna.com/details/5846320510?utm_medium=api&utm_source=f62da352"
     },
     "96365f87d020b1f4": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Cammack Village, Pulaski County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850430531?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=4660EF8F411A569697960B9BDB70A8312BCEA59F"
     },
@@ -26081,13 +26314,14 @@
       "url": "https://www.adzuna.com/land/ad/5809422834?se=_vFz5TiF8RGgQcTn0fwhJg&utm_medium=api&utm_source=f62da352&v=354B6453DC77F1AF11339AD5203D175902DE1226"
     },
     "9c7d7caea4e99050": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Frankfort, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850465187?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=A255477F97A1261139C1A39990A6168B6238E2DE"
     },
@@ -26402,6 +26636,17 @@
       "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5836572601?se=UAYsN--V8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=97AC0FC11EAF93180468058C4451FC8D92A0E6A4"
+    },
+    "9e10f18a5000364d": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Boise, Ada County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850459328?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=7A2C751905BC484A6AE6C98D65E40B7E98FEBB21"
     },
     "9e1684c6d5953bd8": {
       "closed_at": "2026-08-15T06:32:43Z",
@@ -27280,13 +27525,14 @@
       "url": "https://www.adzuna.com/land/ad/5825196675?se=Kvy3BEuO8RGX2L3R0S5OZA&utm_medium=api&utm_source=f62da352&v=F3F50D26680DFF0EBE3D3514D4CACF7B6A595B48"
     },
     "a28f7bb3ddf6516a": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Five Points, Wake County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850445112?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=AFF81079362C4463BEB3897B09C008702373CC92"
     },
@@ -27434,6 +27680,17 @@
       "title": "Vice President, Chief of Staff to the CEO",
       "url": "https://www.adzuna.com/land/ad/5823315858?se=wLLy4-OO8RGHycU1Jh7d4w&utm_medium=api&utm_source=f62da352&v=CE03358C1F3DE184A4862BC5BEEFB33C4879D1DB"
     },
+    "a382af43cee002aa": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Nashville, Davidson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850442144?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=67662782CCBDD7E93E788937D900C38E366C2BE2"
+    },
     "a3a09ce7bf4f2d18": {
       "closed_at": "2026-07-28T19:18:51Z",
       "company": "J.P. Morgan",
@@ -27543,13 +27800,14 @@
       "url": "https://www.adzuna.com/details/5822316034?utm_medium=api&utm_source=f62da352"
     },
     "a43da70dc0d7f002": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Washington Metropolitan Area Transit Authority",
       "first_seen": "2026-08-21T06:40:25Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Fort Myer, Arlington County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Special Projects Coordinator- Chief of Staff & Government Relations",
       "url": "https://www.adzuna.com/details/5850360542?utm_medium=api&utm_source=f62da352"
     },
@@ -27614,13 +27872,14 @@
       "url": "https://www.adzuna.com/details/5849817049?utm_medium=api&utm_source=f62da352"
     },
     "a47372ae80610d95": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Washington Metropolitan Area Transit Authority",
       "first_seen": "2026-08-21T06:40:25Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Herndon, Fairfax County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Special Projects Coordinator- Chief of Staff & Government Relations",
       "url": "https://www.adzuna.com/details/5850360526?utm_medium=api&utm_source=f62da352"
     },
@@ -29052,6 +29311,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5821080637?se=uoDYcIiM8RGB7Ox-pl9dqQ&utm_medium=api&utm_source=f62da352&v=B87C41AC71785A3C27F6D4F1C79D45A5E0ABC23D"
     },
+    "ac494c9434f9388a": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Wyoming, Kent County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850459309?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=3D33125EE9E92679B079FA62A657C7F727396831"
+    },
     "ac586f4c64a4fac3": {
       "closed_at": "2026-07-17T13:22:32Z",
       "company": "Verdant Bridge Group",
@@ -30000,6 +30270,17 @@
       "title": "Strategic Legal Ops Chief of Staff (San Francisco)",
       "url": "https://www.adzuna.com/land/ad/5830758508?se=xGI5g1-S8RGvg6_5HonlUw&utm_medium=api&utm_source=f62da352&v=9B8B27BACE61C55B3505962FF8A5A898FDFD698E"
     },
+    "b30665451b3b8384": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Archer, Laramie County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850457667?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=A41EBDDEE2F249238206087315C4D35F63813CE5"
+    },
     "b30d10e7ac9d7d08": {
       "closed_at": "2026-08-17T01:05:56Z",
       "company": "NetApp",
@@ -30037,13 +30318,14 @@
       "url": "https://www.adzuna.com/land/ad/5812344371?se=miOXCzmH8RG4J83nekfXWA&utm_medium=api&utm_source=f62da352&v=50F2C903D7614B865A298FD53470C48F6B6F4F9D"
     },
     "b3291256a169ef3d": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Rula",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Los Angeles, Los Angeles County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Engineering (Remote)",
       "url": "https://www.adzuna.com/land/ad/5850663020?se=hseAjl2d8RGBPduReAo1dw&utm_medium=api&utm_source=f62da352&v=2215390AA3C1EC73C0BEF9748673C15011DC29C6"
     },
@@ -30122,7 +30404,7 @@
     "b3b6f4f71fd7a6dd": {
       "company": "Headway",
       "first_seen": "2026-08-21T12:40:41Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -30145,13 +30427,24 @@
     "b3f3d7cf203f9a92": {
       "company": "Yale University",
       "first_seen": "2026-08-21T06:40:25Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
       "status": "active",
       "title": "Chief of Staff, Supervisor - Pathology",
       "url": "https://www.adzuna.com/details/5850517082?utm_medium=api&utm_source=f62da352"
+    },
+    "b3f599e65c1803e8": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Washington, D.C., US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850459191?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=EC32AA4E7FEE72484C5F6CD284978DE7B3844D86"
     },
     "b3f8f692050f3915": {
       "closed_at": "2026-07-18T02:11:20Z",
@@ -31702,13 +31995,14 @@
       "url": "https://www.adzuna.com/land/ad/5826404468?se=0Df4NXOQ8RGLwZkdgahNug&utm_medium=api&utm_source=f62da352&v=8294DA795FD9D4B2EE865702A4F1B73558BA804C"
     },
     "bc9c2b17292daeda": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Bismarck, Burleigh County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850459351?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=9F9740E796039E23D1019E8FC20A34076C23366D"
     },
@@ -31747,6 +32041,17 @@
       "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5836497832?se=vBIOUx6W8RGNEO0SxDr7vQ&utm_medium=api&utm_source=f62da352&v=DB2879DE2128A0E5932D7BA48EC02CC3479240D8"
+    },
+    "bcb05749d5049f26": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Montpelier, Washington County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850559788?se=_ip4vI6d8RGR5o_pugR4nQ&utm_medium=api&utm_source=f62da352&v=E2BD3D9A0903E33EAF73716C0B47B360C33CDC4A"
     },
     "bcbc7c70285a870b": {
       "closed_at": "2026-07-24T08:23:51Z",
@@ -32037,13 +32342,14 @@
       "url": "https://www.adzuna.com/land/ad/5812344371?se=vHDlhcqG8RGJI6GuGHE2oA&utm_medium=api&utm_source=f62da352&v=50F2C903D7614B865A298FD53470C48F6B6F4F9D"
     },
     "be1b573fb14d9d51": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Oklahoma City, Oklahoma County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850431816?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=AAC9BA7CBD52640827B79691C30A636948BCA5DC"
     },
@@ -32070,6 +32376,17 @@
       "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823949286?se=uoZ-8aqN8RGv1eY0AXRckA&utm_medium=api&utm_source=f62da352&v=18341ACD8A6CF2350777933C7A293DF49DA243BF"
+    },
+    "be4b94f73f466223": {
+      "company": "Rula",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Los Angeles, Los Angeles County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Engineering (Remote)",
+      "url": "https://www.adzuna.com/land/ad/5850663020?se=_ip4vI6d8RGR5o_pugR4nQ&utm_medium=api&utm_source=f62da352&v=2215390AA3C1EC73C0BEF9748673C15011DC29C6"
     },
     "be597ca41678a0af": {
       "closed_at": "2026-08-05T08:31:05Z",
@@ -32444,13 +32761,14 @@
       "url": "https://www.adzuna.com/land/ad/5809402998?se=GDkh5jiF8RG974pouqc-_w&utm_medium=api&utm_source=f62da352&v=FBBF3CAE600B9CB5704C6EA51D01B4DC3DA5C901"
     },
     "c0053f9d9640bc73": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Capital One",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Mc Lean, Fairfax County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Manager, Chief of Staff (Intelligent Foundations & Experiences)",
       "url": "https://www.adzuna.com/land/ad/5850484836?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=C624C22669FF0E4D25B30DFF5589589C4BD47264"
     },
@@ -32553,7 +32871,7 @@
     "c09edf6e38673503": {
       "company": "Oracle",
       "first_seen": "2026-08-21T06:40:25Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "Douglas, Juneau",
       "slug": "adzuna",
       "source": "adzuna",
@@ -33426,13 +33744,14 @@
       "url": "https://www.adzuna.com/land/ad/5828831419?se=4oEkoT2R8RGExO5K9raumQ&utm_medium=api&utm_source=f62da352&v=F1B27361FD0681DD36E74DF9FB0F07AC10C69A02"
     },
     "c624385155a8fccd": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Saint Paul, Ramsey County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850436259?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=16D6E3D332E36AEF57637E45CDEBCDBDA541856F"
     },
@@ -33809,13 +34128,14 @@
       "url": "https://www.adzuna.com/land/ad/5809391309?se=en1txnSF8RG974pouqc-_w&utm_medium=api&utm_source=f62da352&v=C771483CF12A9045096EBE1CF9F7D3290EAE9A5E"
     },
     "c852161d3afcd5ec": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Boise, Ada County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850459328?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=7A2C751905BC484A6AE6C98D65E40B7E98FEBB21"
     },
@@ -34012,13 +34332,14 @@
       "url": "https://www.adzuna.com/land/ad/5850176964?se=YC2DvPyc8RGAhccdkGsi7Q&utm_medium=api&utm_source=f62da352&v=6D0837999986C4A4C603C366D7289399AF9A6DBD"
     },
     "ca5288d1273c296a": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Atlanta, Fulton County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850444576?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=7A1CA243BD698965DD75FEF020D8241331794628"
     },
@@ -34035,13 +34356,14 @@
       "url": "https://www.adzuna.com/land/ad/5850463499?se=1sJbOyud8RGVwpWvD-HIQQ&utm_medium=api&utm_source=f62da352&v=82C052E8AD5BC1D025D85623539F757243001128"
     },
     "ca9c2a843a032941": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Washington Metropolitan Area Transit Authority",
       "first_seen": "2026-08-21T06:40:25Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Jefferson Manor, Fairfax County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Special Projects Coordinator- Chief of Staff & Government Relations",
       "url": "https://www.adzuna.com/details/5850360527?utm_medium=api&utm_source=f62da352"
     },
@@ -34501,6 +34823,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823968147?se=cHrUBUuO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=10FCC20EEB80C384B56BFD6C25144A230CD0B8FA"
     },
+    "ce0d2d945994d02e": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Trenton, Mercer County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850466307?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=2F94DEA72C4B4B36F05961DA86AF5472D6434432"
+    },
     "ce0e6ef2b993ff8c": {
       "closed_at": "2026-07-31T08:45:43Z",
       "company": "City of New York",
@@ -34512,6 +34845,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5821488289?se=7k0ZcIiM8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=7017C83924EB65460E15215C280C7E5781F54D90"
+    },
+    "ce1b143b3dbf4fde": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Atlanta, Fulton County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850444576?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=7A1CA243BD698965DD75FEF020D8241331794628"
     },
     "ce233e4cf76e4054": {
       "closed_at": "2026-08-16T12:33:16Z",
@@ -34837,6 +35181,17 @@
       "title": "Strategic Chief of Staff \u2013 Global Investments (Baltimore)",
       "url": "https://www.adzuna.com/land/ad/5826707031?se=pmSWTHGP8RGiFPg8UCT7uA&utm_medium=api&utm_source=f62da352&v=0348FF1EABB6F87C43F98F4881AFFAE1D417C552"
     },
+    "d003b0d41079278d": {
+      "company": "Google",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Mountain View, Santa Clara County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GeminiApp UX, DeepMind",
+      "url": "https://www.adzuna.com/land/ad/5850672518?se=_ip4vI6d8RGR5o_pugR4nQ&utm_medium=api&utm_source=f62da352&v=7462970A3D3A2B0C6072ED3F6AF1CF2875236F7C"
+    },
     "d0088f99e1c2cc29": {
       "closed_at": "2026-08-20T18:34:43Z",
       "company": "Socket.dev",
@@ -35089,6 +35444,17 @@
       "title": "Chief of Staff - Business Planning Manager",
       "url": "https://www.adzuna.com/land/ad/5821084026?se=NA8y7EuM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=982057B43DEC617851B1AF2A81A2CB394F76EFBB"
     },
+    "d125163f733efe42": {
+      "company": "Capital One",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Mc Lean, Fairfax County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Manager, Chief of Staff (Intelligent Foundations & Experiences)",
+      "url": "https://www.adzuna.com/land/ad/5850484836?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=C624C22669FF0E4D25B30DFF5589589C4BD47264"
+    },
     "d1295db888e13f43": {
       "closed_at": "2026-07-23T08:25:44Z",
       "company": "CenturyLink",
@@ -35150,13 +35516,14 @@
       "url": "https://www.adzuna.com/land/ad/5847994255?se=HHGFFGKc8RGQor-L2zKR7A&utm_medium=api&utm_source=f62da352&v=0EFA757B0D1E0950FCFD8E98B14439AE3FF99BC4"
     },
     "d19692e03d52b227": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Uptown, Marion County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850394585?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=798385639A287B7F13C7D0E0EB0BF58817D9037C"
     },
@@ -35267,6 +35634,17 @@
       "status": "closed",
       "title": "Director, Neuroscience Strategic Management, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5821898677?se=Aq-wCBWN8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=FC45D713E6EDF9261438E7AD4290E31562AA0704"
+    },
+    "d25e1d9a0f7c8459": {
+      "company": "Washington Metropolitan Area Transit Authority",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Washington, D.C., US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Special Projects Coordinator- Chief of Staff & Government Relations",
+      "url": "https://www.adzuna.com/land/ad/5850460258?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=35B1136630C0EB71D16A4EA6F84FB528D96797E3"
     },
     "d260c789232c5ba2": {
       "closed_at": "2026-08-17T12:38:08Z",
@@ -35749,13 +36127,14 @@
       "url": "https://www.adzuna.com/land/ad/5812339103?se=eJZ5XweH8RGlu8FcJJTwKw&utm_medium=api&utm_source=f62da352&v=8146960A733716EC6DE4A7C7E011A0C17490E0C2"
     },
     "d5c379d85b104f47": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Nashville, Davidson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850442144?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=67662782CCBDD7E93E788937D900C38E366C2BE2"
     },
@@ -36528,13 +36907,14 @@
       "url": "https://www.adzuna.com/land/ad/5824235126?se=cHrUBUuO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=01039855829D0EFBFF7FB20A5B1791DE5C861C34"
     },
     "db654f817268aa27": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Washington, D.C., US",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850459191?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=EC32AA4E7FEE72484C5F6CD284978DE7B3844D86"
     },
@@ -36719,13 +37099,14 @@
       "url": "https://www.adzuna.com/land/ad/5804219008?se=zhMVZbaB8RGuXZiVwx-Xkw&utm_medium=api&utm_source=f62da352&v=D60C64008CFF41B850DEE1D355B7DB6431897767"
     },
     "dcc6f91a2a1ab28a": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Salem, Marion County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850430935?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=7AF100984E707BD632BA2AA001BB35279AAC284C"
     },
@@ -36836,6 +37217,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5833066542?utm_medium=api&utm_source=f62da352"
+    },
+    "dd2a98cdfe7b2ff7": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Pierre, Hughes County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850462906?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=92C76F6AD2E953237FC2C35287B9BE9869B8926F"
     },
     "dd881233ec275517": {
       "closed_at": "2026-07-22T08:24:31Z",
@@ -37738,13 +38130,14 @@
       "url": "https://www.adzuna.com/land/ad/5850636379?se=1sJbOyud8RGVwpWvD-HIQQ&utm_medium=api&utm_source=f62da352&v=47000641744AF4DC91780E5B219E1E1AA76054C3"
     },
     "e31556642e3dc5c9": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Providence, Providence County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850462973?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=712977AA52A49CF9D9F01837F2C56D9C6C4DCBC9"
     },
@@ -38541,24 +38934,26 @@
       "url": "https://www.adzuna.com/land/ad/5823967506?se=kEXZBkuO8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=D20103A44C17AEE953C3247B97AE1DFA022A99B6"
     },
     "e7378573423e28bf": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Wake Island, Honolulu",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850364550?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=908BA9B4E52D9331D1E6ED779AC392C5D956EB98"
     },
     "e74cb823bcb2364e": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Augusta, Kennebec County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850364890?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=59892CF0BD8774D3031FA8B24863132E52A76EAA"
     },
@@ -38733,7 +39128,7 @@
     "e81231821349a620": {
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -38838,13 +39233,14 @@
       "url": "https://www.adzuna.com/details/5823280605?utm_medium=api&utm_source=f62da352"
     },
     "e85f6aca69c51754": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Phoenix, Maricopa County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850439367?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=51FDA5D240843A6441A0F4AFB65ED0D983890B2F"
     },
@@ -39283,7 +39679,7 @@
     "eb6469e004ce65fe": {
       "company": "Agile People and Payroll",
       "first_seen": "2026-08-21T12:40:41Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "Richardson, Dallas",
       "slug": "adzuna",
       "source": "adzuna",
@@ -39339,6 +39735,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5836568613?se=jn0YUh6W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=3001FE9CD4E3920D8AFA4A147CD307E9DF7B04DE"
     },
+    "eba3d96a41152835": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Baton Rouge, East Baton Rouge Parish",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850434550?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=A18ADD4ED97765FDC369F01339A8400978592FA9"
+    },
     "ebcc0492978cf552": {
       "closed_at": "2026-08-02T19:05:33Z",
       "company": "Barclays",
@@ -39364,13 +39771,14 @@
       "url": "https://www.adzuna.com/land/ad/5833044643?se=6KtFsVeT8RGWPoJqQXFPnw&utm_medium=api&utm_source=f62da352&v=5293376D675C80A740CE014D37C570F8528A7B61"
     },
     "ebed680a5e854a19": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "State House, Lancaster County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850463499?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=82C052E8AD5BC1D025D85623539F757243001128"
     },
@@ -39866,6 +40274,17 @@
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823965384?se=kEXZBkuO8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=2848A34F51555B5D7545E23F01F3939EB97FF6B3"
     },
+    "ee90436f465449dd": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Glendale, Denver",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850439443?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=1455D9050E5BC9F197A13AACB6A75F7E7E518DF2"
+    },
     "ee9d0b404581bf19": {
       "closed_at": "2026-08-20T01:03:50Z",
       "company": "HITT Contracting",
@@ -39915,13 +40334,14 @@
       "url": "https://www.adzuna.com/land/ad/5847020193?se=OM_toZib8RG8W-5OjdaJAA&utm_medium=api&utm_source=f62da352&v=885D1748EE5C8F275A3ED847690ACA8C5D4CBDE3"
     },
     "eec574a27cf91fa1": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Walmart",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Bentonville, Benton County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Senior Director, Technical Program Management /Chief of Staff - Supply Chain Product",
       "url": "https://www.adzuna.com/land/ad/5850433800?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=37586C1CBB9EBFD9091B8044589D71D233F3A787"
     },
@@ -39984,6 +40404,17 @@
       "status": "closed",
       "title": "Chief of Staff to the CEO & CTO",
       "url": "https://www.adzuna.com/land/ad/5835854615?se=wE9n0uyU8RG7ILaWj3cC-A&utm_medium=api&utm_source=f62da352&v=1695C8CB314F1E01343A02745BC0E2F7536E883D"
+    },
+    "ef09a0bbabc97fbf": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Topeka, Shawnee County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850464649?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=EB3CA3A435346DB336727FD20F865B7D8C7004DE"
     },
     "ef0abee0b71e36d4": {
       "closed_at": "2026-08-14T18:50:06Z",
@@ -40310,13 +40741,14 @@
       "url": "https://www.adzuna.com/land/ad/5814085001?se=qikkTP-H8RG3tOkLR0Zx3w&utm_medium=api&utm_source=f62da352&v=94943F92FA54AEAA4A0F465B9E1C5F299DEEB0BF"
     },
     "f1905b71101a242f": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Trenton, Mercer County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850466307?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=2F94DEA72C4B4B36F05961DA86AF5472D6434432"
     },
@@ -40680,6 +41112,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844855130?se=MBkhyQea8RGUiq14ohrRew&utm_medium=api&utm_source=f62da352&v=37C02CBFDC54B4AE2E6EA221A64CD4D2F9CEECF4"
     },
+    "f3aba5000d70b217": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "State House, Lancaster County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850463499?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=82C052E8AD5BC1D025D85623539F757243001128"
+    },
     "f3b64e0d295e3aad": {
       "closed_at": "2026-08-05T08:31:05Z",
       "company": "T. Rowe Price",
@@ -40740,6 +41183,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5836569080?se=UAYsN--V8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=4B66490301968E4D30108E01697A283A652B525E"
     },
+    "f400275ce79222d0": {
+      "company": "Capital One",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Mc Lean, Fairfax County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Senior Director, Chief of Staff, Integrated Work Force Transformation",
+      "url": "https://www.adzuna.com/land/ad/5850729287?se=_ip4vI6d8RGR5o_pugR4nQ&utm_medium=api&utm_source=f62da352&v=409AED318119CC825903B58F2237D1FF1C6B10D0"
+    },
     "f4107626b0a096dd": {
       "closed_at": "2026-08-17T18:35:00Z",
       "company": "Coinbase",
@@ -40751,6 +41205,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844815705?se=ANoFjDia8RG7zt0Y6Ss4iw&utm_medium=api&utm_source=f62da352&v=FE60841078D814D2CDEB22AD79A9AD2FB5A7A161"
+    },
+    "f42fc33628369f9c": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Grandview Heights, Franklin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850448969?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=E482FC957A5F9A5FC51553F7CC831DB7E7905736"
     },
     "f441e8ae436be37a": {
       "closed_at": "2026-07-31T19:20:45Z",
@@ -40849,13 +41314,14 @@
       "url": "https://www.adzuna.com/land/ad/5844856603?se=Jm1iZ2qa8RGLRNMmwLdNsA&utm_medium=api&utm_source=f62da352&v=DEE72B1072CF27E27C193A596D359D3B49B1A661"
     },
     "f4de58f5385c4b07": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Ny State Campus, Albany County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850426626?se=UCPXj12d8RGRe8MKeLiBPg&utm_medium=api&utm_source=f62da352&v=9566A5743F3A795A5B01DC8C898E53D708DBED4A"
     },
@@ -40943,6 +41409,17 @@
       "title": "Chief of Staff | Veterinary Medical Director $150k Bonus",
       "url": "https://www.adzuna.com/land/ad/5809422893?se=_vFz5TiF8RGgQcTn0fwhJg&utm_medium=api&utm_source=f62da352&v=123A490B27323E2E1EDADBA3D894CD4E8AC5EEDE"
     },
+    "f5d1bc58b450ac00": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Cedar, Cole County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850466322?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=CC32540B21A5C387AEEDC0B10EC9CC7D8798EB39"
+    },
     "f5d3af5a2faf7e4b": {
       "closed_at": "2026-08-09T18:36:18Z",
       "company": "Oracle",
@@ -40990,6 +41467,17 @@
       "status": "closed",
       "title": "Chief of Staff, Project Manager",
       "url": "https://www.adzuna.com/land/ad/5846749121?se=JGcLYTOb8RG9npSBiR6OzQ&utm_medium=api&utm_source=f62da352&v=D092834F121D2BA8E4AB336BD121BF870B2C12AB"
+    },
+    "f603d5376209f3dc": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Chisolm, Montgomery County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850436478?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=C87128877FA2B3BC033E891CDB4705BC0927D226"
     },
     "f63153ba0fa0abdc": {
       "closed_at": "2026-07-31T02:34:49Z",
@@ -41122,6 +41610,17 @@
       "status": "closed",
       "title": "Managing Director, Head of Business Operations & Chief of Staff",
       "url": "https://www.adzuna.com/details/5847979274?utm_medium=api&utm_source=f62da352"
+    },
+    "f7022aa35ba14194": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Bismarck, Burleigh County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850459351?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=9F9740E796039E23D1019E8FC20A34076C23366D"
     },
     "f724b2bee35658a0": {
       "closed_at": "2026-08-13T01:45:55Z",
@@ -41702,7 +42201,7 @@
     "fa9997eb5102ed3f": {
       "company": "Perforce",
       "first_seen": "2026-08-21T06:40:25Z",
-      "last_seen": "2026-08-21T12:40:41Z",
+      "last_seen": "2026-08-21T18:32:33Z",
       "location": "Minneapolis, Hennepin County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -41939,13 +42438,14 @@
       "url": "https://www.adzuna.com/land/ad/5821172314?se=QPpy60uM8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=199A04490DC7EEB48D141BF0D9B79456EF327702"
     },
     "fc9855fb4f01996d": {
+      "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
       "first_seen": "2026-08-21T12:40:41Z",
       "last_seen": "2026-08-21T12:40:41Z",
       "location": "Pierre, Hughes County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850462906?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=92C76F6AD2E953237FC2C35287B9BE9869B8926F"
     },
@@ -42261,6 +42761,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844815705?se=MBkhyQea8RGUiq14ohrRew&utm_medium=api&utm_source=f62da352&v=FE60841078D814D2CDEB22AD79A9AD2FB5A7A161"
     },
+    "fed3a78fcc334381": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Carson Mall, Carson City",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850463482?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=EAC6CBB4A971BD988B1417724C57BCDAA789BFDE"
+    },
     "fede70bd91677155": {
       "closed_at": "2026-07-24T02:28:17Z",
       "company": "Hunter SF",
@@ -42465,6 +42976,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823948002?se=3AY28qqN8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=7AF90C89059DBBD3F19CE82D3F1EC3CCD0A23567"
     },
+    "ffc7a7706f690f8c": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T18:32:33Z",
+      "last_seen": "2026-08-21T18:32:33Z",
+      "location": "Madison, Dane County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
+      "url": "https://www.adzuna.com/land/ad/5850636379?se=_ip4vI6d8RGR5o_pugR4nQ&utm_medium=api&utm_source=f62da352&v=47000641744AF4DC91780E5B219E1E1AA76054C3"
+    },
     "ffdc74b7d237a78c": {
       "closed_at": "2026-08-08T06:47:17Z",
       "company": "HITT Contracting",
@@ -42502,5 +43024,5 @@
       "url": "https://www.adzuna.com/details/5816410970?utm_medium=api&utm_source=f62da352"
     }
   },
-  "last_run": "2026-08-21T12:40:41Z"
+  "last_run": "2026-08-21T18:32:33Z"
 }
