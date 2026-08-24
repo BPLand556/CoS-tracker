@@ -645,7 +645,7 @@
     "04245df7e478800d": {
       "company": "Scale AI",
       "first_seen": "2026-08-03T19:26:43Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "Washington, DC",
       "slug": "scaleai",
       "source": "greenhouse",
@@ -1112,7 +1112,7 @@
     "06da4856574b3002": {
       "company": "Mass Convention CenterAuthority",
       "first_seen": "2026-08-23T06:35:58Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "South Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -2779,7 +2779,7 @@
     "0f5a1c69c09ba4ee": {
       "company": "Cigna Group",
       "first_seen": "2026-08-22T12:32:57Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -3318,7 +3318,7 @@
     "133b11b493001d54": {
       "company": "Clean Energy Buyers Association",
       "first_seen": "2026-08-22T12:32:57Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "Washington, D.C., US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -6231,13 +6231,14 @@
       "url": "https://www.adzuna.com/details/5832184568?utm_medium=api&utm_source=f62da352"
     },
     "24a1273cccc088b7": {
+      "closed_at": "2026-08-24T01:07:15Z",
       "company": "Department of Veterans Affairs",
       "first_seen": "2026-08-23T18:24:52Z",
       "last_seen": "2026-08-23T18:24:52Z",
       "location": "Creve Coeur, Saint Louis County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Associate Chief of Staff for Spinal Cord Injury - St. Louis, MO - 54 Days Paid Time Off!",
       "url": "https://www.adzuna.com/land/ad/5853317535?se=VOTy-R-f8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=338FF1D78D4779BB7045CA7EB3EEC8354286D28D"
     },
@@ -7132,7 +7133,7 @@
     "29ad043701fabc52": {
       "company": "Arcadia",
       "first_seen": "2026-08-22T06:34:34Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -9924,6 +9925,17 @@
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/land/ad/5836539697?se=ODatQISV8RG6LpicnsiRlg&utm_medium=api&utm_source=f62da352&v=57A405239577AE81F8115F43209F3F2813E899BA"
     },
+    "38ebb47c7552f2ef": {
+      "company": "Avenues Recovery",
+      "first_seen": "2026-08-24T01:07:15Z",
+      "last_seen": "2026-08-24T01:07:15Z",
+      "location": "Princeton, Mercer County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/details/5853940277?utm_medium=api&utm_source=f62da352"
+    },
     "38fc9626e76e07e6": {
       "closed_at": "2026-08-06T08:31:27Z",
       "company": "Vetcor",
@@ -10632,6 +10644,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844855490?se=7MwtrqCa8RGB8rnM-OiTpQ&utm_medium=api&utm_source=f62da352&v=EF71C12655727F0BA0B35C08FE983BDF1FFC7FC7"
     },
+    "3d1fc6876cbe04db": {
+      "company": "NYC KIDS RISE",
+      "first_seen": "2026-08-24T01:07:15Z",
+      "last_seen": "2026-08-24T01:07:15Z",
+      "location": "New York City, New York",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5853758150?se=PM9gMFif8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=80A192915CCB3EC2F3FA5475C2C9052970CDC36C"
+    },
     "3d6a4cce9760cd5f": {
       "closed_at": "2026-07-30T19:21:37Z",
       "company": "Amazon",
@@ -10899,7 +10922,7 @@
     "3eb9492152abc56b": {
       "company": "Checkr",
       "first_seen": "2026-07-16T16:52:38Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "San Francisco, California, United States",
       "slug": "checkr",
       "source": "greenhouse",
@@ -11138,7 +11161,7 @@
     "3ff9f810f986519d": {
       "company": "Medical Management International",
       "first_seen": "2026-08-23T06:35:58Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -12335,13 +12358,14 @@
       "url": "https://www.adzuna.com/land/ad/5826706909?se=PjltE9-P8RGLT5ECL-xKtg&utm_medium=api&utm_source=f62da352&v=58F97EA140D820F59494EFACE3A18A3C9EABBA3C"
     },
     "4609900979be9536": {
+      "closed_at": "2026-08-24T01:07:15Z",
       "company": "Raydar",
       "first_seen": "2026-08-23T18:24:52Z",
       "last_seen": "2026-08-23T18:24:52Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5853772726?se=XJD--B-f8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=2B24049C13D265C464710E28AF858B43350FF4E0"
     },
@@ -13136,6 +13160,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5812143669?se=gO_nhsqG8RG4J83nekfXWA&utm_medium=api&utm_source=f62da352&v=B8AD70CC988C74D8AA996AE3A3BDB6796692EEFD"
+    },
+    "4a03ba8452a509ef": {
+      "company": "Department of Veterans Affairs",
+      "first_seen": "2026-08-24T01:07:15Z",
+      "last_seen": "2026-08-24T01:07:15Z",
+      "location": "Creve Coeur, Saint Louis County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Associate Chief of Staff for Spinal Cord Injury - St. Louis, MO",
+      "url": "https://www.adzuna.com/land/ad/5853317204?se=pltzMVif8RGU6LIjyaRnwA&utm_medium=api&utm_source=f62da352&v=9DB66DCDFCA47D48069AEA73B38AD64929ADF993"
     },
     "4a0775ff4679d0b2": {
       "closed_at": "2026-07-29T14:04:27Z",
@@ -14709,6 +14744,17 @@
       "title": "Associate, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5819603830?se=uuSvbLuL8RGW1Ji16AgArw&utm_medium=api&utm_source=f62da352&v=53571DDB8409C71845D52510AD710ABD18C0F802"
     },
+    "52fe4c5be4b3c8ca": {
+      "company": "HITT Contracting",
+      "first_seen": "2026-08-24T01:07:15Z",
+      "last_seen": "2026-08-24T01:07:15Z",
+      "location": "Falls Church City, Virginia",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff Manager",
+      "url": "https://www.adzuna.com/land/ad/5853517631?se=PM9gMFif8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=49B453D15BC161709E7353F8D9DD8BBA24CFC0BE"
+    },
     "53085bdb2ef22e4b": {
       "closed_at": "2026-07-26T13:15:43Z",
       "company": "A+ Personnel",
@@ -14734,13 +14780,14 @@
       "url": "https://www.adzuna.com/land/ad/5837395100?se=po4DNu-V8RGhUM29z86DVg&utm_medium=api&utm_source=f62da352&v=0F05475A280E237F317FE2030EE38A34AF041435"
     },
     "531a3494e22d0fcd": {
+      "closed_at": "2026-08-24T01:07:15Z",
       "company": "Department of Veterans Affairs",
       "first_seen": "2026-08-23T18:24:52Z",
       "last_seen": "2026-08-23T18:24:52Z",
       "location": "Creve Coeur, Saint Louis County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Associate Chief of Staff for Spinal Cord Injury - St. Louis, MO",
       "url": "https://www.adzuna.com/land/ad/5853317204?se=VOTy-R-f8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=9DB66DCDFCA47D48069AEA73B38AD64929ADF993"
     },
@@ -17996,6 +18043,17 @@
       "title": "CHIEF OF STAFF \u2013 PEDIATRIC ORTHOPEDICS - SHRINERS ST LOUIS",
       "url": "https://www.adzuna.com/land/ad/5812365606?se=PNXnDWWH8RGs1ZmgqrrhFg&utm_medium=api&utm_source=f62da352&v=5D5F24FDA3B2873DDE5578E9FC33F51AAAB556E1"
     },
+    "661f067efeac6667": {
+      "company": "HITT Contracting",
+      "first_seen": "2026-08-24T01:07:15Z",
+      "last_seen": "2026-08-24T01:07:15Z",
+      "location": "Falls Church City, Virginia",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Associate, Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5853519993?se=PM9gMFif8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=1E98F2C79C4F7250A68734F3DB263263D6F175B8"
+    },
     "6635a205e5be7f17": {
       "closed_at": "2026-08-17T06:49:10Z",
       "company": "UnitedHealth Group",
@@ -19655,7 +19713,7 @@
     "70a15d02a4c76e00": {
       "company": "Nest Health",
       "first_seen": "2026-08-22T18:25:30Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -21643,6 +21701,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/details/5832942460?utm_medium=api&utm_source=f62da352"
     },
+    "7bac5b95efcee8b9": {
+      "company": "Mai Placement",
+      "first_seen": "2026-08-24T01:07:15Z",
+      "last_seen": "2026-08-24T01:07:15Z",
+      "location": "Monsey, Rockland County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief Of Staff",
+      "url": "https://www.adzuna.com/land/ad/5853773174?se=PM9gMFif8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=5F6FE0F96580C4D482A3DDE27FC10BDF9F725003"
+    },
     "7bb649ee17d609e5": {
       "closed_at": "2026-08-04T02:13:33Z",
       "company": "Socket.dev",
@@ -23506,7 +23575,7 @@
     "866532ab0b4bcd88": {
       "company": "Foundation For The Carolinas",
       "first_seen": "2026-08-23T06:35:58Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "Charlotte, Mecklenburg County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -24475,13 +24544,14 @@
       "url": "https://www.adzuna.com/land/ad/5809405396?se=_vFz5TiF8RGgQcTn0fwhJg&utm_medium=api&utm_source=f62da352&v=F4A22D601108D8A1504D6F1CE9EFBF6DBFA9598A"
     },
     "8bdc76b2585fa475": {
+      "closed_at": "2026-08-24T01:07:15Z",
       "company": "NYC KIDS RISE",
       "first_seen": "2026-08-23T18:24:52Z",
       "last_seen": "2026-08-23T18:24:52Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5853758150?se=XJD--B-f8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=80A192915CCB3EC2F3FA5475C2C9052970CDC36C"
     },
@@ -25340,7 +25410,7 @@
     "9026313c5f3f130d": {
       "company": "Seen Health",
       "first_seen": "2026-08-23T12:34:04Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -31084,6 +31154,17 @@
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823947942?se=3AY28qqN8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=FFD0516A6EE8C4C91F636E49E8A625F06682F940"
     },
+    "b087a82b218ea0f3": {
+      "company": "Raydar",
+      "first_seen": "2026-08-24T01:07:15Z",
+      "last_seen": "2026-08-24T01:07:15Z",
+      "location": "San Francisco, California",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5853772726?se=PM9gMFif8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=2B24049C13D265C464710E28AF858B43350FF4E0"
+    },
     "b09d02865f83d61a": {
       "closed_at": "2026-08-19T06:38:27Z",
       "company": "NetApp, Inc.",
@@ -31591,7 +31672,7 @@
     "b3f23c29d6dfb008": {
       "company": "State of North Carolina",
       "first_seen": "2026-08-23T18:24:52Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "Nash County, North Carolina",
       "slug": "adzuna",
       "source": "adzuna",
@@ -34731,6 +34812,17 @@
       "title": "Chief of Staff, AI Automation",
       "url": "https://www.adzuna.com/details/5846137334?utm_medium=api&utm_source=f62da352"
     },
+    "c41b2f800fdc4403": {
+      "company": "Department of Veterans Affairs",
+      "first_seen": "2026-08-24T01:07:15Z",
+      "last_seen": "2026-08-24T01:07:15Z",
+      "location": "Creve Coeur, Saint Louis County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Associate Chief of Staff for Spinal Cord Injury - St. Louis, MO - 54 Days Paid Time Off!",
+      "url": "https://www.adzuna.com/land/ad/5853317535?se=pltzMVif8RGU6LIjyaRnwA&utm_medium=api&utm_source=f62da352&v=338FF1D78D4779BB7045CA7EB3EEC8354286D28D"
+    },
     "c457629893ab0775": {
       "closed_at": "2026-08-21T12:40:41Z",
       "company": "Washington Metropolitan Area Transit Authority",
@@ -34876,13 +34968,14 @@
       "url": "https://www.adzuna.com/land/ad/5804219008?se=KOBrBE6C8RG9RJh7OG-Znw&utm_medium=api&utm_source=f62da352&v=D60C64008CFF41B850DEE1D355B7DB6431897767"
     },
     "c4ad4cb4d2dc1901": {
+      "closed_at": "2026-08-24T01:07:15Z",
       "company": "Connecticut Innovations",
       "first_seen": "2026-08-23T18:24:52Z",
       "last_seen": "2026-08-23T18:24:52Z",
       "location": "Flatbush, Brooklyn",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "CREW Carbon - Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5853744001?se=XJD--B-f8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=2A620D0D848BB030FE2CA83377B656966406A9A6"
     },
@@ -35249,7 +35342,7 @@
     "c705f9712bd4131d": {
       "company": "Bay Area",
       "first_seen": "2026-08-22T12:32:57Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -37069,6 +37162,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844845896?se=sv45izia8RG99P0DnZNbXw&utm_medium=api&utm_source=f62da352&v=A1765887F2A77CDD8EEAD81CED427FB82009BA4A"
     },
+    "d35cf9b7c23cc836": {
+      "company": "Avenues Recovery",
+      "first_seen": "2026-08-24T01:07:15Z",
+      "last_seen": "2026-08-24T01:07:15Z",
+      "location": "Lakewood, Ocean County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/details/5853940313?utm_medium=api&utm_source=f62da352"
+    },
     "d3723b8f93ad34e4": {
       "closed_at": "2026-07-23T19:12:43Z",
       "company": "Hunter SF",
@@ -37682,13 +37786,14 @@
       "url": "https://www.adzuna.com/land/ad/5823279909?se=0KSbP3SO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=35A8885C47071299A2D2922C141096E37DAFD6C6"
     },
     "d797fc2e28810de9": {
+      "closed_at": "2026-08-24T01:07:15Z",
       "company": "HITT Contracting",
       "first_seen": "2026-08-23T18:24:52Z",
       "last_seen": "2026-08-23T18:24:52Z",
       "location": "Falls Church City, Virginia",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Associate, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5853519993?se=XJD--B-f8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=1E98F2C79C4F7250A68734F3DB263263D6F175B8"
     },
@@ -38149,13 +38254,14 @@
       "url": "https://www.adzuna.com/land/ad/5834593772?se=poV6niOV8RG1LuL09AY9wQ&utm_medium=api&utm_source=f62da352&v=1C1B91801B381752F23141019A5194CA0AC65D80"
     },
     "da705f9b000ced03": {
+      "closed_at": "2026-08-24T01:07:15Z",
       "company": "HITT Contracting",
       "first_seen": "2026-08-23T18:24:52Z",
       "last_seen": "2026-08-23T18:24:52Z",
       "location": "Falls Church City, Virginia",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff Manager",
       "url": "https://www.adzuna.com/land/ad/5853517631?se=XJD--B-f8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=49B453D15BC161709E7353F8D9DD8BBA24CFC0BE"
     },
@@ -38306,7 +38412,7 @@
     "db427480bd17cafa": {
       "company": "Sonida Senior Living",
       "first_seen": "2026-08-22T12:32:57Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "Addison, Dallas",
       "slug": "adzuna",
       "source": "adzuna",
@@ -38965,7 +39071,7 @@
     "df31c108315109be": {
       "company": "Washington University in St Louis",
       "first_seen": "2026-08-23T06:35:58Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -39704,6 +39810,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5836337991?se=tg2wobaV8RGwIbMnLvoVfw&utm_medium=api&utm_source=f62da352&v=ED83ACAAC8417AF061095F36374609D06D55EAAE"
+    },
+    "e3b42cc5a5fb7782": {
+      "company": "Connecticut Innovations",
+      "first_seen": "2026-08-24T01:07:15Z",
+      "last_seen": "2026-08-24T01:07:15Z",
+      "location": "Flatbush, Brooklyn",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "CREW Carbon - Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5853744001?se=PM9gMFif8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=2A620D0D848BB030FE2CA83377B656966406A9A6"
     },
     "e3b7061042a3cc75": {
       "closed_at": "2026-07-16T19:05:57Z",
@@ -41724,7 +41841,7 @@
     "ee4aa086ebf9572c": {
       "company": "Medical Management International",
       "first_seen": "2026-08-22T12:32:57Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "Jacksonville, Duval County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -43149,13 +43266,14 @@
       "url": "https://www.adzuna.com/land/ad/5847227968?se=6JwXoJib8RGofthPKnR1kQ&utm_medium=api&utm_source=f62da352&v=66FADA896503BA61C4806D43F2130ACF711F5C39"
     },
     "f6e7c6c9c8779341": {
+      "closed_at": "2026-08-24T01:07:15Z",
       "company": "Mai Placement",
       "first_seen": "2026-08-23T18:24:52Z",
       "last_seen": "2026-08-23T18:24:52Z",
       "location": "Monsey, Rockland County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief Of Staff",
       "url": "https://www.adzuna.com/land/ad/5853773174?se=XJD--B-f8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=5F6FE0F96580C4D482A3DDE27FC10BDF9F725003"
     },
@@ -43918,7 +44036,7 @@
     "fb8cdc495ea01123": {
       "company": "College of DuPage",
       "first_seen": "2026-08-23T12:34:04Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "Glen Ellyn, DuPage County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -44025,7 +44143,7 @@
     "fc5c2381f5f9a105": {
       "company": "Zayo",
       "first_seen": "2026-08-23T06:35:58Z",
-      "last_seen": "2026-08-23T18:24:52Z",
+      "last_seen": "2026-08-24T01:07:15Z",
       "location": "Denver, Colorado",
       "slug": "adzuna",
       "source": "adzuna",
@@ -44682,5 +44800,5 @@
       "url": "https://www.adzuna.com/details/5816410970?utm_medium=api&utm_source=f62da352"
     }
   },
-  "last_run": "2026-08-23T18:24:52Z"
+  "last_run": "2026-08-24T01:07:15Z"
 }
