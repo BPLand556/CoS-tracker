@@ -45,7 +45,7 @@
     "00125706d98f8e06": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Costa Mesa, Orange County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -126,13 +126,14 @@
       "url": "https://www.adzuna.com/land/ad/5814052874?se=bl2g7ZSH8RG-moNr7lotlQ&utm_medium=api&utm_source=f62da352&v=775289ABB38ABC1E7A07D04B3FE75EFB2A545F7A"
     },
     "01245e1a78891ce6": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Mather, Sacramento County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662503?utm_medium=api&utm_source=f62da352"
     },
@@ -415,7 +416,7 @@
     "032b44acaee8fae4": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Gilbert, Maricopa County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -678,7 +679,7 @@
     "04245df7e478800d": {
       "company": "Scale AI",
       "first_seen": "2026-08-03T19:26:43Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Washington, DC",
       "slug": "scaleai",
       "source": "greenhouse",
@@ -701,7 +702,7 @@
     "0448623317198721": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "North Las Vegas, Clark County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -1036,7 +1037,7 @@
     "061b3a3924fbc6c0": {
       "company": "Empower",
       "first_seen": "2026-08-25T12:41:32Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Pimmit, Fairfax County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -1896,6 +1897,17 @@
       "title": "Chief of Staff to the Co-Heads of Global Investments (Baltimore)",
       "url": "https://www.adzuna.com/land/ad/5824234981?se=cHrUBUuO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=30A66752BDE804D2ABB68733D9F548E17863F0B9"
     },
+    "0a37c5e72d20b883": {
+      "company": "Savannah Search Ltd",
+      "first_seen": "2026-08-26T06:42:39Z",
+      "last_seen": "2026-08-26T06:42:39Z",
+      "location": "Hayes Valley, San Francisco",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5855536716?se=TIx7Zxmh8RGpiqFjvy_2RQ&utm_medium=api&utm_source=f62da352&v=DECF3CBC412917D727F267BFB314A76AD98AAD7E"
+    },
     "0a3fda9e7cd954af": {
       "closed_at": "2026-08-22T06:34:34Z",
       "company": "talentpluto",
@@ -1947,7 +1959,7 @@
     "0a7a8b7f4fe20aa7": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Newport Coast, Orange County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -2098,6 +2110,17 @@
       "status": "closed",
       "title": "Strategy and Operations Lead, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823741045?se=TlXt8qqN8RGv1eY0AXRckA&utm_medium=api&utm_source=f62da352&v=914594DB1F60C0DBDAF35E434F71F616D11E4ED1"
+    },
+    "0b2fb102ec89b0f9": {
+      "company": "HITT Contracting, Inc",
+      "first_seen": "2026-08-26T06:42:39Z",
+      "last_seen": "2026-08-26T06:42:39Z",
+      "location": "Falls Church City, Virginia",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Associate, Chief of Staff",
+      "url": "https://www.adzuna.com/details/5856195514?utm_medium=api&utm_source=f62da352"
     },
     "0b3e96a92cd89296": {
       "closed_at": "2026-08-01T02:33:50Z",
@@ -3216,13 +3239,14 @@
       "url": "https://www.adzuna.com/land/ad/5817967554?se=kmkOdlaL8RGZH_kiWSxl4Q&utm_medium=api&utm_source=f62da352&v=68F983C033AFA52F2AEADEAFCCF70AB0BC8EC169"
     },
     "1156d324ce77ea8f": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Henderson, Clark County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Veterinarian - Chief of Staff",
       "url": "https://www.adzuna.com/details/5854662521?utm_medium=api&utm_source=f62da352"
     },
@@ -4321,7 +4345,7 @@
     "18391550152414aa": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Scottsdale, Maricopa County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -4512,7 +4536,7 @@
     "195fb866ec7862f1": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "North Bergen, Hudson County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -4619,7 +4643,7 @@
     "1a2d0533d59303dc": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Asheville, Buncombe County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -5036,13 +5060,14 @@
       "url": "https://www.adzuna.com/details/5839200915?utm_medium=api&utm_source=f62da352"
     },
     "1caa6b302e4f797d": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Feasterville, Bucks County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662487?utm_medium=api&utm_source=f62da352"
     },
@@ -5349,7 +5374,7 @@
     "1e5065317c43db05": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T06:41:17Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Mather, Sacramento County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -6810,13 +6835,14 @@
       "url": "https://www.adzuna.com/land/ad/5842984584?se=1O_4nDyZ8RGJftUyzQ0_4w&utm_medium=api&utm_source=f62da352&v=8F63A36D61470C62F48EBA88A65F45B6E39D394F"
     },
     "275514fed7b3b778": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T06:41:17Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Asheville, Buncombe County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662643?utm_medium=api&utm_source=f62da352"
     },
@@ -7721,13 +7747,14 @@
       "url": "https://www.adzuna.com/land/ad/5823968156?se=5u8y5duN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=DDD5981D25A323472977C80335FBB61F942B407D"
     },
     "2c2cbdd4cbfd47f8": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Winter Springs, Seminole County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/details/5854662451?utm_medium=api&utm_source=f62da352"
     },
@@ -7842,7 +7869,7 @@
     "2cd6ead4ed439d58": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Queensgate, King County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -9557,7 +9584,7 @@
     "34ec7b817820b52b": {
       "company": "talentpluto",
       "first_seen": "2026-08-26T01:08:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -9844,7 +9871,7 @@
     "36dfead0276680e5": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Ocean Ridge, Palm Beach County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -10695,7 +10722,7 @@
     "3c0e30775d883788": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Lomita, Los Angeles County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -11222,7 +11249,7 @@
     "3eb9492152abc56b": {
       "company": "Checkr",
       "first_seen": "2026-07-16T16:52:38Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "San Francisco, California, United States",
       "slug": "checkr",
       "source": "greenhouse",
@@ -11243,13 +11270,14 @@
       "url": "https://www.adzuna.com/details/5816120847?utm_medium=api&utm_source=f62da352"
     },
     "3ec02600606603c0": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "East Lake-Orient Park, Hillsborough County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662495?utm_medium=api&utm_source=f62da352"
     },
@@ -11578,13 +11606,14 @@
       "url": "https://www.adzuna.com/land/ad/5815132987?se=_oY6XJqI8RGwVcnII_yObw&utm_medium=api&utm_source=f62da352&v=F60F7926F3B55B9D5BA48580FC72DBB2734FF282"
     },
     "40789648d4a8e8ed": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Cary, Wake County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Veterinarian - Chief of Staff",
       "url": "https://www.adzuna.com/details/5854662450?utm_medium=api&utm_source=f62da352"
     },
@@ -11783,7 +11812,7 @@
     "4172502e2004477c": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Stevenson Ranch, Los Angeles County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -13834,7 +13863,7 @@
     "4b7dd512c7a1e411": {
       "company": "Emory",
       "first_seen": "2026-08-25T18:35:31Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "North Decatur, DeKalb County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -13965,7 +13994,7 @@
     "4bf6ff4040d5ae05": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Wilmington, New Hanover County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -14096,7 +14125,7 @@
     "4cff2d9dcf5bf833": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Midway City, Orange County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -14911,7 +14940,7 @@
     "516cba5a8e69fb1c": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "West Melbourne, Brevard County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -15316,13 +15345,14 @@
       "url": "https://www.adzuna.com/land/ad/5823893750?se=jNL-TnGP8RG026BdxT_AqA&utm_medium=api&utm_source=f62da352&v=0A5CB99C43C9CA90FEEEB4BE705FEB44F603AC81"
     },
     "53aa9544de7e2993": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Stallings, Union County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662524?utm_medium=api&utm_source=f62da352"
     },
@@ -15557,7 +15587,7 @@
     "54cced68658f6906": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Castaic, Los Angeles County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -16000,7 +16030,7 @@
     "574ddceb3f3ded8b": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Kathwood, Lexington County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -17211,7 +17241,7 @@
     "5e3a5800bd956be7": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "San Diego, San Diego County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -17280,13 +17310,14 @@
       "url": "https://www.adzuna.com/details/5831536902?utm_medium=api&utm_source=f62da352"
     },
     "5e8b6dbff5007b6d": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Stallings, Union County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/details/5854662534?utm_medium=api&utm_source=f62da352"
     },
@@ -17305,7 +17336,7 @@
     "5ef57fa9ab1f6fb1": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Vero Beach, Indian River County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -18348,7 +18379,7 @@
     "63e12796366895fa": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Alexandria, Alexandria City",
       "slug": "adzuna",
       "source": "adzuna",
@@ -19103,7 +19134,7 @@
     "69aab7a89cd558a4": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Bossier City, Bossier Parish",
       "slug": "adzuna",
       "source": "adzuna",
@@ -19316,13 +19347,14 @@
       "url": "https://www.adzuna.com/land/ad/5849283919?se=rtx-E2Kc8RGNPOjEPgN71g&utm_medium=api&utm_source=f62da352&v=899518FDEA2F9433DCEC1A400437DFF11DF89B73"
     },
     "6ae9f24f19f90d1b": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Galena Park, Harris County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662449?utm_medium=api&utm_source=f62da352"
     },
@@ -21607,13 +21639,14 @@
       "url": "https://www.adzuna.com/land/ad/5812076031?se=gO_nhsqG8RG4J83nekfXWA&utm_medium=api&utm_source=f62da352&v=A7AE9825A3F2BC10E23B69603F9F1DBEE08EA823"
     },
     "7847c3a5f39aaefd": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Galena Park, Harris County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662442?utm_medium=api&utm_source=f62da352"
     },
@@ -21930,13 +21963,14 @@
       "url": "https://www.adzuna.com/land/ad/5823949597?se=uoZ-8aqN8RGv1eY0AXRckA&utm_medium=api&utm_source=f62da352&v=460B6D3251201AFE61FAFDB454434552745F7381"
     },
     "79a1b92ecca6e734": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Fern Park, Seminole County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/details/5854662462?utm_medium=api&utm_source=f62da352"
     },
@@ -22027,7 +22061,7 @@
     "7a203fec4e22abc5": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "East Lake-Orient Park, Hillsborough County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -22768,13 +22802,14 @@
       "url": "https://www.adzuna.com/land/ad/5823972264?se=4rq-4tuN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=C37E964987D562A65D63D0580A6CF0D6B4EE6CA6"
     },
     "7dd4833459e7132a": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Savannah Search Ltd",
       "first_seen": "2026-08-26T01:08:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Hayes Valley, San Francisco",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5855536716?se=-Orqo-qg8RG7j7TsS0oVjg&utm_medium=api&utm_source=f62da352&v=DECF3CBC412917D727F267BFB314A76AD98AAD7E"
     },
@@ -23069,7 +23104,7 @@
     "7f8b58a0c8ebb937": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Rincon, Pima County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -23522,13 +23557,14 @@
       "url": "https://www.adzuna.com/land/ad/5844119662?se=WITiyQea8RGqM9tlrK2FfQ&utm_medium=api&utm_source=f62da352&v=458B0F052B0324B4598AAAF836C601DE006E2CBE"
     },
     "823da13932ba3670": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "J.P. Morgan",
       "first_seen": "2026-08-26T01:08:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Columbus, Hempstead County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff - Lead Technical Program Manager",
       "url": "https://www.adzuna.com/land/ad/5855315987?se=-Orqo-qg8RG7j7TsS0oVjg&utm_medium=api&utm_source=f62da352&v=4D709F3DE1DE83E177D048A33EB19998B6831FE6"
     },
@@ -23737,13 +23773,14 @@
       "url": "https://www.adzuna.com/land/ad/5838691293?se=Tm0nzueW8RGBkclIi1idWA&utm_medium=api&utm_source=f62da352&v=3F14D98B26D8513A68D97A75824CB7E20047435E"
     },
     "830ec7b66263122b": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Gaithersburg, Montgomery County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/details/5854662438?utm_medium=api&utm_source=f62da352"
     },
@@ -23894,7 +23931,7 @@
     "844b570915baa4b3": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Jacksonville, Onslow County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -24385,7 +24422,7 @@
     "86809d60138424c3": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "La Canada, Los Angeles County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -25740,7 +25777,7 @@
     "8e50f797f8e3a41d": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Fruitland, Wicomico County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -25787,7 +25824,7 @@
     "8e669c616d5027dc": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Melbourne, Brevard County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -26890,7 +26927,7 @@
     "94054cdeae730a18": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Hebron, Wicomico County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -27501,7 +27538,7 @@
     "9798aed3d91ccc6b": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Salisbury, Wicomico County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -29132,7 +29169,7 @@
     "a0d0180e68aa6411": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Bodcau, Bossier Parish",
       "slug": "adzuna",
       "source": "adzuna",
@@ -29647,7 +29684,7 @@
     "a2fb10ff1555354b": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Smithfield, Isle of Wight County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -31768,13 +31805,14 @@
       "url": "https://www.adzuna.com/land/ad/5836537964?se=SO6IDk6W8RGBkclIi1idWA&utm_medium=api&utm_source=f62da352&v=14D49F7F3C3EC44A9C6C12397AEB8A1058536B58"
     },
     "ae608b40f335dafd": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Alexandria, Alexandria City",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662307?utm_medium=api&utm_source=f62da352"
     },
@@ -31971,13 +32009,14 @@
       "url": "https://www.adzuna.com/land/ad/5818205051?se=GECRNLmK8RGh4YMJCQ8cOQ&utm_medium=api&utm_source=f62da352&v=5522E3139FE5FA055F3F72E1AE904EC915E5C62C"
     },
     "afa81530989d4b22": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Bloomingdale, DuPage County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662528?utm_medium=api&utm_source=f62da352"
     },
@@ -32414,13 +32453,14 @@
       "url": "https://www.adzuna.com/details/5828868457?utm_medium=api&utm_source=f62da352"
     },
     "b2d13e66a95b8959": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Lake Magdalene, Hillsborough County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/details/5854662550?utm_medium=api&utm_source=f62da352"
     },
@@ -32821,13 +32861,14 @@
       "url": "https://www.adzuna.com/land/ad/5852302136?se=oO2z8bye8RG5-ZDfpkgYnw&utm_medium=api&utm_source=f62da352&v=0A6130BC3EFDD923E3DB7EA47B76D4225D28416C"
     },
     "b4808f05bd69d39b": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "City, Clark County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662370?utm_medium=api&utm_source=f62da352"
     },
@@ -33962,7 +34003,7 @@
     "bab4b970628a6668": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Murrieta Hot Springs, Riverside County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -34546,6 +34587,17 @@
       "title": "Pathology, Seeking Associate Chief of Staff (Physician) for Pathology and Laboratory Medicine at Sal",
       "url": "https://www.adzuna.com/land/ad/5815279588?se=_gxRW5qI8RGD29SMppWnXA&utm_medium=api&utm_source=f62da352&v=DD146277A24FFA75FD06889D34FAEAAEFEAFD134"
     },
+    "bd9f212659212d3f": {
+      "company": "Zayo",
+      "first_seen": "2026-08-26T06:42:39Z",
+      "last_seen": "2026-08-26T06:42:39Z",
+      "location": "Glendale, Denver",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Vice President, Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5856301476?se=qAROZhmh8RGjObRg0ZikqQ&utm_medium=api&utm_source=f62da352&v=A4CBA20F322AF4038F42008F82FC02BB27DE9877"
+    },
     "bdb1ac9cca8cff40": {
       "closed_at": "2026-07-24T08:23:51Z",
       "company": "Cicero Group",
@@ -35098,6 +35150,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5809402998?se=GDkh5jiF8RG974pouqc-_w&utm_medium=api&utm_source=f62da352&v=FBBF3CAE600B9CB5704C6EA51D01B4DC3DA5C901"
     },
+    "bffd93e965b8ccb1": {
+      "company": "GitLab",
+      "first_seen": "2026-08-26T06:42:39Z",
+      "last_seen": "2026-08-26T06:42:39Z",
+      "location": "US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, CRO",
+      "url": "https://www.adzuna.com/details/5856481096?utm_medium=api&utm_source=f62da352"
+    },
     "c0053f9d9640bc73": {
       "closed_at": "2026-08-21T18:32:33Z",
       "company": "Capital One",
@@ -35449,7 +35512,7 @@
     "c1e4d7fbcf046e4d": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Village of Golf, Palm Beach County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -36096,7 +36159,7 @@
     "c5b96413779e1c97": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Gilbert, Maricopa County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -37029,13 +37092,14 @@
       "url": "https://www.adzuna.com/land/ad/5837404766?se=Eg5BUR6W8RG5VMLygbg_Tg&utm_medium=api&utm_source=f62da352&v=A46FD9BDF85E1286989FBC18E0652E97F20487B4"
     },
     "cc12c73236bfa1c3": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Phoenix, Maricopa County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662453?utm_medium=api&utm_source=f62da352"
     },
@@ -37268,13 +37332,14 @@
       "url": "https://www.adzuna.com/land/ad/5823375929?se=7pNXR4GN8RG8DqYT68M2aw&utm_medium=api&utm_source=f62da352&v=7150F4EC642A2294DA2F9F083FC29FC79A936287"
     },
     "cde9c7e25c0cb315": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Greenville, Greenville County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662483?utm_medium=api&utm_source=f62da352"
     },
@@ -37746,6 +37811,17 @@
       "title": "Executive Director, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5847234100?se=bIUXA2qb8RGxz5jSBNBO0Q&utm_medium=api&utm_source=f62da352&v=CA167E466DC4D72B13624BF948DEDA3E0A526B19"
     },
+    "d041e8c2f5c1c7a9": {
+      "company": "A Caring Doctor",
+      "first_seen": "2026-08-26T06:42:39Z",
+      "last_seen": "2026-08-26T06:42:39Z",
+      "location": "US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff",
+      "url": "https://www.adzuna.com/details/5856462459?utm_medium=api&utm_source=f62da352"
+    },
     "d05a2df6215bcb25": {
       "closed_at": "2026-08-01T13:14:19Z",
       "company": "Akamai Technologies, Inc.",
@@ -37805,6 +37881,17 @@
       "status": "closed",
       "title": "Area Chief of Staff - Hudson Valley, NY",
       "url": "https://www.adzuna.com/land/ad/5836528671?se=UAYsN--V8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=3E9260310103699943ED81C5698D7541DCA191C0"
+    },
+    "d0960445dfef6f5d": {
+      "company": "J.P. Morgan",
+      "first_seen": "2026-08-26T06:42:39Z",
+      "last_seen": "2026-08-26T06:42:39Z",
+      "location": "Columbus, Hempstead County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff - Lead Technical Program Manager",
+      "url": "https://www.adzuna.com/land/ad/5855315987?se=TIx7Zxmh8RGpiqFjvy_2RQ&utm_medium=api&utm_source=f62da352&v=4D709F3DE1DE83E177D048A33EB19998B6831FE6"
     },
     "d0967ebf38ceb024": {
       "closed_at": "2026-07-17T19:03:43Z",
@@ -38745,7 +38832,7 @@
     "d63141d038ba6ee5": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Fallbrook, San Diego County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -38864,7 +38951,7 @@
     "d70c61e3cbf6d76c": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Knightdale, Wake County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -38947,7 +39034,7 @@
     "d815907996977f46": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Town Branch, Orange County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -39042,7 +39129,7 @@
     "d861ec95e948cc53": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "South Pasadena, Los Angeles County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -39077,7 +39164,7 @@
     "d88f299fdd08aa14": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Henderson, Clark County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -41128,7 +41215,7 @@
     "e3d59618538c83e4": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Newport News, Newport News City",
       "slug": "adzuna",
       "source": "adzuna",
@@ -42299,6 +42386,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844660066?se=phyHaGqa8RGoq93y-acWwA&utm_medium=api&utm_source=f62da352&v=6CEE2615F75CEAF897748001E9EB01C8387F6243"
+    },
+    "e9956fcc3c80f5de": {
+      "company": "HITT Contracting, Inc",
+      "first_seen": "2026-08-26T06:42:39Z",
+      "last_seen": "2026-08-26T06:42:39Z",
+      "location": "Falls Church City, Virginia",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff Manager",
+      "url": "https://www.adzuna.com/details/5856195505?utm_medium=api&utm_source=f62da352"
     },
     "e996e4e544db0976": {
       "closed_at": "2026-08-11T12:57:30Z",
@@ -43611,7 +43709,7 @@
     "f0cfc432b30b0209": {
       "company": "HouseholdStaffing",
       "first_seen": "2026-08-26T01:08:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Menlo Park, San Mateo County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -44462,7 +44560,7 @@
     "f5e279406077869b": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T06:41:17Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Boynton Beach, Palm Beach County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -44785,7 +44883,7 @@
     "f7d0d5e812408faf": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "San Marino, Los Angeles County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -45022,13 +45120,14 @@
       "url": "https://www.adzuna.com/land/ad/5853294914?se=_Iyj9-6e8RGWn-4_4VLIOw&utm_medium=api&utm_source=f62da352&v=758E0F2B9EEEF9EC0C22A67B52F9D90F8FD4D2D8"
     },
     "f8e7dba81425cd1f": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T06:41:17Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Oak View, Ventura County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662687?utm_medium=api&utm_source=f62da352"
     },
@@ -45107,7 +45206,7 @@
     "f92f56ff740c0e2d": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Lexington, Lexington County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -45214,7 +45313,7 @@
     "f9fdd97146830764": {
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
-      "last_seen": "2026-08-26T01:08:07Z",
+      "last_seen": "2026-08-26T06:42:39Z",
       "location": "Jacksonville, Onslow County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -45583,13 +45682,14 @@
       "url": "https://www.adzuna.com/land/ad/5821172314?se=QPpy60uM8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=199A04490DC7EEB48D141BF0D9B79456EF327702"
     },
     "fc8e1950aa7998eb": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Lexington, Lexington County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Veterinarian - Chief of Staff",
       "url": "https://www.adzuna.com/details/5854662546?utm_medium=api&utm_source=f62da352"
     },
@@ -45858,13 +45958,14 @@
       "url": "https://www.adzuna.com/land/ad/5827479267?se=pmN6gAOR8RGExO5K9raumQ&utm_medium=api&utm_source=f62da352&v=91F39010329D832CC1B2AF8277E314AB36F9307B"
     },
     "fe0d2365ecdbfe39": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Stratmoor Hills, El Paso County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662554?utm_medium=api&utm_source=f62da352"
     },
@@ -46025,13 +46126,14 @@
       "url": "https://www.adzuna.com/land/ad/5823970816?se=1M5paxqO8RGBm-nBsWM45g&utm_medium=api&utm_source=f62da352&v=AE0F9227D1957E8E39F6B91A427B275913CBDCBD"
     },
     "ff0dfb9b81dd12a9": {
+      "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
       "first_seen": "2026-08-25T01:06:07Z",
       "last_seen": "2026-08-26T01:08:07Z",
       "location": "Stratmoor Hills, El Paso County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/details/5854662519?utm_medium=api&utm_source=f62da352"
     },
@@ -46240,5 +46342,5 @@
       "url": "https://www.adzuna.com/details/5816410970?utm_medium=api&utm_source=f62da352"
     }
   },
-  "last_run": "2026-08-26T01:08:07Z"
+  "last_run": "2026-08-26T06:42:39Z"
 }
