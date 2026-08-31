@@ -214,7 +214,7 @@
     "01785973e82b6674": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Paradise, Clark County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -801,7 +801,7 @@
     "04245df7e478800d": {
       "company": "Scale AI",
       "first_seen": "2026-08-03T19:26:43Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Washington, DC",
       "slug": "scaleai",
       "source": "greenhouse",
@@ -1556,7 +1556,7 @@
     "07b5edf3864749bd": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Grand Central, Manhattan",
       "slug": "adzuna",
       "source": "adzuna",
@@ -2755,7 +2755,7 @@
     "0d21594767416937": {
       "company": "Oracle",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Nashville, Davidson County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -3858,7 +3858,7 @@
     "136f9ab75f6f6f95": {
       "company": "University of Arkansas Fayetteville",
       "first_seen": "2026-08-30T11:13:57Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Fayetteville, Washington County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -6497,7 +6497,7 @@
     "212e239add92a7e4": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Atlanta, Fulton County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -9422,13 +9422,14 @@
       "url": "https://www.adzuna.com/land/ad/5844845698?se=gMbtsKCa8RGB8rnM-OiTpQ&utm_medium=api&utm_source=f62da352&v=C8F58FB5F90F10F671EFE1E47D6ECBCB7D8151BE"
     },
     "2f3c5f6d4434b836": {
+      "closed_at": "2026-08-31T03:33:46Z",
       "company": "Alpha Medical Partners.",
       "first_seen": "2026-08-30T20:31:58Z",
       "last_seen": "2026-08-30T20:31:58Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Physician / Family Practice / Oklahoma / Permanent / Family Medicine; Chief of Staff and Collaborative Physician. Job",
       "url": "https://www.adzuna.com/land/ad/5862387603?se=TJBC4rGk8RGcfKYe_cIpvA&utm_medium=api&utm_source=f62da352&v=AB22846E47358865A0A30F946D72DC8B2957EF40"
     },
@@ -9915,7 +9916,7 @@
     "30d64e651f932fb0": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Scottsdale, Maricopa County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -10250,7 +10251,7 @@
     "324923ba02a86113": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Boise, Ada County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -10333,7 +10334,7 @@
     "329ea822e460d0af": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Wyoming, Kent County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -10404,7 +10405,7 @@
     "32fc204a9ff0bfd5": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Stamford, Fairfield County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -10595,7 +10596,7 @@
     "33b930d1e93ea7f3": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Concord, Merrimack County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -10638,6 +10639,17 @@
       "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850440678?se=3pFWPCud8RGhArhxtbtVlg&utm_medium=api&utm_source=f62da352&v=510D6B077EEC0A2FEEDD34A2E61B40DE0294935F"
+    },
+    "33deded2d26ebac4": {
+      "company": "MilSpec Talent",
+      "first_seen": "2026-08-31T03:33:46Z",
+      "last_seen": "2026-08-31T03:33:46Z",
+      "location": "Independence, Cuyahoga County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5862351948?se=EqSVz-yk8RGcfKYe_cIpvA&utm_medium=api&utm_source=f62da352&v=52183F9E67A3A2A8520EB0DD0594D059CAC17021"
     },
     "33df14ca76633457": {
       "closed_at": "2026-07-25T02:26:37Z",
@@ -12838,7 +12850,7 @@
     "3eb9492152abc56b": {
       "company": "Checkr",
       "first_seen": "2026-07-16T16:52:38Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "San Francisco, California, United States",
       "slug": "checkr",
       "source": "greenhouse",
@@ -12885,7 +12897,7 @@
     "3efe16b7bf62eeb4": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Charlotte, Mecklenburg County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -13436,7 +13448,7 @@
     "414e0ab11f7b5bcf": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Charleston, Kanawha County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -13771,7 +13783,7 @@
     "4279b48633634aa4": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Providence, Providence County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -14022,7 +14034,7 @@
     "434ae94a7bc06b40": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Bonnie, Utah County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -14081,7 +14093,7 @@
     "43b55e18e89a1bce": {
       "company": "NORY",
       "first_seen": "2026-08-30T11:13:57Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -14440,7 +14452,7 @@
     "454aa42a70fc6ac9": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Redstone Arsenal, Madison County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -15915,7 +15927,7 @@
     "4bf002a6dfa2eb0e": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Archer, Laramie County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -16632,13 +16644,14 @@
       "url": "https://www.adzuna.com/land/ad/5850433800?se=3pFWPCud8RGhArhxtbtVlg&utm_medium=api&utm_source=f62da352&v=37586C1CBB9EBFD9091B8044589D71D233F3A787"
     },
     "4f46d50f59487279": {
+      "closed_at": "2026-08-31T03:33:46Z",
       "company": "Validity",
       "first_seen": "2026-08-30T20:31:58Z",
       "last_seen": "2026-08-30T20:31:58Z",
       "location": "Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to the CTO",
       "url": "https://www.adzuna.com/land/ad/5862356854?se=TJBC4rGk8RGcfKYe_cIpvA&utm_medium=api&utm_source=f62da352&v=A75026605CF294C7D5E01EFD42110366F456E83A"
     },
@@ -18109,7 +18122,7 @@
     "564398c501ad8762": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Strathmoor Manor, Jefferson County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -19884,7 +19897,7 @@
     "5fd00aa7c2044e0f": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Benson, Douglas County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -21237,13 +21250,14 @@
       "url": "https://www.adzuna.com/land/ad/5842649180?se=5DRJ2deZ8RGXlua0wi23rg&utm_medium=api&utm_source=f62da352&v=05FBA2B0BF4A2A22B6EC64462C20EC4E37BBE62E"
     },
     "663e0ded6efe52e0": {
+      "closed_at": "2026-08-31T03:33:46Z",
       "company": "Department of Veterans Affairs",
       "first_seen": "2026-08-30T20:31:58Z",
       "last_seen": "2026-08-30T20:31:58Z",
       "location": "Creve Coeur, Saint Louis County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Associate Chief of Staff for Spinal Cord Injury - St. Louis, MO",
       "url": "https://www.adzuna.com/land/ad/5862399973?se=TJBC4rGk8RGcfKYe_cIpvA&utm_medium=api&utm_source=f62da352&v=41F9A5C15AA332F0F0D225516B2D25B2903CEE1F"
     },
@@ -21442,7 +21456,7 @@
     "67e88aa54cbcf140": {
       "company": "UT Health San Antonio",
       "first_seen": "2026-08-30T11:13:57Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Balcones Heights, Bexar County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -22017,7 +22031,7 @@
     "6adfa5573a31a2be": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Wellston, Saint Louis County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -22544,7 +22558,7 @@
     "6d7f140583c6b9c4": {
       "company": "Gridsight",
       "first_seen": "2026-08-30T11:13:57Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -23887,7 +23901,7 @@
     "7451ae5a1d479fa0": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Newark, Essex County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -25323,6 +25337,17 @@
       "title": "Chief of StaffEntrepreneur FavorBonds Remote",
       "url": "https://www.adzuna.com/details/5830245476?utm_medium=api&utm_source=f62da352"
     },
+    "7b1f7db2bd1cf147": {
+      "company": "Validity",
+      "first_seen": "2026-08-31T03:33:46Z",
+      "last_seen": "2026-08-31T03:33:46Z",
+      "location": "Boston, Suffolk County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to the CTO",
+      "url": "https://www.adzuna.com/land/ad/5862356854?se=EqSVz-yk8RGcfKYe_cIpvA&utm_medium=api&utm_source=f62da352&v=A75026605CF294C7D5E01EFD42110366F456E83A"
+    },
     "7b3f1a6c5bdf407f": {
       "closed_at": "2026-08-17T12:38:08Z",
       "company": "CVS Health",
@@ -26274,7 +26299,7 @@
     "7f10058b06128ee1": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "West Milwaukee, Milwaukee County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -26465,7 +26490,7 @@
     "800d5a67c9aa8de7": {
       "company": "Ceribell",
       "first_seen": "2026-08-30T11:13:57Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Sunnyvale, Santa Clara County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -27458,13 +27483,14 @@
       "url": "https://www.adzuna.com/land/ad/5856777057?se=VNQKD-eh8RGuQLai7eSWow&utm_medium=api&utm_source=f62da352&v=82F2CCF592B59A509FD762C321C7A3698274360C"
     },
     "84e7d296f71cf3d9": {
+      "closed_at": "2026-08-31T03:33:46Z",
       "company": "MilSpec Talent",
       "first_seen": "2026-08-30T20:31:58Z",
       "last_seen": "2026-08-30T20:31:58Z",
       "location": "Independence, Cuyahoga County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5862351948?se=TJBC4rGk8RGcfKYe_cIpvA&utm_medium=api&utm_source=f62da352&v=52183F9E67A3A2A8520EB0DD0594D059CAC17021"
     },
@@ -29715,7 +29741,7 @@
     "8f7336bbbaef75c9": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Grandview Heights, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -30254,7 +30280,7 @@
     "91ee45363ad2409d": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Saint Paul, Ramsey County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -30769,7 +30795,7 @@
     "943ba18e6fbd8363": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "International, King County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -32352,7 +32378,7 @@
     "9cdd4e9b918a0f07": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Bismarck, Burleigh County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -33827,7 +33853,7 @@
     "a2ff892e3f2409fb": {
       "company": "Indeed",
       "first_seen": "2026-08-30T11:13:57Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Eagle River, Anchorage",
       "slug": "adzuna",
       "source": "adzuna",
@@ -33838,7 +33864,7 @@
     "a3016e9c6d4a9ab3": {
       "company": "January",
       "first_seen": "2026-08-30T11:13:57Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -33873,7 +33899,7 @@
     "a32be48c096e04e4": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Kansas City, Wyandotte County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -35080,6 +35106,17 @@
       "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850364890?se=3pFWPCud8RGhArhxtbtVlg&utm_medium=api&utm_source=f62da352&v=59892CF0BD8774D3031FA8B24863132E52A76EAA"
+    },
+    "a9a8df37b4ef38be": {
+      "company": "Department of Veterans Affairs",
+      "first_seen": "2026-08-31T03:33:46Z",
+      "last_seen": "2026-08-31T03:33:46Z",
+      "location": "Creve Coeur, Saint Louis County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Associate Chief of Staff for Spinal Cord Injury - St. Louis, MO",
+      "url": "https://www.adzuna.com/land/ad/5862399973?se=EqSVz-yk8RGcfKYe_cIpvA&utm_medium=api&utm_source=f62da352&v=41F9A5C15AA332F0F0D225516B2D25B2903CEE1F"
     },
     "a9b727c1b419624f": {
       "closed_at": "2026-08-08T12:41:25Z",
@@ -37064,7 +37101,7 @@
     "b32eaabcdd58b8e3": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -37565,13 +37602,14 @@
       "url": "https://www.adzuna.com/land/ad/5847982572?se=NmmWKvyb8RGdxYCL9JBsFw&utm_medium=api&utm_source=f62da352&v=A5B07980D2B5331126D7EEC483EA534C91923427"
     },
     "b5850bc3b409962a": {
+      "closed_at": "2026-08-31T03:33:46Z",
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
       "last_seen": "2026-08-30T20:31:58Z",
       "location": "Cammack Village, Pulaski County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to the CMO",
       "url": "https://www.adzuna.com/details/5861830853?utm_medium=api&utm_source=f62da352"
     },
@@ -37974,7 +38012,7 @@
     "b743289dea82adfd": {
       "company": "Lonza",
       "first_seen": "2026-08-30T11:13:57Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Houston, Harris County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -38165,7 +38203,7 @@
     "b80ee3356e7dd861": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Detroit, Wayne County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -40336,7 +40374,7 @@
     "c12b9711bd314c68": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Glendale, Denver",
       "slug": "adzuna",
       "source": "adzuna",
@@ -40515,7 +40553,7 @@
     "c1ee572d35677b91": {
       "company": "ReturnPro",
       "first_seen": "2026-08-30T11:13:57Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Aventura, Miami-Dade County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -41222,7 +41260,7 @@
     "c5942d1d9369a7aa": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Sioux Falls, Minnehaha County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -41517,6 +41555,17 @@
       "status": "closed",
       "title": "Chief of Staff to the CEO",
       "url": "https://www.adzuna.com/land/ad/5809427465?se=_vFz5TiF8RGgQcTn0fwhJg&utm_medium=api&utm_source=f62da352&v=66BD42ECB208E5E44715D6418C0303F602E1C634"
+    },
+    "c701c94bb1d1e574": {
+      "company": "Department of Veterans Affairs",
+      "first_seen": "2026-08-31T03:33:46Z",
+      "last_seen": "2026-08-31T03:33:46Z",
+      "location": "Creve Coeur, Saint Louis County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Associate Chief of Staff for Spinal Cord Injury - St. Louis, MO - 54 Days Paid Time Off!",
+      "url": "https://www.adzuna.com/land/ad/5862406002?se=EqSVz-yk8RGcfKYe_cIpvA&utm_medium=api&utm_source=f62da352&v=9346D9357A83D47B76CCAAF8ED084CC823DC72D7"
     },
     "c705f9712bd4131d": {
       "closed_at": "2026-08-25T01:06:07Z",
@@ -42205,7 +42254,7 @@
     "cb581dbde85afe2e": {
       "company": "Omnicell",
       "first_seen": "2026-08-30T11:13:57Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -43944,7 +43993,7 @@
     "d49eb1e4e6ff85d9": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Portland, Multnomah County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -45467,7 +45516,7 @@
     "dc2212e3bb795384": {
       "company": "Madison Collective",
       "first_seen": "2026-08-30T11:13:57Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -46630,7 +46679,7 @@
     "e2408ba86def21d5": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Winooski, Chittenden County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -47385,7 +47434,7 @@
     "e55edc042ad03fcb": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Washington, D.C., US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -48392,7 +48441,7 @@
     "e9da9b3935e2b724": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Baton Rouge, East Baton Rouge Parish",
       "slug": "adzuna",
       "source": "adzuna",
@@ -49579,7 +49628,7 @@
     "ef394a58a4c752af": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Nashville, Davidson County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -49902,7 +49951,7 @@
     "f0a5250dc67bb6f4": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Jackson, Hinds County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -50069,7 +50118,7 @@
     "f1c5d5832d8502fb": {
       "company": "Indeed",
       "first_seen": "2026-08-30T20:31:58Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Oklahoma City, Oklahoma County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -51374,13 +51423,14 @@
       "url": "https://www.adzuna.com/land/ad/5809429546?se=Piw20dOF8RG2PfKsnVmRFg&utm_medium=api&utm_source=f62da352&v=EACCA1F24CAAFA6C2EC216B294E9E060702C5327"
     },
     "f8093e08d419421e": {
+      "closed_at": "2026-08-31T03:33:46Z",
       "company": "Department of Veterans Affairs",
       "first_seen": "2026-08-30T20:31:58Z",
       "last_seen": "2026-08-30T20:31:58Z",
       "location": "Creve Coeur, Saint Louis County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Associate Chief of Staff for Spinal Cord Injury - St. Louis, MO - 54 Days Paid Time Off!",
       "url": "https://www.adzuna.com/land/ad/5862406002?se=TJBC4rGk8RGcfKYe_cIpvA&utm_medium=api&utm_source=f62da352&v=9346D9357A83D47B76CCAAF8ED084CC823DC72D7"
     },
@@ -51567,7 +51617,7 @@
     "f8bfb3d0db6f75bf": {
       "company": "Envision Consulting",
       "first_seen": "2026-08-30T11:13:57Z",
-      "last_seen": "2026-08-30T20:31:58Z",
+      "last_seen": "2026-08-31T03:33:46Z",
       "location": "Los Angeles, Los Angeles County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -53076,5 +53126,5 @@
       "url": "https://www.adzuna.com/details/5816410970?utm_medium=api&utm_source=f62da352"
     }
   },
-  "last_run": "2026-08-30T20:31:58Z"
+  "last_run": "2026-08-31T03:33:46Z"
 }
