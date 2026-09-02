@@ -874,7 +874,7 @@
     "04245df7e478800d": {
       "company": "Scale AI",
       "first_seen": "2026-08-03T19:26:43Z",
-      "last_seen": "2026-09-02T10:36:34Z",
+      "last_seen": "2026-09-02T15:56:37Z",
       "location": "Washington, DC",
       "slug": "scaleai",
       "source": "greenhouse",
@@ -6438,6 +6438,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5861735515?utm_medium=api&utm_source=f62da352"
     },
+    "1f42d543041aa7fd": {
+      "company": "Hayden AI",
+      "first_seen": "2026-09-02T15:56:37Z",
+      "last_seen": "2026-09-02T15:56:37Z",
+      "location": "San Francisco, California",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/details/5867061591?utm_medium=api&utm_source=f62da352"
+    },
     "1f54d37c7fbfd09f": {
       "closed_at": "2026-07-17T02:26:36Z",
       "company": "US Mobile",
@@ -9222,6 +9233,17 @@
       "title": "Chief of Staff, Communications",
       "url": "https://www.adzuna.com/land/ad/5811716211?se=DOTjI3CG8RGbGoMv58FbYQ&utm_medium=api&utm_source=f62da352&v=B4BAD953AC31DEF9F0F59588532B99FD3CCF8618"
     },
+    "2c54604e85e9c655": {
+      "company": "Quindar",
+      "first_seen": "2026-09-02T15:56:37Z",
+      "last_seen": "2026-09-02T15:56:37Z",
+      "location": "Denver, Colorado",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/details/5867135854?utm_medium=api&utm_source=f62da352"
+    },
     "2c58d4e6c1eafd1c": {
       "closed_at": "2026-08-30T16:00:52Z",
       "company": "Indeed",
@@ -10387,13 +10409,14 @@
       "url": "https://www.adzuna.com/details/5812300210?utm_medium=api&utm_source=f62da352"
     },
     "30d230ae44a6f3cc": {
+      "closed_at": "2026-09-02T15:56:37Z",
       "company": "Microsoft Corporation",
       "first_seen": "2026-09-02T10:36:34Z",
       "last_seen": "2026-09-02T10:36:34Z",
       "location": "Redmond, King County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Business Manager, Chief of Staff Team",
       "url": "https://www.adzuna.com/land/ad/5866611891?se=9OXHNrqm8RGkFMd8pf0Upw&utm_medium=api&utm_source=f62da352&v=CFCAFED17593D134EEC21635CD74B58693630A3B"
     },
@@ -11480,7 +11503,7 @@
     "355242a160de9e9f": {
       "company": "Amgen",
       "first_seen": "2026-09-02T10:36:34Z",
-      "last_seen": "2026-09-02T10:36:34Z",
+      "last_seen": "2026-09-02T15:56:37Z",
       "location": "Thousand Oaks, Ventura County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -11779,7 +11802,7 @@
     "36dd421d5f3a6273": {
       "company": "GiveWell",
       "first_seen": "2026-09-02T10:36:34Z",
-      "last_seen": "2026-09-02T10:36:34Z",
+      "last_seen": "2026-09-02T15:56:37Z",
       "location": "International, King County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -13434,7 +13457,7 @@
     "3eb9492152abc56b": {
       "company": "Checkr",
       "first_seen": "2026-07-16T16:52:38Z",
-      "last_seen": "2026-09-02T10:36:34Z",
+      "last_seen": "2026-09-02T15:56:37Z",
       "location": "San Francisco, California, United States",
       "slug": "checkr",
       "source": "greenhouse",
@@ -17873,7 +17896,7 @@
     "5189dea678e54d4a": {
       "company": "Kyndryl",
       "first_seen": "2026-09-02T10:36:34Z",
-      "last_seen": "2026-09-02T10:36:34Z",
+      "last_seen": "2026-09-02T15:56:37Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -23452,7 +23475,7 @@
     "6cd31b8fc6495b9d": {
       "company": "UBS",
       "first_seen": "2026-09-02T10:36:34Z",
-      "last_seen": "2026-09-02T10:36:34Z",
+      "last_seen": "2026-09-02T15:56:37Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -27699,7 +27722,7 @@
     "8001c1cb6c2f9667": {
       "company": "Microsoft",
       "first_seen": "2026-09-02T10:36:34Z",
-      "last_seen": "2026-09-02T10:36:34Z",
+      "last_seen": "2026-09-02T15:56:37Z",
       "location": "Redmond, King County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -29954,7 +29977,7 @@
     "8a410a297e6f72dc": {
       "company": "Nooks",
       "first_seen": "2026-09-02T10:36:34Z",
-      "last_seen": "2026-09-02T10:36:34Z",
+      "last_seen": "2026-09-02T15:56:37Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -30229,7 +30252,7 @@
     "8b6171c443e12b50": {
       "company": "DeKalb County School District",
       "first_seen": "2026-09-02T10:36:34Z",
-      "last_seen": "2026-09-02T10:36:34Z",
+      "last_seen": "2026-09-02T15:56:37Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -32876,6 +32899,17 @@
       "status": "closed",
       "title": "Veterinarian - Chief of Staff",
       "url": "https://www.adzuna.com/details/5854662793?utm_medium=api&utm_source=f62da352"
+    },
+    "97a6008a90fe9e42": {
+      "company": "Acxiom",
+      "first_seen": "2026-09-02T15:56:37Z",
+      "last_seen": "2026-09-02T15:56:37Z",
+      "location": "Concord, Merrimack County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5867210751?se=_ikk9uam8RG9hZZomVLVEQ&utm_medium=api&utm_source=f62da352&v=26C5A9A43969F6F3FCC990B8487514B1D5E3EB22"
     },
     "97d453b172c76dbc": {
       "closed_at": "2026-08-12T07:20:22Z",
@@ -42513,6 +42547,17 @@
       "title": "Director of Personal Affairs/Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5822099590?se=furqBxWN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=1B1469AA8E9FC9296DE3347D5252A0D9D8F11EE1"
     },
+    "c2fb389758b30b5a": {
+      "company": "Onto Innovation",
+      "first_seen": "2026-09-02T15:56:37Z",
+      "last_seen": "2026-09-02T15:56:37Z",
+      "location": "Milpitas, Santa Clara County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Office of COO",
+      "url": "https://www.adzuna.com/details/5867120505?utm_medium=api&utm_source=f62da352"
+    },
     "c30028755ebc73ca": {
       "closed_at": "2026-07-26T19:06:27Z",
       "company": "Anza Mortgage Insurance Corporation",
@@ -49881,6 +49926,17 @@
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823967506?se=kEXZBkuO8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=D20103A44C17AEE953C3247B97AE1DFA022A99B6"
     },
+    "e72e249f4d653378": {
+      "company": "Thrive Global",
+      "first_seen": "2026-09-02T15:56:37Z",
+      "last_seen": "2026-09-02T15:56:37Z",
+      "location": "US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Strategic Health Partnerships",
+      "url": "https://www.adzuna.com/details/5867104506?utm_medium=api&utm_source=f62da352"
+    },
     "e7378573423e28bf": {
       "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
@@ -51584,6 +51640,17 @@
       "status": "closed",
       "title": "Chief of Staff to the CMO",
       "url": "https://www.adzuna.com/land/ad/5861856385?se=sqjm72Ok8RGEeLI7Dotn4Q&utm_medium=api&utm_source=f62da352&v=432F3EE15B652885AFB76AA40B4A1BC6CDA03FFB"
+    },
+    "eeb2a00b4e02ade7": {
+      "company": "Microsoft Corporation",
+      "first_seen": "2026-09-02T15:56:37Z",
+      "last_seen": "2026-09-02T15:56:37Z",
+      "location": "Redmond, King County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Business Manager, Chief of Staff Team",
+      "url": "https://www.adzuna.com/land/ad/5866611891?se=kMMj-Oam8RGqNICNaauOJg&utm_medium=api&utm_source=f62da352&v=CFCAFED17593D134EEC21635CD74B58693630A3B"
     },
     "eec359e471499121": {
       "closed_at": "2026-08-13T18:59:22Z",
@@ -55354,5 +55421,5 @@
       "url": "https://www.adzuna.com/details/5816410970?utm_medium=api&utm_source=f62da352"
     }
   },
-  "last_run": "2026-09-02T10:36:34Z"
+  "last_run": "2026-09-02T15:56:37Z"
 }
