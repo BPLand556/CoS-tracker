@@ -574,7 +574,7 @@
     "02f116d7a9b26ac9": {
       "company": "Sitreps",
       "first_seen": "2026-09-06T10:14:34Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "Portland, Multnomah County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -921,7 +921,7 @@
     "04245df7e478800d": {
       "company": "Scale AI",
       "first_seen": "2026-08-03T19:26:43Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "Washington, DC",
       "slug": "scaleai",
       "source": "greenhouse",
@@ -1040,7 +1040,7 @@
     "04a0d73fcc928bf5": {
       "company": "Headway",
       "first_seen": "2026-09-05T14:33:57Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -1095,6 +1095,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5812335994?utm_medium=api&utm_source=f62da352"
+    },
+    "04eb865f7ae90903": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Olde Farm, Cumberland County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874259088?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=D4831F519BBD0D70498CA78E630B23CA15BC38BE"
     },
     "04eba0d008b5f492": {
       "closed_at": "2026-08-01T02:33:50Z",
@@ -2727,6 +2738,17 @@
       "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5821915153?se=furqBxWN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=C6F59BCD6365866FED16F55A39E405890E0C26D3"
+    },
+    "0b5231ee152e2f29": {
+      "company": "Siemens",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Eagle Rock, Wake County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director of Operational Transformation & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5871936807?se=jr7OcN-q8RG84Z70Fx4EkA&utm_medium=api&utm_source=f62da352&v=25B0056C0A605099E29DBDC664CBE993442265B9"
     },
     "0b581f18818ddca6": {
       "closed_at": "2026-07-31T08:45:43Z",
@@ -4492,6 +4514,17 @@
       "title": "Chief of Staff / EA",
       "url": "https://www.adzuna.com/land/ad/5865152130?se=jNnEKUSm8RGUNa3mkcr13g&utm_medium=api&utm_source=f62da352&v=3D4FE96BA0CE4A3460358A97C3481E7E5FA58D77"
     },
+    "13a146a6435c9046": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Schiller Park, Cook County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874215826?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=D51E1AD134AA4BBCB0D1E1C17E396EDADCA4F169"
+    },
     "13a3162029bd51a0": {
       "closed_at": "2026-08-06T23:55:58Z",
       "company": "Hawks Prairie Veterinary Hospital",
@@ -4623,6 +4656,17 @@
       "status": "closed",
       "title": "Strategic Chief of Staff to the Superintendent (, GA, United States)",
       "url": "https://www.adzuna.com/land/ad/5825288557?se=Kvy3BEuO8RGX2L3R0S5OZA&utm_medium=api&utm_source=f62da352&v=0D6AD6562B98BF99F3B77F05319779BA4605E445"
+    },
+    "140cd84ce66f68b0": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Orange, Orange County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff Veterinarian",
+      "url": "https://www.adzuna.com/land/ad/5874246719?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=2922DA04182F53D6BFDA608A6D01E6A811017F37"
     },
     "140e8b1e537b4c6e": {
       "closed_at": "2026-07-22T02:26:22Z",
@@ -5527,7 +5571,7 @@
     "1836cab359b11ce9": {
       "company": "AdventHealth",
       "first_seen": "2026-09-06T14:54:31Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "Westmont, DuPage County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -6148,13 +6192,14 @@
       "url": "https://www.adzuna.com/land/ad/5836568613?se=UAYsN--V8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=3001FE9CD4E3920D8AFA4A147CD307E9DF7B04DE"
     },
     "1afb42a5d9f2bc13": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Siemens",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Eagle Rock, Wake County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director of Operational Transformation & Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5871936807?se=6OzG_K-q8RGogquEo3zAlQ&utm_medium=api&utm_source=f62da352&v=25B0056C0A605099E29DBDC664CBE993442265B9"
     },
@@ -6554,6 +6599,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5803650445?se=KOBrBE6C8RG9RJh7OG-Znw&utm_medium=api&utm_source=f62da352&v=30B10136D9FFA9790C245CBDB43E2DC67FE87C91"
     },
+    "1d1bf5b1d1129c80": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Grand Terrace, San Bernardino County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff Veterinarian",
+      "url": "https://www.adzuna.com/land/ad/5874246851?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=5055E423E23A7A815D7BB586F7A4CDA63A78A677"
+    },
     "1d2335dbc409ddd8": {
       "closed_at": "2026-08-17T06:49:10Z",
       "company": "NetApp",
@@ -6745,6 +6801,17 @@
       "status": "closed",
       "title": "Executive Director, Health 100 Product & Engineering Chief of Staff",
       "url": "https://www.adzuna.com/details/5802509769?utm_medium=api&utm_source=f62da352"
+    },
+    "1dcf2d87d55b825e": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Fairfield, Beaufort County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff - Veterinarian",
+      "url": "https://www.adzuna.com/land/ad/5874212182?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=C2825FC8959FD13D951FFB23B8BDAF27AA4E8D6A"
     },
     "1de6974112a8d6aa": {
       "closed_at": "2026-08-17T18:35:00Z",
@@ -7370,6 +7437,17 @@
       "title": "Vice President, Chief of Staff to the CEO",
       "url": "https://www.adzuna.com/land/ad/5823375721?se=jox5MKWO8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=2FA076AC1040ED184F8FE3265780789FAB2D1082"
     },
+    "20bfa66ae4d3a9d6": {
+      "company": "Hewlett Packard Enterprise Development LP",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Spring, Harris County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to the Chief People Officer (Spring)",
+      "url": "https://www.adzuna.com/land/ad/5874284214?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=0FC751D9588B142AC3B3DF8F1710DF78EF7ADB70"
+    },
     "20ca905b43ad75aa": {
       "closed_at": "2026-09-04T20:15:32Z",
       "company": "UT Health San Antonio",
@@ -7429,6 +7507,17 @@
       "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823971426?se=zr4i5NuN8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=F96917851902455FA776D292D7C53C74C310BE72"
+    },
+    "21088d39eb3183e9": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Balboa, Orange County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff Veterinarian",
+      "url": "https://www.adzuna.com/land/ad/5874255981?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=3F11E95E91AFA328137FC3A061951779DE4B40B1"
     },
     "21241b1e52def982": {
       "closed_at": "2026-09-02T02:49:30Z",
@@ -9675,13 +9764,14 @@
       "url": "https://www.adzuna.com/land/ad/5825811150?se=-DN0I6qP8RGUJ9E-CkcFeg&utm_medium=api&utm_source=f62da352&v=69DCD296B7EAFACB8A4B2D894BA0861AA552CFFC"
     },
     "29fd1acbef58bbcb": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Banfield Pet Hospital",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Portland, Multnomah County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5874015309?se=XJHi-q-q8RGS9tX3gPU9Ng&utm_medium=api&utm_source=f62da352&v=75A5ED9E265D4A8429C5D4BDF4C8BBAFD7ECD225"
     },
@@ -10032,6 +10122,17 @@
       "status": "closed",
       "title": "Chief of Staff: Strategy, Integrations & Growth",
       "url": "https://www.adzuna.com/land/ad/5865146466?se=jNnEKUSm8RGUNa3mkcr13g&utm_medium=api&utm_source=f62da352&v=7AF7202D93E2606FF4FAAFB9F6DF3DD80F2FF92B"
+    },
+    "2b9db60eec14412b": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "San Gabriel, Los Angeles County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff Veterinarian",
+      "url": "https://www.adzuna.com/land/ad/5874230602?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=A3C10F1AF0CD864361F82789D5B1628AB00D77E0"
     },
     "2ba7387c7ec62666": {
       "closed_at": "2026-08-05T08:31:05Z",
@@ -10396,7 +10497,7 @@
     "2cfa05cf8e43647f": {
       "company": "Seattle University",
       "first_seen": "2026-09-06T14:54:31Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -11929,13 +12030,14 @@
       "url": "https://www.adzuna.com/details/5861857271?utm_medium=api&utm_source=f62da352"
     },
     "3250c21a94b4374c": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Capital One",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Grand Central, Manhattan",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Associate, Chief of Staff - Global Payments Network",
       "url": "https://www.adzuna.com/land/ad/5871834932?se=6OzG_K-q8RGogquEo3zAlQ&utm_medium=api&utm_source=f62da352&v=4E30B45964E13BE18AC6179474F96196749D606C"
     },
@@ -12083,6 +12185,17 @@
       "title": "Strategy and Operations Lead, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5822930605?se=KPS6eVGN8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=765E3C1AF0C9EDA0315DDFCDC7B43F89CB05F169"
     },
+    "32e91f0b98cc70d2": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Hometown, Cook County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874242718?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=C2BE642DCD228C77F05432AABDBAC91F818B8BC7"
+    },
     "32fc204a9ff0bfd5": {
       "closed_at": "2026-09-01T03:31:25Z",
       "company": "Indeed",
@@ -12204,13 +12317,14 @@
       "url": "https://www.adzuna.com/details/5830897047?utm_medium=api&utm_source=f62da352"
     },
     "337148fde53dc006": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Northrop Grumman",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Druid, Baltimore",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff - Manager Project Management 1",
       "url": "https://www.adzuna.com/land/ad/5871843853?se=6OzG_K-q8RGogquEo3zAlQ&utm_medium=api&utm_source=f62da352&v=F21C1AD6933DDC0575AAD7FECED0D2CB42A118B7"
     },
@@ -13103,13 +13217,14 @@
       "url": "https://www.adzuna.com/land/ad/5847207284?se=bIUXA2qb8RGxz5jSBNBO0Q&utm_medium=api&utm_source=f62da352&v=8545B4EAEFD57C19C0877F86301973E20787D72E"
     },
     "379cde6dc5175001": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Capital One",
       "first_seen": "2026-09-05T14:33:57Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Capitol, Richmond",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Associate, Chief of Staff - Global Payments Network",
       "url": "https://www.adzuna.com/details/5871824479?utm_medium=api&utm_source=f62da352"
     },
@@ -14386,13 +14501,14 @@
       "url": "https://www.adzuna.com/land/ad/5821044540?se=NA8y7EuM8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=D004C80D0C5F9A2455166A03F76F3ABEB9C87BAB"
     },
     "3d03edd1ce6fa5dd": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Career Group",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to Tech Founder",
       "url": "https://www.adzuna.com/land/ad/5873267892?se=XJHi-q-q8RGS9tX3gPU9Ng&utm_medium=api&utm_source=f62da352&v=118B19C86585C5167E33384426647A5A7BCD4F07"
     },
@@ -14588,6 +14704,17 @@
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/details/5860176649?utm_medium=api&utm_source=f62da352"
     },
+    "3da50725ff058b9b": {
+      "company": "NYC KIDS RISE",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "New York City, New York",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874301988?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=533E3E6DB73C254426E416CBD674C693B0240416"
+    },
     "3db7a5595c2f24c0": {
       "closed_at": "2026-08-11T12:57:30Z",
       "company": "East Central College",
@@ -14663,7 +14790,7 @@
     "3e0ceec7abee91a1": {
       "company": "Hewlett Packard Enterprise",
       "first_seen": "2026-09-06T10:14:34Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "Spring, Harris County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -14672,13 +14799,14 @@
       "url": "https://www.adzuna.com/details/5872901125?utm_medium=api&utm_source=f62da352"
     },
     "3e0e79a9968475e2": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Mission Pet Health",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Baton Rouge, East Baton Rouge Parish",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5873149115?se=XJHi-q-q8RGS9tX3gPU9Ng&utm_medium=api&utm_source=f62da352&v=1839A17B09F3FF202AE21DC6FA7245925678CDE6"
     },
@@ -14913,7 +15041,7 @@
     "3eb9492152abc56b": {
       "company": "Checkr",
       "first_seen": "2026-07-16T16:52:38Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "San Francisco, California, United States",
       "slug": "checkr",
       "source": "greenhouse",
@@ -17645,6 +17773,17 @@
       "title": "Marketing Analytics Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5829649967?se=uF7yQXGR8RGAH5Uy5zPJIg&utm_medium=api&utm_source=f62da352&v=158EAB24394459AA37E4EBAA1866226846C58041"
     },
+    "48ccbbf50dfc31d8": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "South Pasadena, Los Angeles County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff Veterinarian",
+      "url": "https://www.adzuna.com/land/ad/5874232245?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=BD4A223A8116408C70CC55B14461F3F94FB67749"
+    },
     "48d268ea968f9ece": {
       "closed_at": "2026-08-06T23:55:58Z",
       "company": "Shell Lubricants Hub Hamburg",
@@ -17754,13 +17893,14 @@
       "url": "https://www.adzuna.com/land/ad/5809410103?se=Piw20dOF8RG2PfKsnVmRFg&utm_medium=api&utm_source=f62da352&v=E6017D31A94EF285E93339E0B8224A81D1F5C80E"
     },
     "492bffb1d28e24a8": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "CUNY",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Grand Central, Manhattan",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to the Senior Vice Chancellor for Budget, Finance and Labor Relations, and CFO",
       "url": "https://www.adzuna.com/land/ad/5871797564?se=6OzG_K-q8RGogquEo3zAlQ&utm_medium=api&utm_source=f62da352&v=CAFDE643A03533841642F314866A4F3CC846DE9F"
     },
@@ -17983,7 +18123,7 @@
     "49f50782aa2c3043": {
       "company": "JPMorgan Chase Bank, N.A.",
       "first_seen": "2026-09-06T02:53:19Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "Summit Avenue, Hudson County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -18964,13 +19104,14 @@
       "url": "https://www.adzuna.com/land/ad/5868335145?se=IIXywYOn8RGxLcPzt0M5RA&utm_medium=api&utm_source=f62da352&v=3C9B34D6D4C00C8906ECB3FFEA9ADE96E3E47DFB"
     },
     "4dc1e3ff2aa04d9f": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Capital One",
       "first_seen": "2026-09-05T14:33:57Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Bannockburn, Lake County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Associate, Chief of Staff - Global Payments Network",
       "url": "https://www.adzuna.com/details/5871812430?utm_medium=api&utm_source=f62da352"
     },
@@ -19862,6 +20003,17 @@
       "title": "Chief of Staff to the CIO",
       "url": "https://www.adzuna.com/details/5866692473?utm_medium=api&utm_source=f62da352"
     },
+    "51a473d219d8f2a6": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Smithfield, Isle of Wight County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874214748?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=6D08A7B77214535B9DBD157BB5C2654C650AAAB3"
+    },
     "51ab0346f7826d13": {
       "closed_at": "2026-08-09T06:52:00Z",
       "company": "Google",
@@ -19921,6 +20073,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5834298805?utm_medium=api&utm_source=f62da352"
+    },
+    "51f428fe5b780a00": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Bryte, Yolo County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "AREA CHIEF OF STAFF",
+      "url": "https://www.adzuna.com/land/ad/5874229544?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=636195540DEAEAC1B00BDCED2A0B479CFBC04272"
     },
     "51f62c0fd5542089": {
       "closed_at": "2026-08-18T01:03:37Z",
@@ -20127,13 +20290,14 @@
       "url": "https://www.adzuna.com/details/5832588481?utm_medium=api&utm_source=f62da352"
     },
     "52c565071b8891f4": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Google",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Mountain View, Santa Clara County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Product Strategy and Operations Chief of Staff and External Engagement Lead, Google Education",
       "url": "https://www.adzuna.com/land/ad/5871799143?se=6OzG_K-q8RGogquEo3zAlQ&utm_medium=api&utm_source=f62da352&v=779E2811C9A009515D0BAB762662A0FCB7D26507"
     },
@@ -22117,6 +22281,17 @@
       "title": "Chief of Staff & Strategy Executive",
       "url": "https://www.adzuna.com/land/ad/5865097671?se=Stnc9nim8RG5At0T0GlLXQ&utm_medium=api&utm_source=f62da352&v=052A1308A612373352B26FF68002735A612ED3E1"
     },
+    "5b14221f09337ed1": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Tampa Palms, Hillsborough County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874241295?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=D8ABC521DD11D2A3870AAA8458F04C9986F04501"
+    },
     "5b2cf4032463b7b0": {
       "closed_at": "2026-08-09T01:26:21Z",
       "company": "A+ Personnel",
@@ -22800,6 +22975,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5863482950?se=TkC0pbWl8RGS6e_oRoerSw&utm_medium=api&utm_source=f62da352&v=72A0FA8E2C6C6A5F3CC646F24CE0DCCD94888EB4"
+    },
+    "5e2c938e4ee42cf8": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Apex, Wake County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874212185?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=F22FB043DBF5AC39A361FA9C24B513D212AC2EF4"
     },
     "5e36b50e439f14df": {
       "closed_at": "2026-09-02T02:49:30Z",
@@ -24412,7 +24598,7 @@
     "64306f63b299f074": {
       "company": "Curaleaf",
       "first_seen": "2026-09-06T10:14:34Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "Stamford, Fairfield County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -25501,13 +25687,14 @@
       "url": "https://www.adzuna.com/land/ad/5857968031?se=4gQrzMKi8RGrBvooV1Y1sg&utm_medium=api&utm_source=f62da352&v=65274852B8E221A4C1BAE79A79A86E460A8711BE"
     },
     "6a52ae22dff87647": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Mission Pet Health",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Birmingham, Jefferson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5873229806?se=XJHi-q-q8RGS9tX3gPU9Ng&utm_medium=api&utm_source=f62da352&v=427AA2A1D73F50B448C7FE1BB5088AC8C3DDBE6C"
     },
@@ -26002,6 +26189,17 @@
       "status": "closed",
       "title": "Chief of Staff Manager",
       "url": "https://www.adzuna.com/land/ad/5852280472?se=IhR7Ro-e8RG7FqwGZNpjXw&utm_medium=api&utm_source=f62da352&v=2FB3C941A682F99EA32C4BCBE89A2DA368533B5E"
+    },
+    "6c7a5e09277899c5": {
+      "company": "Precision Biosciences",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Durham, Durham County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff & Investor Relations Lead",
+      "url": "https://www.adzuna.com/land/ad/5874303258?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=77ADD6ED057293E724E5F2574BD7E17AFAB3E078"
     },
     "6c87fbbdc0364051": {
       "closed_at": "2026-09-02T02:49:30Z",
@@ -26498,7 +26696,7 @@
     "6e6029a816854f4a": {
       "company": "Giga",
       "first_seen": "2026-09-06T10:14:34Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "California, US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -26877,6 +27075,17 @@
       "status": "closed",
       "title": "Chief of Staff, Communications",
       "url": "https://www.adzuna.com/land/ad/5811788062?se=3FX9InCG8RGpocN_4bcAxw&utm_medium=api&utm_source=f62da352&v=2B33CA9E70C70C994B2061D7A2D7BCBDE960565F"
+    },
+    "703e8d2e97c21040": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Egypt Lake-Leto, Hillsborough County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874096009?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=013AF7B88048046EE12AECFA964D4CFC0C5BAACF"
     },
     "70549c386870ed55": {
       "closed_at": "2026-07-17T13:22:32Z",
@@ -27273,6 +27482,17 @@
       "status": "closed",
       "title": "Chief of Staff, One Health Studio",
       "url": "https://www.adzuna.com/details/5817550943?utm_medium=api&utm_source=f62da352"
+    },
+    "71dd20aad507feda": {
+      "company": "Google",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Grand Central, Manhattan",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Product Strategy and Operations Chief of Staff and External Engagement Lead, Google Education",
+      "url": "https://www.adzuna.com/land/ad/5871918785?se=jr7OcN-q8RG84Z70Fx4EkA&utm_medium=api&utm_source=f62da352&v=BFB471C02940FD14B3457F64BAF9A4143082775B"
     },
     "71e55e58ea6226e9": {
       "closed_at": "2026-09-02T10:36:34Z",
@@ -28570,6 +28790,17 @@
       "title": "Chief Of Staff",
       "url": "https://www.adzuna.com/details/5830265164?utm_medium=api&utm_source=f62da352"
     },
+    "77c1aea88ff8b9e5": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Wayne, Wayne County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874229609?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=5522497C1F290B614095B64D68472E87066481CF"
+    },
     "781083e8e744ca2f": {
       "closed_at": "2026-08-24T18:35:43Z",
       "company": "Mission Pet Health",
@@ -29782,6 +30013,17 @@
       "title": "Managing Director, Head of Business Operations & Chief of Staff (Dallas)",
       "url": "https://www.adzuna.com/details/5851315342?utm_medium=api&utm_source=f62da352"
     },
+    "7c4d50eb82bc5222": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Sun Lakes, Maricopa County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874229086?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=E04298A73D0BF93E0DD90142CB9CBEB1593A6B59"
+    },
     "7c51a7a92925514e": {
       "closed_at": "2026-07-31T19:20:45Z",
       "company": "Cisco",
@@ -29963,13 +30205,14 @@
       "url": "https://www.adzuna.com/land/ad/5806900111?se=Ji83n0mD8RG64bpm-6Bw6w&utm_medium=api&utm_source=f62da352&v=95F8C8D9D8C01D2DB9ED5F9CB472CA0127F6DBD8"
     },
     "7d1afcb37dc3ddc8": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Jordan Search Consultants",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Saint Louis, Saint Louis County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief Of Staff - Pediatric Orthopedics - Shriners St Louis",
       "url": "https://www.adzuna.com/land/ad/5873200112?se=XJHi-q-q8RGS9tX3gPU9Ng&utm_medium=api&utm_source=f62da352&v=B1307064553B89B3840363FB1E749608B3A7AE0F"
     },
@@ -31596,7 +31839,7 @@
     "8392d17ae8ae4f83": {
       "company": "NXP Semiconductors",
       "first_seen": "2026-09-06T10:14:34Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "Austin, Travis County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -33031,6 +33274,17 @@
       "status": "closed",
       "title": "Chief of Staff - Enterprise Systems",
       "url": "https://www.adzuna.com/land/ad/5843665180?se=xnQytKCa8RGyIdVC-Du-Yg&utm_medium=api&utm_source=f62da352&v=3ECB8B9C1FFF6666CF4C613628301C40EEB3BD51"
+    },
+    "8918a5bd9d793673": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Keyport, Monmouth County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874240933?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=0CEA7B57486C58C3A92480F9D0460B6C9EB95996"
     },
     "891f9a6e98dc37b9": {
       "closed_at": "2026-07-24T02:28:17Z",
@@ -35179,6 +35433,17 @@
       "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823969641?se=5n9zbBqO8RGBm-nBsWM45g&utm_medium=api&utm_source=f62da352&v=DFBA46843BA3871603906928B8D8A4DD2F30A391"
+    },
+    "918dac73738b72a1": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Belleville, Hendricks County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874245897?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=BBF888C0FFCEA1AF54382613565DB0554FF8933B"
     },
     "9194cdafb7d5ef7a": {
       "closed_at": "2026-08-30T03:34:51Z",
@@ -37917,13 +38182,14 @@
       "url": "https://www.adzuna.com/land/ad/5820933249?se=5EFbQryM8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=B27BAA029F8E6D5294B29022FA0CC79E591358E2"
     },
     "9d6986307ed46176": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Google",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Grand Central, Manhattan",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Product Strategy and Operations Chief of Staff and External Engagement Lead, Google Education",
       "url": "https://www.adzuna.com/land/ad/5871918785?se=6OzG_K-q8RGogquEo3zAlQ&utm_medium=api&utm_source=f62da352&v=BFB471C02940FD14B3457F64BAF9A4143082775B"
     },
@@ -38034,6 +38300,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844814933?se=phyHaGqa8RGoq93y-acWwA&utm_medium=api&utm_source=f62da352&v=CF920AF8F2ED60D7740A6D09FE8006AF9E9E19F8"
+    },
+    "9dd71fe59ca85d25": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Houston Lake, Platte County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874260798?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=2EB16B17E1162A4C78168491D1D9D39894F2D0E6"
     },
     "9dfb2fc1d5d12a3e": {
       "closed_at": "2026-08-17T12:38:08Z",
@@ -39295,6 +39572,17 @@
       "title": "Veterinarian - Chief of Staff",
       "url": "https://www.adzuna.com/details/5860176839?utm_medium=api&utm_source=f62da352"
     },
+    "a2cf83f796fba258": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Textile Finance, Los Angeles County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff Veterinarian",
+      "url": "https://www.adzuna.com/land/ad/5874244224?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=897AEFEA5CEB1DBFD96035814FE0E9F0D4BEF6A6"
+    },
     "a2d41618dd3f7eee": {
       "closed_at": "2026-08-19T01:04:46Z",
       "company": "DHRM",
@@ -40291,6 +40579,17 @@
       "title": "Senior Director, Chief of Staff - Card Servicing Shared Services",
       "url": "https://www.adzuna.com/land/ad/5802369404?se=ir5HdUmB8RGuXZiVwx-Xkw&utm_medium=api&utm_source=f62da352&v=31A399B278309D7D46C15D2B6D4E7D3A33BB7D6C"
     },
+    "a706e6293e0cd043": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "College Park, Clark County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff Veterinarian",
+      "url": "https://www.adzuna.com/land/ad/5874229157?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=4011CA5F63489799C4C079CAE81D6D8F4783EAD2"
+    },
     "a70a8a6293c4ecfe": {
       "closed_at": "2026-07-30T08:21:43Z",
       "company": "BOYS & GIRLS CLUBS OF TAMPA BAY",
@@ -40822,7 +41121,7 @@
     "a976c38f322b55a9": {
       "company": "GVW Group",
       "first_seen": "2026-09-06T14:54:31Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "Birmingham, Jefferson County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -41037,7 +41336,7 @@
     "aa3ab69bbcafdc3a": {
       "company": "IHI",
       "first_seen": "2026-09-06T14:54:31Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -42486,13 +42785,14 @@
       "url": "https://www.adzuna.com/land/ad/5839335974?se=3N5UnYGX8RG_yaSmB0dnHA&utm_medium=api&utm_source=f62da352&v=3289445043CD425A309D7B68EBB8A7FA6D1E8125"
     },
     "afbe944e4bbce549": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Mission Pet Health",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Seattle, King County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5873215986?se=XJHi-q-q8RGS9tX3gPU9Ng&utm_medium=api&utm_source=f62da352&v=AA897925484D9C6DF6041AC9C27A3F3AF4D6D0AC"
     },
@@ -42711,6 +43011,17 @@
       "status": "closed",
       "title": "Chief of Staff - Executive Support",
       "url": "https://www.adzuna.com/land/ad/5810657977?se=zGhglD6G8RGa14EqyXoy-w&utm_medium=api&utm_source=f62da352&v=669AC6882CB42D2542ED8AA4311A964E88ED5092"
+    },
+    "b11ea9c3a6fbe524": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Spring Hills, Marion County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874244676?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=D3D5F7C543007296CEB40500C9D8281F4B4114B9"
     },
     "b1262b2f61d83d68": {
       "closed_at": "2026-08-30T03:34:51Z",
@@ -43037,13 +43348,14 @@
       "url": "https://www.adzuna.com/land/ad/5869213973?se=Qg8RM0yo8RGditPr9QqE6w&utm_medium=api&utm_source=f62da352&v=43783C62725822B6B82328D8AC349D1F0E34442A"
     },
     "b29eee352e1a2672": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Mission Pet Health",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Washington, Washington, D.C.",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5873151565?se=XJHi-q-q8RGS9tX3gPU9Ng&utm_medium=api&utm_source=f62da352&v=0A351D160F289E1845820884FBB5284139472184"
     },
@@ -43782,7 +44094,7 @@
     "b5333da93ae4874b": {
       "company": "Recruiting From Scratch",
       "first_seen": "2026-09-06T10:14:34Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -44197,6 +44509,17 @@
       "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5821915153?se=gtNzQLyM8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=C6F59BCD6365866FED16F55A39E405890E0C26D3"
+    },
+    "b6ca8959626935f0": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "West University Place, Harris County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874256555?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=FD8E889BC1F9D5A5CE68A4F93981A691DBB8B8C1"
     },
     "b6cc1474cd6d96b9": {
       "closed_at": "2026-07-18T02:11:20Z",
@@ -46298,6 +46621,17 @@
       "title": "AI-Driven Chief of Staff, People & Ops (Washington)",
       "url": "https://www.adzuna.com/land/ad/5826706154?se=PjltE9-P8RGLT5ECL-xKtg&utm_medium=api&utm_source=f62da352&v=9FD9DE10BCF098294ABBA30528BBC72B54B9891F"
     },
+    "be974ddf03c7a83c": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Zephyrhills, Pasco County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874214176?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=BA9D1778EEFC627C38DB090A0F0CE86A38D9E423"
+    },
     "beaa8c69d27f6451": {
       "closed_at": "2026-07-17T08:06:01Z",
       "company": "Flam",
@@ -46429,6 +46763,17 @@
       "status": "closed",
       "title": "Director, Business Development Operations and Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5816120847?se=FojYhF6K8RG1d7LYFOmBDw&utm_medium=api&utm_source=f62da352&v=0E596981353BE15371A146F2012C27E1CC8CED8D"
+    },
+    "bf287bc755aa74ee": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Arizona City, Pinal County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874214149?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=ED3958D3179BC67099505B7405B2B5B563637A6D"
     },
     "bf3f11296f745cfc": {
       "closed_at": "2026-08-23T18:24:52Z",
@@ -48617,7 +48962,7 @@
     "c863694c865d647d": {
       "company": "Robert Half",
       "first_seen": "2026-09-07T11:33:25Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "Nazareth, Northampton County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -49982,13 +50327,14 @@
       "url": "https://www.adzuna.com/details/5831341778?utm_medium=api&utm_source=f62da352"
     },
     "cf57371e4d43e040": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Mission Pet Health",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Austin, Travis County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5873229457?se=XJHi-q-q8RGS9tX3gPU9Ng&utm_medium=api&utm_source=f62da352&v=58A80BFEF6A8C273BF115207D0F9B4221B6E4146"
     },
@@ -50364,6 +50710,17 @@
       "title": "Chief of Staff to the Co-Heads of Global Investments (Baltimore)",
       "url": "https://www.adzuna.com/land/ad/5824234981?se=jNL-TnGP8RG026BdxT_AqA&utm_medium=api&utm_source=f62da352&v=30A66752BDE804D2ABB68733D9F548E17863F0B9"
     },
+    "d0bf05d419040528": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Crows Nest, Marion County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874246805?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=112A7529166AC4DBCAD1336B143DF4A562717BBF"
+    },
     "d0bfaef669e3c248": {
       "closed_at": "2026-07-28T19:18:51Z",
       "company": "US Department of Veterans Affairs",
@@ -50579,6 +50936,17 @@
       "status": "closed",
       "title": "Chief of Staff Manager",
       "url": "https://www.adzuna.com/land/ad/5847994255?se=HHGFFGKc8RGQor-L2zKR7A&utm_medium=api&utm_source=f62da352&v=0EFA757B0D1E0950FCFD8E98B14439AE3FF99BC4"
+    },
+    "d196478272b68a10": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Beacon, Dutchess County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff - Hudson Valley, NY",
+      "url": "https://www.adzuna.com/land/ad/5874261483?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=9E845FF4B14F2AFC9A88569D6174C8B5B60740C5"
     },
     "d19692e03d52b227": {
       "closed_at": "2026-08-21T18:32:33Z",
@@ -52127,6 +52495,17 @@
       "status": "closed",
       "title": "Senior Associate, CB Chief of Staff Team",
       "url": "https://www.adzuna.com/land/ad/5860678295?se=slZWhWuj8RG437SRGsTqFw&utm_medium=api&utm_source=f62da352&v=FDAB3FA7C516715557C9BB5B4372C83E4E0B5AEF"
+    },
+    "d8ea5761fe138e44": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Newhall, Los Angeles County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff Veterinarian",
+      "url": "https://www.adzuna.com/land/ad/5874229613?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=26DC8F403523FA08685B79A078BEAE8AC59C56C0"
     },
     "d8eac47802904390": {
       "closed_at": "2026-07-24T08:23:51Z",
@@ -53892,6 +54271,17 @@
       "title": "Director, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5834317535?se=uF8u6O-T8RGlDuOngCclFw&utm_medium=api&utm_source=f62da352&v=BCAAE5F4AC13167F0175B19FCCBBA2714F275036"
     },
+    "e06103acb7c7685a": {
+      "company": "Career Group",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "New York City, New York",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to Tech Founder",
+      "url": "https://www.adzuna.com/land/ad/5873267892?se=xBu6b9-q8RG84Z70Fx4EkA&utm_medium=api&utm_source=f62da352&v=118B19C86585C5167E33384426647A5A7BCD4F07"
+    },
     "e081a039483e5b2c": {
       "closed_at": "2026-08-30T11:13:57Z",
       "company": "GitLab",
@@ -53953,13 +54343,14 @@
       "url": "https://www.adzuna.com/land/ad/5823893750?se=wLLy4-OO8RGHycU1Jh7d4w&utm_medium=api&utm_source=f62da352&v=0A5CB99C43C9CA90FEEEB4BE705FEB44F603AC81"
     },
     "e0a718cf2335eb69": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Capital One",
       "first_seen": "2026-09-05T14:33:57Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Illinois Medical District, Chicago",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Associate, Chief of Staff - Global Payments Network",
       "url": "https://www.adzuna.com/details/5871812425?utm_medium=api&utm_source=f62da352"
     },
@@ -54646,6 +55037,17 @@
       "status": "closed",
       "title": "Chief of Staff - Slack",
       "url": "https://www.adzuna.com/land/ad/5838720550?se=FFqzw7iW8RGBkclIi1idWA&utm_medium=api&utm_source=f62da352&v=03ABFD9A1077F11296E91FFC4BA9D5E421388B68"
+    },
+    "e377108a9955a78c": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874229963?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=848CA3731AF43CFF707164163DE3A4378AEE591E"
     },
     "e37a23f5682f853b": {
       "closed_at": "2026-07-22T02:26:22Z",
@@ -56183,6 +56585,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5812307557?se=dNZzYAeH8RGlu8FcJJTwKw&utm_medium=api&utm_source=f62da352&v=A0B22BD4A66CB34684F022AD4AAC8128510CF6CF"
     },
+    "e89dad186f7963c8": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "City, Clark County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff Veterinarian",
+      "url": "https://www.adzuna.com/land/ad/5874260277?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=C7969CD062F0DF38ED269C1F23A1E72541386596"
+    },
     "e8cfcc9cb7849005": {
       "closed_at": "2026-08-21T12:40:41Z",
       "company": "Oracle",
@@ -57287,6 +57700,17 @@
       "title": "Director, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5834317535?se=cFCYPyGU8RGlDuOngCclFw&utm_medium=api&utm_source=f62da352&v=BCAAE5F4AC13167F0175B19FCCBBA2714F275036"
     },
+    "ed9e9bc57f0fcc85": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Danville, Hendricks County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5874260137?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=76A7CF37B180D83B36C04275AB3EDB233283747A"
+    },
     "edbbc6fc30185651": {
       "closed_at": "2026-08-19T12:40:19Z",
       "company": "Mimecast",
@@ -57326,7 +57750,7 @@
     "ede6d4f2878b4e7b": {
       "company": "Acxiom",
       "first_seen": "2026-09-07T11:33:25Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "Tallahassee, Leon County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -57767,13 +58191,14 @@
       "url": "https://www.adzuna.com/details/5861839631?utm_medium=api&utm_source=f62da352"
     },
     "ef41a7b332f1bd88": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Acxiom",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "Grand Central, Manhattan",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5871793987?se=6OzG_K-q8RGogquEo3zAlQ&utm_medium=api&utm_source=f62da352&v=AEB3914B7EA0909D3AD3673557E5EEFB78017287"
     },
@@ -58222,13 +58647,14 @@
       "url": "https://www.adzuna.com/land/ad/5837395100?se=rqRx4X-W8RGZjegz1di2Mg&utm_medium=api&utm_source=f62da352&v=0F05475A280E237F317FE2030EE38A34AF041435"
     },
     "f133104507a7c3be": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Philo",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5873725942?se=XJHi-q-q8RGS9tX3gPU9Ng&utm_medium=api&utm_source=f62da352&v=58B3CFA0D4123DB50AA441E3E329DCFB573FAB25"
     },
@@ -60669,13 +61095,14 @@
       "url": "https://www.adzuna.com/details/5850468819?utm_medium=api&utm_source=f62da352"
     },
     "faa15db7d62a74a8": {
+      "closed_at": "2026-09-07T17:13:06Z",
       "company": "Google",
       "first_seen": "2026-09-07T11:33:25Z",
       "last_seen": "2026-09-07T11:33:25Z",
       "location": "SoMa, San Francisco",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Product Strategy and Operations Chief of Staff and External Engagement Lead, Google Education",
       "url": "https://www.adzuna.com/land/ad/5871799095?se=6OzG_K-q8RGogquEo3zAlQ&utm_medium=api&utm_source=f62da352&v=CACCF78FF31664758B9C3450C8E4A5685160F51C"
     },
@@ -60690,6 +61117,17 @@
       "status": "closed",
       "title": "Executive Chief of Staff to the CAO (New York)",
       "url": "https://www.adzuna.com/details/5830010032?utm_medium=api&utm_source=f62da352"
+    },
+    "fac730342bb3024b": {
+      "company": "Banfield",
+      "first_seen": "2026-09-07T17:13:06Z",
+      "last_seen": "2026-09-07T17:13:06Z",
+      "location": "Menifee, Riverside County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff Veterinarian",
+      "url": "https://www.adzuna.com/land/ad/5874256977?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=59D0FC52E244CE413FDF36E746C3895ABC59E2DC"
     },
     "fac7f31536ea3736": {
       "closed_at": "2026-08-23T01:09:03Z",
@@ -60730,7 +61168,7 @@
     "faf36d1246a6e0bd": {
       "company": "Google",
       "first_seen": "2026-09-05T14:33:57Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "Mountain View, Santa Clara County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -61365,7 +61803,7 @@
     "fd9e7a5ecffd3352": {
       "company": "MSM Group North America",
       "first_seen": "2026-09-05T14:33:57Z",
-      "last_seen": "2026-09-07T11:33:25Z",
+      "last_seen": "2026-09-07T17:13:06Z",
       "location": "State Farm, Arlington County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -62022,5 +62460,5 @@
       "url": "https://www.adzuna.com/details/5816410970?utm_medium=api&utm_source=f62da352"
     }
   },
-  "last_run": "2026-09-07T11:33:25Z"
+  "last_run": "2026-09-07T17:13:06Z"
 }
