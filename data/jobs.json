@@ -1186,7 +1186,7 @@
     "04245df7e478800d": {
       "company": "Scale AI",
       "first_seen": "2026-08-03T19:26:43Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Washington, DC",
       "slug": "scaleai",
       "source": "greenhouse",
@@ -2286,6 +2286,17 @@
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5856778619?se=VNQKD-eh8RGuQLai7eSWow&utm_medium=api&utm_source=f62da352&v=AC8B5B7DD9684AA578A506AC9BA7BB7CDF7415E8"
     },
+    "07eb6c9b42ada3aa": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Talcott Village, Hartford County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889133845?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=256B6E5677F0169F9E684F32D400AB819E5F9976"
+    },
     "07f186a99ce7ad81": {
       "closed_at": "2026-09-17T16:13:19Z",
       "company": "Axon",
@@ -2577,7 +2588,7 @@
     "08d62d9a84b1bc84": {
       "company": "Snellito Labs",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -2646,13 +2657,14 @@
       "url": "https://www.adzuna.com/details/5850650424?utm_medium=api&utm_source=f62da352"
     },
     "08e8985102ba3ea5": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889157431?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=924C2F742AC79F4C154E553BD247744ECA0FD655"
     },
@@ -3244,6 +3256,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823970796?se=1M5paxqO8RGBm-nBsWM45g&utm_medium=api&utm_source=f62da352&v=A5A44A2CAA0AD0D6DBF3FF2A8B36035C971AF165"
     },
+    "0af47573cb345ff4": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Sacramento, Sacramento County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889106247?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=AA2B5912BCD143824E78DD84F7FE4A0BD8EEB784"
+    },
     "0af82165322c3004": {
       "closed_at": "2026-07-22T08:24:31Z",
       "company": "PLANOGRAM, LLC",
@@ -3389,13 +3412,14 @@
       "url": "https://www.adzuna.com/land/ad/5821915153?se=furqBxWN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=C6F59BCD6365866FED16F55A39E405890E0C26D3"
     },
     "0b4850595a3b2fcc": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "CenterWell",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Concord, Merrimack County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5889455824?se=miwtZXiz8RG-GNRWi0kbrQ&utm_medium=api&utm_source=f62da352&v=4BAD691D64C5B2819ACC332AB4F5841257B85460"
     },
@@ -3532,13 +3556,14 @@
       "url": "https://www.adzuna.com/details/5887438424?utm_medium=api&utm_source=f62da352"
     },
     "0ba70582a13eeb16": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Nashville, Davidson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889167974?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=CD987E5D3F8CE921480D43CF0806BAF4D64C1DC4"
     },
@@ -4589,7 +4614,7 @@
     "0f751f229ec4c7b7": {
       "company": "Sigmasight",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -5004,6 +5029,17 @@
       "status": "closed",
       "title": "Director, Chief of Staff - Consumer Developer Experience - CDX",
       "url": "https://www.adzuna.com/land/ad/5870488156?se=ECiW4Dap8RGlI_dq_IL75Q&utm_medium=api&utm_source=f62da352&v=4B41B0BDDAAD620BAF4CB363FBA7246F5AB3A7EB"
+    },
+    "10da88e3557084d3": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Frankfort, Franklin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889153961?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=8A2EF0E81F14535688E2C79611C375E82DA32582"
     },
     "10f8a1676ec06764": {
       "closed_at": "2026-08-13T13:03:18Z",
@@ -6110,13 +6146,14 @@
       "url": "https://www.adzuna.com/land/ad/5809390427?se=GDkh5jiF8RG974pouqc-_w&utm_medium=api&utm_source=f62da352&v=4579AA422D314875D4DBD99041E26652F59EBD4B"
     },
     "157e1e7ef293789e": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Glendale, Denver",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889096047?se=7kO2Zniz8RGSI57gYuD12g&utm_medium=api&utm_source=f62da352&v=21B523CB0F677A64E93CBB8B628CC1FD714A0697"
     },
@@ -7404,6 +7441,17 @@
       "title": "Chief of Staff to the CMO",
       "url": "https://www.adzuna.com/land/ad/5861832425?se=MF3C8GOk8RGf1rbwV-jGNg&utm_medium=api&utm_source=f62da352&v=97DA7FF6FFB82A008AA8C48BE47A5989B3B4D615"
     },
+    "19f809e434a6ceb6": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Annapolis, Anne Arundel County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889149590?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=F33BBCA993673A74E584844E5CA81DB1CC04A116"
+    },
     "1a0a4cdd90210e42": {
       "closed_at": "2026-09-17T20:56:03Z",
       "company": "UKG",
@@ -8451,7 +8499,7 @@
     "1d9d53c92adafc8c": {
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Capitol, Richmond",
       "slug": "adzuna",
       "source": "adzuna",
@@ -9806,7 +9854,7 @@
     "222a75d18341017b": {
       "company": "Coursera",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -9937,7 +9985,7 @@
     "22d44ec9e5a431ef": {
       "company": "AbbVie",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Downey, Lake County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -11374,13 +11422,14 @@
       "url": "https://www.adzuna.com/land/ad/5871918785?se=XK-792aq8RGQ_9RZmApaxA&utm_medium=api&utm_source=f62da352&v=BFB471C02940FD14B3457F64BAF9A4143082775B"
     },
     "27dc32e3ae24e340": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Frankfort, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889153961?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=8A2EF0E81F14535688E2C79611C375E82DA32582"
     },
@@ -11495,7 +11544,7 @@
     "283d7115e1f9278b": {
       "company": "Oracle",
       "first_seen": "2026-09-18T10:33:02Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -12898,7 +12947,7 @@
     "2c90fd043f49533c": {
       "company": "CVS Health",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -13771,13 +13820,14 @@
       "url": "https://www.adzuna.com/land/ad/5844857555?se=Jm1iZ2qa8RGLRNMmwLdNsA&utm_medium=api&utm_source=f62da352&v=CB6C49F5CEBE8DA5C8700435CA4D71BC740D8A90"
     },
     "2f6829933805dd3e": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Salem, Marion County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889134204?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=092FDCABB9B79C0A4C334F58E1A70646D6E0CB42"
     },
@@ -14514,13 +14564,14 @@
       "url": "https://www.adzuna.com/land/ad/5814089278?se=qikkTP-H8RG3tOkLR0Zx3w&utm_medium=api&utm_source=f62da352&v=AF5F85C1B4D65CEE20ED271532E4B78FCED8420A"
     },
     "315539481bde75c0": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Cedar, Cole County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889160376?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=18F54C6A6ED8762244523DB3B9DE03C19DDF579D"
     },
@@ -14968,6 +15019,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5874242718?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=C2BE642DCD228C77F05432AABDBAC91F818B8BC7"
     },
+    "32f63998eafde64b": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Cedar, Cole County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889160376?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=18F54C6A6ED8762244523DB3B9DE03C19DDF579D"
+    },
     "32fc204a9ff0bfd5": {
       "closed_at": "2026-09-01T03:31:25Z",
       "company": "Indeed",
@@ -15005,13 +15067,14 @@
       "url": "https://www.adzuna.com/land/ad/5830420354?se=SBMEavKR8RGCBfheOeDrGw&utm_medium=api&utm_source=f62da352&v=4AED821694DFD838413E323505F21A837D14B2E3"
     },
     "3328a7288849f865": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Baton Rouge, East Baton Rouge Parish",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889142827?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=15437E3A80234B79214FC0D06BA4A9867CB3E356"
     },
@@ -15146,6 +15209,17 @@
       "status": "closed",
       "title": "Chief of Staff - New England Care Delivery Market - Remote",
       "url": "https://www.adzuna.com/land/ad/5842649180?se=OrAaKXOY8RGqM9tlrK2FfQ&utm_medium=api&utm_source=f62da352&v=05FBA2B0BF4A2A22B6EC64462C20EC4E37BBE62E"
+    },
+    "337e4201aa4a6f7d": {
+      "company": "Meme House LA, Inc",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Beverly Hills, Los Angeles County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff & Operations - MemeHouse",
+      "url": "https://www.adzuna.com/land/ad/5889656870?se=4oEm0J6z8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=7A6F551421375BFD91F8B9D02050267347A8EDD6"
     },
     "3397e52c1b357fc9": {
       "closed_at": "2026-08-08T06:47:17Z",
@@ -16035,6 +16109,17 @@
       "title": "Senior Manager - Chief of Staff, Digital Engineering",
       "url": "https://www.adzuna.com/details/5832896602?utm_medium=api&utm_source=f62da352"
     },
+    "36b021f3dd9fa974": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Salem, Marion County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889134204?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=092FDCABB9B79C0A4C334F58E1A70646D6E0CB42"
+    },
     "36c81201bac29a31": {
       "closed_at": "2026-09-17T20:56:03Z",
       "company": "UKG",
@@ -16395,6 +16480,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5837402431?se=Lm5hDE6W8RGSzap1610Obg&utm_medium=api&utm_source=f62da352&v=061DA603127278F75579705FBDE809BBB12C5A6D"
     },
+    "3802a7093628330a": {
+      "company": "UnitedHealth Group",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Brentwood, Williamson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff-Program Manager Payer Go to Market",
+      "url": "https://www.adzuna.com/land/ad/5889172576?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=BD0896DC8AA2709B00107B1848BB9123F9B54045"
+    },
     "3810a13008e31f32": {
       "closed_at": "2026-08-03T02:34:21Z",
       "company": "Cloudflare",
@@ -16686,7 +16782,7 @@
     "39495c89f5eeddf9": {
       "company": "Terra AI",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Sunnyvale, Santa Clara County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -17177,7 +17273,7 @@
     "3b6157d9d743d055": {
       "company": "Arlo",
       "first_seen": "2026-09-18T10:33:02Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -17498,13 +17594,14 @@
       "url": "https://www.adzuna.com/land/ad/5874450358?se=Sr4m1cWr8RGifYq7VNE_hg&utm_medium=api&utm_source=f62da352&v=1EAAE263EAD246295B46C8AC8AFBC13F4F7CCE06"
     },
     "3c63830c82512878": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Chisolm, Montgomery County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889143022?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=24F007C51F08117983B97ECE7B73D7BD9F60CF75"
     },
@@ -17665,24 +17762,26 @@
       "url": "https://www.adzuna.com/land/ad/5850432025?se=3pFWPCud8RGhArhxtbtVlg&utm_medium=api&utm_source=f62da352&v=B6D78B28152AA8D27F0B1592996F6E0C5D208965"
     },
     "3ce5603f2dcf1cf8": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Aurelian",
       "first_seen": "2026-09-18T10:33:02Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Seattle, King County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5888930390?utm_medium=api&utm_source=f62da352"
     },
     "3ce7bdcdb69b9733": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Saint Paul, Ramsey County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889144750?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=68ACF9D00340259F41EE3E88AEC451E9D5F26AED"
     },
@@ -18373,7 +18472,7 @@
     "3eb9492152abc56b": {
       "company": "Checkr",
       "first_seen": "2026-07-16T16:52:38Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "San Francisco, California, United States",
       "slug": "checkr",
       "source": "greenhouse",
@@ -18812,6 +18911,17 @@
       "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/details/5852169286?utm_medium=api&utm_source=f62da352"
+    },
+    "3ffc1231f9d059bb": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Cammack Village, Pulaski County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889118447?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=E01955A3328217C61698DCD174E3F694F1DA41AF"
     },
     "400ea7f10afdd7f5": {
       "closed_at": "2026-08-28T09:27:54Z",
@@ -19280,6 +19390,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5868788999?se=RpSsia6n8RGxWp4A46G3QA&utm_medium=api&utm_source=f62da352&v=19A26E121CF5E16CE6E3969D0634BECF681CA1B0"
+    },
+    "4158ec4cf5205722": {
+      "company": "J.P. Morgan",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Wilmington, Los Angeles County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Finance Data Platform, Chief of Staff - Vice President",
+      "url": "https://www.adzuna.com/land/ad/5889381556?se=4oEm0J6z8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=39B58C413131E8F4ABA93EDD0DFA77963CE0EC8E"
     },
     "41683d2f067fabe1": {
       "closed_at": "2026-08-02T08:20:09Z",
@@ -19798,13 +19919,14 @@
       "url": "https://www.adzuna.com/land/ad/5856777980?se=VNQKD-eh8RGuQLai7eSWow&utm_medium=api&utm_source=f62da352&v=E85B2C73C1E0E716185C881A5CF5354CE8B61F71"
     },
     "429e90938e22804a": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Atlanta, Fulton County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889165299?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=C11F70C9DA34AB2B84AF3E662ED064716E176E85"
     },
@@ -22103,7 +22225,7 @@
     "4a31ed98b71f58e5": {
       "company": "American Express",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Church Street, Manhattan",
       "slug": "adzuna",
       "source": "adzuna",
@@ -23048,13 +23170,14 @@
       "url": "https://www.adzuna.com/land/ad/5876982034?se=Jq07W4ys8RG0WNzIgcMWvQ&utm_medium=api&utm_source=f62da352&v=5C71E2693063BC456F3ED455B20242AADB3DA573"
     },
     "4d829241fd1167cd": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Washington, D.C., US",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889107572?se=7kO2Zniz8RGSI57gYuD12g&utm_medium=api&utm_source=f62da352&v=DC71649DC8040E862190D33D32EC5A7141DE4EE2"
     },
@@ -23227,13 +23350,14 @@
       "url": "https://www.adzuna.com/land/ad/5836568707?se=UAYsN--V8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=32B0814B16E81262561ED28A52622D0AEB38D146"
     },
     "4deb10a21075ff92": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Sacramento, Sacramento County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889106247?se=7kO2Zniz8RGSI57gYuD12g&utm_medium=api&utm_source=f62da352&v=AA2B5912BCD143824E78DD84F7FE4A0BD8EEB784"
     },
@@ -23284,6 +23408,17 @@
       "status": "closed",
       "title": "Executive Chief of Staff & Executive Administrator",
       "url": "https://www.adzuna.com/details/5830963077?utm_medium=api&utm_source=f62da352"
+    },
+    "4e1aecfeefcd2cf0": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Uptown, Marion County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889159066?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=DE9EF8ACA6D19CD82A871D13624AB96DA9C636C1"
     },
     "4e1df7b1c325ba6f": {
       "closed_at": "2026-09-05T14:33:57Z",
@@ -23982,13 +24117,14 @@
       "url": "https://www.adzuna.com/land/ad/5882512377?se=Eg2oLOuv8RGhe8--YZ_w9w&utm_medium=api&utm_source=f62da352&v=8537B706C3EAF05FEF7F52CB0E08ABA16729047E"
     },
     "50b4c0ffdf8eaea2": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Talcott Village, Hartford County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889133845?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=256B6E5677F0169F9E684F32D400AB819E5F9976"
     },
@@ -24473,13 +24609,14 @@
       "url": "https://www.adzuna.com/details/5822344743?utm_medium=api&utm_source=f62da352"
     },
     "528d0ff2f6864a69": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Ny State Campus, Albany County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889090832?se=7kO2Zniz8RGSI57gYuD12g&utm_medium=api&utm_source=f62da352&v=079BE7C2A13197FFED31F20280D14D414360F2F7"
     },
@@ -25170,7 +25307,7 @@
     "54debdab99aae14c": {
       "company": "Clarium Health",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -25179,13 +25316,14 @@
       "url": "https://www.adzuna.com/details/5889186086?utm_medium=api&utm_source=f62da352"
     },
     "54e19ee8b7804143": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "J.P. Morgan",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Office of the Head of Talent & Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5889378644?se=miwtZXiz8RG-GNRWi0kbrQ&utm_medium=api&utm_source=f62da352&v=A8009A3CF8533A4A2759669059157A04BF1D2ADA"
     },
@@ -26764,7 +26902,7 @@
     "5ad97a9cb91eca8b": {
       "company": "Bellkurve",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -26783,6 +26921,17 @@
       "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823967493?se=cHrUBUuO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=BA919BC4B14FC503DF9E392F21FF4D811E791AEB"
+    },
+    "5ae16201eee11a0f": {
+      "company": "CenterWell",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Concord, Merrimack County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5889455824?se=4oEm0J6z8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=4BAD691D64C5B2819ACC332AB4F5841257B85460"
     },
     "5ae49f1ca8985363": {
       "closed_at": "2026-09-05T19:54:54Z",
@@ -27996,6 +28145,17 @@
       "title": "Chief of Staff; Senior Lead Business Execution Consultant",
       "url": "https://www.adzuna.com/land/ad/5879630577?se=HEEmnPit8RG-FLx_YfIXKQ&utm_medium=api&utm_source=f62da352&v=44602D806CA7417FCDFD9EEE1DC62989E2D50C0F"
     },
+    "5ef1c7b01694e355": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Chisolm, Montgomery County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889143022?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=24F007C51F08117983B97ECE7B73D7BD9F60CF75"
+    },
     "5ef57fa9ab1f6fb1": {
       "closed_at": "2026-08-26T12:45:35Z",
       "company": "Banfield Pet Hospitals",
@@ -28055,6 +28215,17 @@
       "status": "closed",
       "title": "Chief of Staff to the CMO",
       "url": "https://www.adzuna.com/land/ad/5861863168?se=INlqCYyk8RGm6O3abJl_eQ&utm_medium=api&utm_source=f62da352&v=CC88EC4B5BF8FB6FBF1BFAC77A55062B124E4F64"
+    },
+    "5f2ee0e81705f2e7": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Boise, Ada County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889106166?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=C3AD4FEBDD37FA94B3E7839A8B49032FD46C89A4"
     },
     "5f33af08de1ef06d": {
       "closed_at": "2026-07-19T19:02:25Z",
@@ -29379,7 +29550,7 @@
     "62eacadd939f3c2e": {
       "company": "Infinate Talent",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -29822,7 +29993,7 @@
     "646998b3ff408398": {
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Penbrook, Dauphin County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -31198,6 +31369,17 @@
       "title": "Deputy Chief of Staff with Security Clearance",
       "url": "https://www.adzuna.com/land/ad/5840658657?se=vp1LnIGX8RGpppjqq-iSvg&utm_medium=api&utm_source=f62da352&v=1AFDA9907300C30F613C47C27DFBD6CFD2E9BBE9"
     },
+    "6a70a9a0be38ac27": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Topeka, Shawnee County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889140211?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=610A7888820D3505D3F83FE1C5348DD37CE2E298"
+    },
     "6a7cdfb29468099a": {
       "closed_at": "2026-09-08T10:33:21Z",
       "company": "Flourish Health",
@@ -31665,6 +31847,17 @@
       "status": "closed",
       "title": "Chief of Staff to the CEO",
       "url": "https://www.adzuna.com/land/ad/5809427465?se=rMIScgGG8RGLktLhk9EKMw&utm_medium=api&utm_source=f62da352&v=66BD42ECB208E5E44715D6418C0303F602E1C634"
+    },
+    "6c0f17f3341ad574": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Glendale, Denver",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889096047?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=21B523CB0F677A64E93CBB8B628CC1FD714A0697"
     },
     "6c0f516f48ceb46a": {
       "closed_at": "2026-09-18T10:33:02Z",
@@ -32651,13 +32844,14 @@
       "url": "https://www.adzuna.com/details/5849817153?utm_medium=api&utm_source=f62da352"
     },
     "6f8b6821eae637f0": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Charleston, Kanawha County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889111743?se=7kO2Zniz8RGSI57gYuD12g&utm_medium=api&utm_source=f62da352&v=656B3AADE32D6FDCCF08A92D94D59AA00B27FA18"
     },
@@ -33862,13 +34056,14 @@
       "url": "https://www.adzuna.com/land/ad/5820153351?se=HK1Aa7uL8RGy6YPamwKkEg&utm_medium=api&utm_source=f62da352&v=21AC048831459C942C6ED58BDADDA207210AC0DD"
     },
     "73ceb40764545d0a": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Tumwater, Thurston County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889161679?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=A484F19B74E6EA616373A3773798A971EE9E0527"
     },
@@ -34317,13 +34512,14 @@
       "url": "https://www.adzuna.com/land/ad/5837395100?se=Lm5hDE6W8RGSzap1610Obg&utm_medium=api&utm_source=f62da352&v=0F05475A280E237F317FE2030EE38A34AF041435"
     },
     "75811292089da5f5": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Madison, Dane County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889156093?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=9AFF5E1661D5AD3CE2B2C945B0218AF8E06B7C33"
     },
@@ -34746,6 +34942,17 @@
       "status": "closed",
       "title": "Chief of Staff to the SVP - Healthcare Analytics",
       "url": "https://www.adzuna.com/land/ad/5827080711?se=zoQSWdaQ8RGfCveIl1PW5A&utm_medium=api&utm_source=f62da352&v=9408DD48B64B883C986E08CCD9D258A973116ACC"
+    },
+    "770005464db91fe0": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Nashville, Davidson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889167974?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=CD987E5D3F8CE921480D43CF0806BAF4D64C1DC4"
     },
     "77034b6f20d7818e": {
       "closed_at": "2026-09-15T11:02:55Z",
@@ -37219,6 +37426,17 @@
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5856773366?se=jBBNEkyh8RGibI7KeL9hYA&utm_medium=api&utm_source=f62da352&v=4B25E2045992302664BC8A9169D1476039C104B3"
     },
+    "7ebb14467f78fdd7": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Charleston, Kanawha County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889111743?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=656B3AADE32D6FDCCF08A92D94D59AA00B27FA18"
+    },
     "7edd3486005769ac": {
       "closed_at": "2026-08-02T19:05:33Z",
       "company": "AtOrchard LLC",
@@ -37628,13 +37846,14 @@
       "url": "https://www.adzuna.com/land/ad/5879690442?se=mLO7HCCv8RGECJO8JjRpwQ&utm_medium=api&utm_source=f62da352&v=6BA0890F0925BCC7C5F8A4A1FF9794FDC48313BB"
     },
     "8056717a5dba9cc6": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "State House, Lancaster County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889130918?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=7BC21911940C067863FF1D3335C7AC308C175F80"
     },
@@ -38659,13 +38878,14 @@
       "url": "https://www.adzuna.com/land/ad/5844845270?se=MBkhyQea8RGUiq14ohrRew&utm_medium=api&utm_source=f62da352&v=1F32EB8037D274A6356CEFC060189C98A1B8C79B"
     },
     "84234c7b6da84e67": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Grandview Heights, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889174244?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=3FD61C1BF15A1DE70A33481B0F67C640D72F0061"
     },
@@ -39354,13 +39574,14 @@
       "url": "https://www.adzuna.com/details/5810709797?utm_medium=api&utm_source=f62da352"
     },
     "86156e7358b56e1a": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Topeka, Shawnee County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889140211?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=610A7888820D3505D3F83FE1C5348DD37CE2E298"
     },
@@ -42556,6 +42777,17 @@
       "title": "Chief of Staff to Chief Executive Officer (CEO) at Confidential New York, NY",
       "url": "https://www.adzuna.com/land/ad/5865091800?se=WO-uK0Sm8RGUNa3mkcr13g&utm_medium=api&utm_source=f62da352&v=227122E46DBEE5084C1308843E5CCA492A8AC96C"
     },
+    "90429cc4e4e66a87": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Madison, Dane County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889156093?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=9AFF5E1661D5AD3CE2B2C945B0218AF8E06B7C33"
+    },
     "906a368bea221304": {
       "closed_at": "2026-08-14T07:20:02Z",
       "company": "Serco",
@@ -42943,7 +43175,7 @@
     "9194d471dffd06a6": {
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Springfield, Sangamon County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -43478,6 +43710,17 @@
       "status": "closed",
       "title": "Chief of Staff, YCC Director's Office",
       "url": "https://www.adzuna.com/details/5856864190?utm_medium=api&utm_source=f62da352"
+    },
+    "935d91a63953e28f": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Oklahoma City, Oklahoma County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889133237?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=8BFA5C72AB537F30776FF4174E052ADDB016CD40"
     },
     "935ef18c186484d9": {
       "closed_at": "2026-07-22T08:24:31Z",
@@ -44082,7 +44325,7 @@
     "95a51d13d57c1386": {
       "company": "Helm Health",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Columbus, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -44787,13 +45030,14 @@
       "url": "https://www.adzuna.com/land/ad/5861860615?se=INlqCYyk8RGm6O3abJl_eQ&utm_medium=api&utm_source=f62da352&v=AC679363F10D7487660872FE9DB6D6C68B1A7431"
     },
     "986480b5b8aef64b": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Uptown, Marion County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889159066?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=DE9EF8ACA6D19CD82A871D13624AB96DA9C636C1"
     },
@@ -45064,7 +45308,7 @@
     "993e029f58cc0e56": {
       "company": "Destiny",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -45279,7 +45523,7 @@
     "99ae040b7368f2a5": {
       "company": "Accelion",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -45914,7 +46158,7 @@
     "9c55cb2ac79f1440": {
       "company": "Crucibl",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -47313,6 +47557,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5805716571?se=PoKQ-dqC8RG64bpm-6Bw6w&utm_medium=api&utm_source=f62da352&v=B38D5F6EB5D5623F25EB68BBF9DF5C21D96E4699"
+    },
+    "a0c1625293e1ac9b": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Saint Paul, Ramsey County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889144750?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=68ACF9D00340259F41EE3E88AEC451E9D5F26AED"
     },
     "a0c76397cb6bf602": {
       "closed_at": "2026-08-12T18:58:31Z",
@@ -49907,13 +50162,14 @@
       "url": "https://www.adzuna.com/land/ad/5874226339?se=gCfqfjus8RGX79OIAGii3A&utm_medium=api&utm_source=f62da352&v=DBA9587608926E359269456A59318123857CFBB4"
     },
     "a94b3e7dd82ebd2e": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Oklahoma City, Oklahoma County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889133237?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=8BFA5C72AB537F30776FF4174E052ADDB016CD40"
     },
@@ -49978,13 +50234,14 @@
       "url": "https://www.adzuna.com/details/5872987861?utm_medium=api&utm_source=f62da352"
     },
     "a9804d757c8fa4d6": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "ALLY Energy",
       "first_seen": "2026-09-18T10:33:02Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Houston, Harris County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5888954330?utm_medium=api&utm_source=f62da352"
     },
@@ -50769,13 +51026,14 @@
       "url": "https://www.adzuna.com/land/ad/5856769028?se=cPwLEOeh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=f62da352&v=8718385EABA8B52D277FD1ABB5FE722200C15511"
     },
     "abb8806d11e21efa": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "J.P. Morgan",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Wilmington, Los Angeles County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Finance Data Platform, Chief of Staff - Vice President",
       "url": "https://www.adzuna.com/land/ad/5889381556?se=miwtZXiz8RG-GNRWi0kbrQ&utm_medium=api&utm_source=f62da352&v=39B58C413131E8F4ABA93EDD0DFA77963CE0EC8E"
     },
@@ -51367,6 +51625,17 @@
       "title": "Chief of Staff, Co-CEO",
       "url": "https://www.adzuna.com/land/ad/5869188536?se=oqTBHNan8RGAquma5vUeHg&utm_medium=api&utm_source=f62da352&v=317F041BA1B016C5D8FF8A901FDCDECC0B05ADF5"
     },
+    "add52fea47feab1f": {
+      "company": "J.P. Morgan",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "New York City, New York",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Office of the Head of Talent & Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5889378644?se=4oEm0J6z8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=A8009A3CF8533A4A2759669059157A04BF1D2ADA"
+    },
     "add8436382864231": {
       "closed_at": "2026-09-16T03:17:36Z",
       "company": "Autodesk",
@@ -51694,7 +51963,7 @@
     "af3f8e0092e0c365": {
       "company": "Vetcor",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Canton Center, Hartford County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -52017,7 +52286,7 @@
     "b07943f89edf9011": {
       "company": "State of Montana",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Helena, Lewis and Clark County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -52148,7 +52417,7 @@
     "b109d2bbdaf7b324": {
       "company": "CenterWell",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Tarrytown, Travis County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -53019,6 +53288,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5880633029?utm_medium=api&utm_source=f62da352"
+    },
+    "b3f1192b8479551f": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Grandview Heights, Franklin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889174244?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=3FD61C1BF15A1DE70A33481B0F67C640D72F0061"
     },
     "b3f23c29d6dfb008": {
       "closed_at": "2026-08-25T01:06:07Z",
@@ -53945,13 +54225,14 @@
       "url": "https://www.adzuna.com/land/ad/5855315987?se=di1TFEyh8RG8AawPaMncfg&utm_medium=api&utm_source=f62da352&v=4D709F3DE1DE83E177D048A33EB19998B6831FE6"
     },
     "b6b0406f31809a3c": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Boise, Ada County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889106166?se=7kO2Zniz8RGSI57gYuD12g&utm_medium=api&utm_source=f62da352&v=C3AD4FEBDD37FA94B3E7839A8B49032FD46C89A4"
     },
@@ -54507,6 +54788,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5808103412?utm_medium=api&utm_source=f62da352"
     },
+    "b86a4e65515a2a6b": {
+      "company": "American Express",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Grand Central, Manhattan",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director Assistant (Chief of Staff), Corporate Communications",
+      "url": "https://www.adzuna.com/land/ad/5889109144?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=4FC65D4505671FB3CEA7BCDA8E6BBB67E5562FE5"
+    },
     "b8742124fd07ead1": {
       "closed_at": "2026-07-27T09:46:35Z",
       "company": "J.P. Morgan",
@@ -55050,7 +55342,7 @@
     "ba498e5546013662": {
       "company": "Comprehensive Mobile Care",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Phoenix, Maricopa County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -56582,6 +56874,17 @@
       "title": "Chief of Staff to the CEO",
       "url": "https://www.adzuna.com/land/ad/5853299090?se=_Iyj9-6e8RGWn-4_4VLIOw&utm_medium=api&utm_source=f62da352&v=615D7E2015833397BE90F0DA2A16DE2736A0E98C"
     },
+    "bf4565d9a1780bc0": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Ny State Campus, Albany County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889090832?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=079BE7C2A13197FFED31F20280D14D414360F2F7"
+    },
     "bf590eaf87da9d53": {
       "closed_at": "2026-08-21T12:40:41Z",
       "company": "Oracle",
@@ -57770,6 +58073,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5882511489?se=kgoJ3zGw8RGhe8--YZ_w9w&utm_medium=api&utm_source=f62da352&v=DBC4A1B55C24ED22785E125BDC842A26E79C3505"
     },
+    "c2f806422d7de9cf": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Tumwater, Thurston County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889161679?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=A484F19B74E6EA616373A3773798A971EE9E0527"
+    },
     "c2fb389758b30b5a": {
       "closed_at": "2026-09-03T10:39:17Z",
       "company": "Onto Innovation",
@@ -57845,13 +58159,24 @@
     "c329416fc12d5d75": {
       "company": "Casap",
       "first_seen": "2026-09-18T10:33:02Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
       "status": "active",
       "title": "Technical Chief of Staff",
       "url": "https://www.adzuna.com/details/5889059888?utm_medium=api&utm_source=f62da352"
+    },
+    "c331cbfea5364d85": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Bonnie, Utah County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889138274?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=B2DD95B02AA0FBF4F0294D66C1423A34331F8EC6"
     },
     "c339c9c2ced4e8dd": {
       "closed_at": "2026-09-10T15:48:45Z",
@@ -58261,6 +58586,17 @@
       "title": "Chief of Staff, Client Service & Operations - Evernorth",
       "url": "https://www.adzuna.com/details/5802355249?utm_medium=api&utm_source=f62da352"
     },
+    "c4a46de80f71e82c": {
+      "company": "AbbVie",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "North Chicago, Lake County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, OneHUB Business Liaison & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5889655839?se=4oEm0J6z8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=A9F40DD55ED98A0D77AF42D9516D38066B860AEF"
+    },
     "c4a5cd24ba9c4e61": {
       "closed_at": "2026-09-08T10:33:21Z",
       "company": "Flourish Health",
@@ -58404,6 +58740,17 @@
       "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887593925?se=zi1VybKy8RGSDerpD9e3rg&utm_medium=api&utm_source=f62da352&v=8FE9EE97A840521C867F242D705C4231CAC0F97F"
+    },
+    "c509a20b5c6416ff": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Des Moines, Polk County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889116567?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=6CC941BBE223A4FA5138832EDB3F28825C1B81AD"
     },
     "c5243bd367e7015a": {
       "closed_at": "2026-07-25T02:26:37Z",
@@ -59548,7 +59895,7 @@
     "c95c6fb70a64ce14": {
       "company": "Photon",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -59713,13 +60060,14 @@
       "url": "https://www.adzuna.com/land/ad/5828778238?se=4oEkoT2R8RGExO5K9raumQ&utm_medium=api&utm_source=f62da352&v=4BBB3E4A8A09FD4C845E58C9B1C6D3B055CC26B3"
     },
     "ca18d5cf6e2a65ae": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Annapolis, Anne Arundel County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889149590?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=F33BBCA993673A74E584844E5CA81DB1CC04A116"
     },
@@ -59854,6 +60202,17 @@
       "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850463499?se=1sJbOyud8RGVwpWvD-HIQQ&utm_medium=api&utm_source=f62da352&v=82C052E8AD5BC1D025D85623539F757243001128"
+    },
+    "ca877627fdcc0534": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Jackson, Hinds County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889123522?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=4976DDBC3C36986B5CACF9FEE1B7322904F31BC5"
     },
     "ca9c2a843a032941": {
       "closed_at": "2026-08-21T18:32:33Z",
@@ -60130,6 +60489,17 @@
       "status": "closed",
       "title": "Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/land/ad/5823949604?se=uoZ-8aqN8RGv1eY0AXRckA&utm_medium=api&utm_source=f62da352&v=A075F077679DB3A74E106EBD53A722E001E03CEA"
+    },
+    "cba6b4591c2aae44": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Lansing, Ingham County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889158200?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=EB52A4BCFD3E2B2BD5FD26717A7BE5DB9245008C"
     },
     "cbca7df882727a91": {
       "closed_at": "2026-09-04T02:52:39Z",
@@ -60518,7 +60888,7 @@
     "cd49c5750f6401e5": {
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Tallahassee, Leon County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -63385,7 +63755,7 @@
     "d761ffae2e1f0021": {
       "company": "Custral",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -64090,13 +64460,14 @@
       "url": "https://www.adzuna.com/land/ad/5856769863?se=KsuPjIah8RGhZ7gcUJZivg&utm_medium=api&utm_source=f62da352&v=37539253E925ECFFC7908B168A8A713C1F525EF3"
     },
     "d9c07aa5a1749c0d": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Jackson, Hinds County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889123522?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=4976DDBC3C36986B5CACF9FEE1B7322904F31BC5"
     },
@@ -64451,7 +64822,7 @@
     "db00a93327672c35": {
       "company": "Vellum",
       "first_seen": "2026-09-18T10:33:02Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -64570,7 +64941,7 @@
     "db5c9b0314b59da7": {
       "company": "Theater Alliance",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Crystal, Arlington County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -65021,6 +65392,17 @@
       "status": "closed",
       "title": "Senior Director of Strategy and CST Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5804219008?se=zhMVZbaB8RGuXZiVwx-Xkw&utm_medium=api&utm_source=f62da352&v=D60C64008CFF41B850DEE1D355B7DB6431897767"
+    },
+    "dcbb4e2113dd96e6": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Boston, Suffolk County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889157431?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=924C2F742AC79F4C154E553BD247744ECA0FD655"
     },
     "dcc6f91a2a1ab28a": {
       "closed_at": "2026-08-21T18:32:33Z",
@@ -68335,13 +68717,14 @@
       "url": "https://www.adzuna.com/land/ad/5887592754?se=5s2sYEyz8RGcMc0HYqAkKw&utm_medium=api&utm_source=f62da352&v=7C2329CF9C5070969185917BC420C4EA15794D30"
     },
     "e775466fcea4c996": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Des Moines, Polk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889116567?se=7kO2Zniz8RGSI57gYuD12g&utm_medium=api&utm_source=f62da352&v=6CC941BBE223A4FA5138832EDB3F28825C1B81AD"
     },
@@ -68706,13 +69089,14 @@
       "url": "https://www.adzuna.com/details/5816414250?utm_medium=api&utm_source=f62da352"
     },
     "e8697e3b831ca4f5": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "UnitedHealth Group",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Brentwood, Williamson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff-Program Manager Payer Go to Market",
       "url": "https://www.adzuna.com/land/ad/5889172576?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=BD0896DC8AA2709B00107B1848BB9123F9B54045"
     },
@@ -69067,7 +69451,7 @@
     "e9ba3b44e482c1c9": {
       "company": "Cardinal Group Career",
       "first_seen": "2026-09-18T15:48:13Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "Denver, Colorado",
       "slug": "adzuna",
       "source": "adzuna",
@@ -69326,6 +69710,17 @@
       "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823969634?se=zr4i5NuN8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=28B5CADC5C769261795021A5B5F0A5A12A0D9A1B"
+    },
+    "ea72523b352e9fff": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "State House, Lancaster County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889130918?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=7BC21911940C067863FF1D3335C7AC308C175F80"
     },
     "ea8d9e2c575e3add": {
       "closed_at": "2026-08-18T01:03:37Z",
@@ -69712,13 +70107,14 @@
       "url": "https://www.adzuna.com/land/ad/5833044643?se=6KtFsVeT8RGWPoJqQXFPnw&utm_medium=api&utm_source=f62da352&v=5293376D675C80A740CE014D37C570F8528A7B61"
     },
     "ebe7cf6ba9372052": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Lansing, Ingham County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889158200?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=EB52A4BCFD3E2B2BD5FD26717A7BE5DB9245008C"
     },
@@ -72063,13 +72459,14 @@
       "url": "https://www.adzuna.com/land/ad/5860631194?se=rEIuguej8RGEeLI7Dotn4Q&utm_medium=api&utm_source=f62da352&v=30E4DB11F65B2BF5BB05A2111E6CF3092B0C722B"
     },
     "f3441a2176b55c0d": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Bonnie, Utah County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889138274?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=B2DD95B02AA0FBF4F0294D66C1423A34331F8EC6"
     },
@@ -72108,6 +72505,17 @@
       "status": "closed",
       "title": "Vice President, Chief of Staff to the CEO",
       "url": "https://www.adzuna.com/land/ad/5823212192?se=dCikSYGN8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=F51D48853424F5EFC43B8AFB237C63CC9AE1C5A7"
+    },
+    "f374ba6cbd24472e": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Atlanta, Fulton County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889165299?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=C11F70C9DA34AB2B84AF3E662ED064716E176E85"
     },
     "f37c50fdf9f8eb76": {
       "closed_at": "2026-08-30T16:00:52Z",
@@ -72242,13 +72650,14 @@
       "url": "https://www.adzuna.com/details/5879273153?utm_medium=api&utm_source=f62da352"
     },
     "f3bfbe33c9c362d5": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "Oracle",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Cammack Village, Pulaski County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889118447?se=7kO2Zniz8RGSI57gYuD12g&utm_medium=api&utm_source=f62da352&v=E01955A3328217C61698DCD174E3F694F1DA41AF"
     },
@@ -72311,6 +72720,17 @@
       "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5836569080?se=UAYsN--V8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=4B66490301968E4D30108E01697A283A652B525E"
+    },
+    "f3eb49cf874098ad": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Washington, D.C., US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889107572?se=ONma0Z6z8RGm1alvctyjWA&utm_medium=api&utm_source=f62da352&v=DC71649DC8040E862190D33D32EC5A7141DE4EE2"
     },
     "f3effb0e381ae983": {
       "closed_at": "2026-09-08T10:33:21Z",
@@ -73407,7 +73827,7 @@
     "f8126d4e6f76ddac": {
       "company": "The Tech Buzz",
       "first_seen": "2026-09-18T10:33:02Z",
-      "last_seen": "2026-09-18T15:48:13Z",
+      "last_seen": "2026-09-18T20:23:14Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -75012,13 +75432,14 @@
       "url": "https://www.adzuna.com/land/ad/5836528671?se=vBIOUx6W8RGNEO0SxDr7vQ&utm_medium=api&utm_source=f62da352&v=3E9260310103699943ED81C5698D7541DCA191C0"
     },
     "fce26ca9d4bb0988": {
+      "closed_at": "2026-09-18T20:23:14Z",
       "company": "American Express",
       "first_seen": "2026-09-18T15:48:13Z",
       "last_seen": "2026-09-18T15:48:13Z",
       "location": "Grand Central, Manhattan",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director Assistant (Chief of Staff), Corporate Communications",
       "url": "https://www.adzuna.com/land/ad/5889109144?se=7kO2Zniz8RGSI57gYuD12g&utm_medium=api&utm_source=f62da352&v=4FC65D4505671FB3CEA7BCDA8E6BBB67E5562FE5"
     },
@@ -75033,6 +75454,17 @@
       "status": "closed",
       "title": "Director of Operational Transformation & Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5871936807?se=OKzYaC2q8RGS9tX3gPU9Ng&utm_medium=api&utm_source=f62da352&v=25B0056C0A605099E29DBDC664CBE993442265B9"
+    },
+    "fcf11e8ade84421e": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T20:23:14Z",
+      "last_seen": "2026-09-18T20:23:14Z",
+      "location": "Baton Rouge, East Baton Rouge Parish",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5889142827?se=yKLY0J6z8RGG7Ofe_DNTQA&utm_medium=api&utm_source=f62da352&v=15437E3A80234B79214FC0D06BA4A9867CB3E356"
     },
     "fcf740d4c851e5ac": {
       "closed_at": "2026-07-25T08:02:57Z",
@@ -75971,5 +76403,5 @@
       "url": "https://www.adzuna.com/details/5816410970?utm_medium=api&utm_source=f62da352"
     }
   },
-  "last_run": "2026-09-18T15:48:13Z"
+  "last_run": "2026-09-18T20:23:14Z"
 }
