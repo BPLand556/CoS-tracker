@@ -166,7 +166,7 @@
     "00c6664516608260": {
       "company": "Micron",
       "first_seen": "2026-09-17T10:56:21Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "Idaho City, Boise County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -1185,7 +1185,7 @@
     "04245df7e478800d": {
       "company": "Scale AI",
       "first_seen": "2026-08-03T19:26:43Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "Washington, DC",
       "slug": "scaleai",
       "source": "greenhouse",
@@ -1528,6 +1528,17 @@
       "status": "closed",
       "title": "Chief of Staff, Head of Legal Ops (San Francisco)",
       "url": "https://www.adzuna.com/land/ad/5830759346?se=xGI5g1-S8RGvg6_5HonlUw&utm_medium=api&utm_source=f62da352&v=C69C34739D0DA48518981FCD993101CAA61B6071"
+    },
+    "0550537617b30f50": {
+      "company": "JPMorganChase",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Wilmington, New Hanover County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Finance Data Platform, Chief of Staff - Vice President",
+      "url": "https://www.adzuna.com/land/ad/5887491838?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=3B2CD043999A04D8126D1BC8AC6BB7EECFE4F013"
     },
     "0550bb089797f742": {
       "closed_at": "2026-08-22T06:34:34Z",
@@ -2416,6 +2427,17 @@
       "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5837404770?se=Lm5hDE6W8RGSzap1610Obg&utm_medium=api&utm_source=f62da352&v=876CF4E58D255CE280B70B5F63D9B440C2AE9AD4"
+    },
+    "087a18bf2e9cc8f0": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Uptown, Marion County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887592552?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=3186526C2FD2A4C6CF8B968E714722443E4B0E5C"
     },
     "088c51fee001da5b": {
       "closed_at": "2026-08-19T12:40:19Z",
@@ -3440,7 +3462,7 @@
     "0b95d957d452c343": {
       "company": "Aegis Ventures",
       "first_seen": "2026-09-17T10:56:21Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -4349,13 +4371,14 @@
       "url": "https://www.adzuna.com/land/ad/5874480940?se=Sr4m1cWr8RGifYq7VNE_hg&utm_medium=api&utm_source=f62da352&v=D7A745B6B58DB9F433F96BAA398B66E7CCD8FD35"
     },
     "0f27e814395a9250": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "Oracle",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Concord, Merrimack County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5887853690?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=A9308CFFB5F9DF2C1D265CE32897D5E79F4011C5"
     },
@@ -4708,13 +4731,14 @@
       "url": "https://www.adzuna.com/land/ad/5811703156?se=DOTjI3CG8RGbGoMv58FbYQ&utm_medium=api&utm_source=f62da352&v=4C8029F165225869BC815BC2284E7A67ED281B17"
     },
     "103c98abbd17638f": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Pierre, Hughes County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887122490?se=sAiyQdqy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=0E9347012C202F16B1EC89AA66AB7A9775E9A6AD"
     },
@@ -6051,13 +6075,14 @@
       "url": "https://www.adzuna.com/land/ad/5847750054?se=PH2tFWKc8RGXv81Jd4g7Zw&utm_medium=api&utm_source=f62da352&v=3CAA08450EF2CCCC6BE496593FD4EDD5D314A1DC"
     },
     "15b23e2e4aeda50c": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Topeka, Shawnee County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887571991?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=335A479AF6148562D3B0E5651188C9CD313B278A"
     },
@@ -6600,6 +6625,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5853294914?se=yh3O8Lye8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=758E0F2B9EEEF9EC0C22A67B52F9D90F8FD4D2D8"
+    },
+    "17c144a122016f3c": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Grandview Heights, Franklin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887602040?se=qjsYVw6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=B8DCB92E48D2D8FEF2188987641350F3B09699BF"
     },
     "17c4ad9d741d4059": {
       "closed_at": "2026-07-17T08:06:01Z",
@@ -7513,6 +7549,17 @@
       "title": "Chief of Staff, Communications",
       "url": "https://www.adzuna.com/land/ad/5811791807?se=2H3dh8qG8RG4J83nekfXWA&utm_medium=api&utm_source=f62da352&v=48E4658088DCD09C71C204952D81702AF4D5B677"
     },
+    "1adbf62361d09fe6": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Charleston, Kanawha County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887563888?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=B3FF56B00DBAC3E1ECE027CF3F702A9CD4FF6B24"
+    },
     "1ae19c3431103c69": {
       "closed_at": "2026-08-12T07:20:22Z",
       "company": "Banfield",
@@ -7694,13 +7741,14 @@
       "url": "https://www.adzuna.com/land/ad/5865207350?se=UN8s9Xim8RGehPSUdmwhIg&utm_medium=api&utm_source=f62da352&v=ADCE44BAEA30A5EFCFEB6D5D527A74BC5A4D868E"
     },
     "1ba4b2bf4c1a685b": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Sacramento, Sacramento County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887579612?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=A8FF8901BA8C5D40D1D208AD50DD0E0D879C70DB"
     },
@@ -7885,13 +7933,14 @@
       "url": "https://www.adzuna.com/land/ad/5869213973?se=3i4wvAuo8RGAquma5vUeHg&utm_medium=api&utm_source=f62da352&v=43783C62725822B6B82328D8AC349D1F0E34442A"
     },
     "1c53417ec201ecb3": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "Arc Institute",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Palo Alto, Santa Clara County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5887621824?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=5774D21B84131447D0B5BD451ED6EA64F2AF6EC3"
     },
@@ -8628,13 +8677,14 @@
       "url": "https://www.adzuna.com/land/ad/5836528626?se=vBIOUx6W8RGNEO0SxDr7vQ&utm_medium=api&utm_source=f62da352&v=121B75F9ADF56088A1826DAD00491ABF40E0EA67"
     },
     "1f0c527f0043e4ee": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Montpelier, Washington County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887185394?se=sAiyQdqy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=DC2D30FC7A6E306D92AF6A6A01DA9FB423C785C1"
     },
@@ -8769,6 +8819,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5830410723?utm_medium=api&utm_source=f62da352"
+    },
+    "1fb08ae6ad797486": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Cammack Village, Pulaski County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887563765?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=27A9FF67F37B0F987E22CDA91DBC71ACDDB38ACC"
     },
     "1fbb99735c560ce0": {
       "closed_at": "2026-09-16T10:49:41Z",
@@ -9347,13 +9408,14 @@
       "url": "https://www.adzuna.com/land/ad/5842984584?se=WJxIg9aY8RGXlua0wi23rg&utm_medium=api&utm_source=f62da352&v=8F63A36D61470C62F48EBA88A65F45B6E39D394F"
     },
     "217f5bb2561325f6": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Baton Rouge, East Baton Rouge Parish",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887575771?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=A7445C957B245F67D11FA1C3F19BFBD3BA832335"
     },
@@ -11902,13 +11964,14 @@
       "url": "https://www.adzuna.com/land/ad/5812335994?se=vHDlhcqG8RGJI6GuGHE2oA&utm_medium=api&utm_source=f62da352&v=DEE0B9D7713ECD40D9CCFAF28222C9B913CD4892"
     },
     "2a34e4386d8f1187": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "JPMorganChase",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "New York, US",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Office of the Head of Talent & Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5887361452?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=BC01ED117CCFEF5735BC45360F294CC55FF69217"
     },
@@ -12321,13 +12384,14 @@
       "url": "https://www.adzuna.com/land/ad/5865146466?se=jNnEKUSm8RGUNa3mkcr13g&utm_medium=api&utm_source=f62da352&v=7AF7202D93E2606FF4FAAFB9F6DF3DD80F2FF92B"
     },
     "2b9cf043e7de391b": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Glendale, Denver",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887555662?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=485A82B34176AE18E7A7A97526F7D99C58CE06F1"
     },
@@ -13628,13 +13692,14 @@
       "url": "https://www.adzuna.com/land/ad/5809404938?se=ZpGbz6aF8RGd5oc3a39PRg&utm_medium=api&utm_source=f62da352&v=6092736E926E33AADEE960E13E783A12004EF2D6"
     },
     "2fcfc67c100d107c": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Trenton, Mercer County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887595010?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=1C54C0E9F028528C64DDA5D344A328ABE70D58D1"
     },
@@ -13733,6 +13798,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5870876227?se=4L3tKtWo8RGKupoVICWNPA&utm_medium=api&utm_source=f62da352&v=C101FCE6A79F2F1068100A99FDB1001BD00202E4"
+    },
+    "301f25b17d385a21": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Chisolm, Montgomery County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887580172?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=95BF94745C776ADC19F4E90C895DDFAB2A432DA6"
     },
     "301fcf2edcdf1c63": {
       "closed_at": "2026-09-16T03:17:36Z",
@@ -14973,7 +15049,7 @@
     "343432189981b35e": {
       "company": "Oracle",
       "first_seen": "2026-09-17T16:13:19Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "Tarrytown, Travis County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -15485,6 +15561,28 @@
       "title": "Chief of Staff to Chief Administrative and People Officer",
       "url": "https://www.adzuna.com/land/ad/5816100624?se=yMtEJiWJ8RG3tOkLR0Zx3w&utm_medium=api&utm_source=f62da352&v=D3C707DA82FB2EEEAF90474F90E084284E36537B"
     },
+    "35fd24e08ff5a1d0": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Baton Rouge, East Baton Rouge Parish",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887575771?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=A7445C957B245F67D11FA1C3F19BFBD3BA832335"
+    },
+    "3601bd7e22bf12cd": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Frankfort, Franklin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887572601?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=6A6AF361F14CD3F204453789CBE0B65D9B543F55"
+    },
     "360739f1f8a728c1": {
       "closed_at": "2026-08-23T06:35:58Z",
       "company": "David Joseph & Company",
@@ -15762,13 +15860,14 @@
       "url": "https://www.adzuna.com/land/ad/5842972846?se=1O_4nDyZ8RGJftUyzQ0_4w&utm_medium=api&utm_source=f62da352&v=80A6921A82911B43397EC4906028127810904B8A"
     },
     "3785d61232155d96": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Oklahoma City, Oklahoma County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887573691?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=441C06D698098A84E8C9ADFC6B1918140B61C99D"
     },
@@ -17117,13 +17216,14 @@
       "url": "https://www.adzuna.com/land/ad/5861865186?se=sqjm72Ok8RGEeLI7Dotn4Q&utm_medium=api&utm_source=f62da352&v=B24750863BF35E1AA098C796B8F69B2D21BC9A79"
     },
     "3c9015662b0fb534": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Atlanta, Fulton County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887598180?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=4344F1DAE93FDFFF0D6B2247B854B000EB0A0D91"
     },
@@ -17536,13 +17636,14 @@
       "url": "https://www.adzuna.com/land/ad/5802126905?se=Goj41UKB8RGBgLcYqW5wtQ&utm_medium=api&utm_source=f62da352&v=C912947873574ECA02AC25543A26A9EC7C2DD8A7"
     },
     "3dcdf6617d2e00a8": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Annapolis, Anne Arundel County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887589759?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=3D7B687C46BB6F9C98335D4BB9DD782B4F9D5D52"
     },
@@ -17581,6 +17682,17 @@
       "status": "closed",
       "title": "Lead Technical Program Manager - Chief of Staff, Markets",
       "url": "https://www.adzuna.com/land/ad/5882939433?se=snNbIIOw8RG03rZApAbq_A&utm_medium=api&utm_source=f62da352&v=024B930B60BD47835105D50D99D8C0BBB5E47FF9"
+    },
+    "3dfd9c2be3ec39a9": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Providence, Providence County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887121523?se=2JHdWA6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=5752EA0920974E7800999867D50E34DDB947E135"
     },
     "3e0627dd6040c08b": {
       "closed_at": "2026-08-17T18:35:00Z",
@@ -17885,7 +17997,7 @@
     "3eb9492152abc56b": {
       "company": "Checkr",
       "first_seen": "2026-07-16T16:52:38Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "San Francisco, California, United States",
       "slug": "checkr",
       "source": "greenhouse",
@@ -17956,7 +18068,7 @@
     "3ef5b014fed5f96c": {
       "company": "DeKalb County School District",
       "first_seen": "2026-09-17T10:56:21Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -22584,6 +22696,17 @@
       "title": "Director of Personal Affairs/Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5822097982?se=furqBxWN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=C952BD0481340CDF345A6D46D313A307244B1998"
     },
+    "4dae7bce272333f9": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Montpelier, Washington County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887185394?se=2JHdWA6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=DC2D30FC7A6E306D92AF6A6A01DA9FB423C785C1"
+    },
     "4db9a986a3d3fded": {
       "closed_at": "2026-09-02T02:49:30Z",
       "company": "humhome",
@@ -25272,6 +25395,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5867210751?se=AIGurEKn8RGR76ZbJB6pOg&utm_medium=api&utm_source=f62da352&v=26C5A9A43969F6F3FCC990B8487514B1D5E3EB22"
     },
+    "574261b348330880": {
+      "company": "Mission Pet Health",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Birmingham, Jefferson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Executive Director, Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5888166027?se=qjsYVw6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=2A2B19D339530AA0AC90E91F8F4850C698D58477"
+    },
     "574ddceb3f3ded8b": {
       "closed_at": "2026-08-26T12:45:35Z",
       "company": "Banfield Pet Hospitals",
@@ -26557,13 +26691,14 @@
       "url": "https://www.adzuna.com/land/ad/5823969554?se=cHrUBUuO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=DA4C2B7A15869C8539834C0C7AF36BFF2082CEBD"
     },
     "5c62b1acc6cfdb9a": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "Mission Pet Health",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Birmingham, Jefferson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5888180980?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=BDC1B3EC035EA901237364DB748C7ADA4A781DF1"
     },
@@ -27324,13 +27459,14 @@
       "url": "https://www.adzuna.com/land/ad/5830504969?se=jvsYNS-S8RGs5OGOuqfOdQ&utm_medium=api&utm_source=f62da352&v=07658982A8E14A9007FDFCE45442881CEB3CDA40"
     },
     "5f060abb0e223c8f": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Tumwater, Thurston County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887594543?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=E7C2CE38CEB9AA6574D27A9C1C03555B21C6C657"
     },
@@ -27429,6 +27565,17 @@
       "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850178172?se=uFY0PSud8RGhArhxtbtVlg&utm_medium=api&utm_source=f62da352&v=EB573A6463A857E5FB66D10428D0BD9BC621D183"
+    },
+    "5f6ef32408854a38": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Cedar, Cole County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887592754?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=7C2329CF9C5070969185917BC420C4EA15794D30"
     },
     "5f73065e84bbf26a": {
       "closed_at": "2026-09-03T20:28:49Z",
@@ -27551,13 +27698,14 @@
       "url": "https://www.adzuna.com/land/ad/5856301476?se=di1TFEyh8RG8AawPaMncfg&utm_medium=api&utm_source=f62da352&v=A4CBA20F322AF4038F42008F82FC02BB27DE9877"
     },
     "5fdc705dcbcc99cb": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Chisolm, Montgomery County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887580172?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=95BF94745C776ADC19F4E90C895DDFAB2A432DA6"
     },
@@ -27634,13 +27782,14 @@
       "url": "https://www.adzuna.com/land/ad/5832598218?se=lpUldceS8RGbMoJx1UvcPg&utm_medium=api&utm_source=f62da352&v=F406AB87D3DB4DB22AB3CA09857B6A6CB7B2F113"
     },
     "603a4017363b21d7": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Ny State Campus, Albany County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887556482?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=77205DA6A8C61B86E0FCECF6D6DAA36D9616CB18"
     },
@@ -27777,13 +27926,14 @@
       "url": "https://www.adzuna.com/land/ad/5836547279?se=SO6IDk6W8RGBkclIi1idWA&utm_medium=api&utm_source=f62da352&v=684B3FAFDC201113F5AEE5AB328763504356C8E9"
     },
     "607ece1952d67ebc": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "La Cienga, Santa Fe County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887563231?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=BAE16C957D70B2E2053BE82BB7A68EE719AFA03C"
     },
@@ -27956,13 +28106,14 @@
       "url": "https://www.adzuna.com/land/ad/5825808991?se=iq-4R0iP8RGeH-dJzLXcrg&utm_medium=api&utm_source=f62da352&v=369226B7826CA97380F381604E980638DACABD49"
     },
     "6113725705d0420c": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "Mission Pet Health",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Birmingham, Jefferson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Executive Director, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5888166027?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=2A2B19D339530AA0AC90E91F8F4850C698D58477"
     },
@@ -29217,7 +29368,7 @@
     "652ec8e5a22bc026": {
       "company": "UKG",
       "first_seen": "2026-09-17T16:13:19Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "Springfield, Sangamon County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -29332,6 +29483,17 @@
       "status": "closed",
       "title": "Physician - Associate Chief of Staff Perioperative Service",
       "url": "https://www.adzuna.com/details/5817619488?utm_medium=api&utm_source=f62da352"
+    },
+    "65891c8cdc49f463": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Pierre, Hughes County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887122490?se=2JHdWA6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=0E9347012C202F16B1EC89AA66AB7A9775E9A6AD"
     },
     "65abb84449e46acc": {
       "closed_at": "2026-09-06T02:53:19Z",
@@ -29693,6 +29855,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5835882829?se=vPapn1KV8RG7ILaWj3cC-A&utm_medium=api&utm_source=f62da352&v=66DBE7CDD1EC5E23A2E03378E7C8D39C6F308FDF"
     },
+    "679916a3df13c306": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Boston, Suffolk County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887593618?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=F3DC30E9141203A1F714DFCEA7C70A24C8968057"
+    },
     "67993a103924fb4a": {
       "closed_at": "2026-08-26T19:44:09Z",
       "company": "Banfield",
@@ -29958,13 +30131,14 @@
       "url": "https://www.adzuna.com/land/ad/5857965857?se=DIZabWCi8RGfx5bEd-nhPg&utm_medium=api&utm_source=f62da352&v=6F6E3D9A5AB9231D2CA937708C4432629E4D8192"
     },
     "68c0bc14e2dc644f": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Cedar, Cole County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887592754?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=7C2329CF9C5070969185917BC420C4EA15794D30"
     },
@@ -30027,6 +30201,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5882512377?se=_J2-o7Sw8RGNCI4LXswoCg&utm_medium=api&utm_source=f62da352&v=8537B706C3EAF05FEF7F52CB0E08ABA16729047E"
+    },
+    "68e2cb1646469588": {
+      "company": "Arc Institute",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Palo Alto, Santa Clara County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5887621824?se=qjsYVw6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=5774D21B84131447D0B5BD451ED6EA64F2AF6EC3"
     },
     "68f1bc0911ae274f": {
       "closed_at": "2026-09-05T09:56:29Z",
@@ -30125,13 +30310,14 @@
       "url": "https://www.adzuna.com/details/5830000740?utm_medium=api&utm_source=f62da352"
     },
     "6962e555846db3a9": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "JPMorganChase",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Wilmington, New Hanover County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Finance Data Platform, Chief of Staff - Vice President",
       "url": "https://www.adzuna.com/land/ad/5887491838?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=3B2CD043999A04D8126D1BC8AC6BB7EECFE4F013"
     },
@@ -30568,13 +30754,14 @@
       "url": "https://www.adzuna.com/details/5854662449?utm_medium=api&utm_source=f62da352"
     },
     "6b23e557ec3724b8": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Lansing, Ingham County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887593925?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=8FE9EE97A840521C867F242D705C4231CAC0F97F"
     },
@@ -30853,6 +31040,17 @@
       "status": "closed",
       "title": "Chief of Staff to the CEO",
       "url": "https://www.adzuna.com/land/ad/5809427465?se=rMIScgGG8RGLktLhk9EKMw&utm_medium=api&utm_source=f62da352&v=66BD42ECB208E5E44715D6418C0303F602E1C634"
+    },
+    "6c0f516f48ceb46a": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Five Points, Wake County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887600316?se=qjsYVw6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=BED34FB941FA0D612ACE8CDE324CD3EC11D0B7D8"
     },
     "6c135573c00a1059": {
       "closed_at": "2026-07-31T02:34:49Z",
@@ -31947,13 +32145,14 @@
       "url": "https://www.adzuna.com/land/ad/5850463839?se=woohj12d8RGLv4j7pdq8Kg&utm_medium=api&utm_source=f62da352&v=8FB2678358AE2642D908BA7DBB73E5C1885EF074"
     },
     "702bddbc4105aa9d": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Des Moines, Polk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887574422?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=FB9280663B749096E184B36B46435BD867A8F642"
     },
@@ -32161,6 +32360,17 @@
       "title": "Associate, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5840125759?se=9GEsJ0mX8RG_yaSmB0dnHA&utm_medium=api&utm_source=f62da352&v=320D69F3105A9026D60338D818D2DA130F4591EC"
     },
+    "70c0def85447fc53": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Salem, Marion County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887579428?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=CBFE7A366C54F9B4D356D54FD0571EAFEC5AFBF3"
+    },
     "70f66a65db27d7b4": {
       "closed_at": "2026-09-04T15:44:13Z",
       "company": "Barrel RM",
@@ -32330,13 +32540,14 @@
       "url": "https://www.adzuna.com/details/5847813717?utm_medium=api&utm_source=f62da352"
     },
     "718adbf21121dcde": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Mongmong, Mongmong-Toto-Maite",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887113011?se=sAiyQdqy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=A7E9CA354DF8F06E047B67EA0C40473681B58FF6"
     },
@@ -32545,13 +32756,14 @@
       "url": "https://www.adzuna.com/land/ad/5839328724?se=9GEsJ0mX8RG_yaSmB0dnHA&utm_medium=api&utm_source=f62da352&v=8103EEBBAA95E84B1171DA2D61A9A75FA982D358"
     },
     "722b14997fffbf8b": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Wyoming, Kent County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887120022?se=sAiyQdqy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=A183413D72374AC17450D91971BDFB5604D54E25"
     },
@@ -33095,6 +33307,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5884769587?se=MNMJteix8RGW7Jd0wGJW9Q&utm_medium=api&utm_source=f62da352&v=7B46ED3BE9F65B1FB6665713ADECEAEA1ADBC146"
     },
+    "743ab1bce53c9a41": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Wake Island, Honolulu",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5888535368?se=qjsYVw6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=893F1DC9DD4E1044D0C2EF8247695AAF2A42C5FE"
+    },
     "744c66eceb0bed7b": {
       "closed_at": "2026-09-13T20:17:57Z",
       "company": "Oracle",
@@ -33479,6 +33702,17 @@
       "title": "Principal Technical Program Manager - Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5835036110?se=wE9n0uyU8RG7ILaWj3cC-A&utm_medium=api&utm_source=f62da352&v=79925EC850D8D2EB746B9ED0E77BD1E7B5C78F78"
     },
+    "75f94ed8c3cb7916": {
+      "company": "Mission Pet Health",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Fort Worth, Tarrant County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5888179852?se=qjsYVw6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=256F1CDD3414EC3ACECB90B2DF13DFCC67D97449"
+    },
     "75fa11a43fe3b505": {
       "closed_at": "2026-09-11T02:57:39Z",
       "company": "Banfield",
@@ -33828,13 +34062,14 @@
       "url": "https://www.adzuna.com/details/5881013731?utm_medium=api&utm_source=f62da352"
     },
     "7707dd4b4a65e6c2": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Bonnie, Utah County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887565759?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=C3B9EEC8E8E48B13556CC400FAECE53B97015F0C"
     },
@@ -35314,6 +35549,17 @@
       "title": "Chief of Staff to the Co-Heads of Global Investments (Baltimore)",
       "url": "https://www.adzuna.com/land/ad/5826705734?se=pmSWTHGP8RGiFPg8UCT7uA&utm_medium=api&utm_source=f62da352&v=6DB908E7DC9DD21D5779E1C96FC542CD6E7D45C2"
     },
+    "7bbcd6d2ecc24761": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Concord, Merrimack County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5887853690?se=qjsYVw6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=A9308CFFB5F9DF2C1D265CE32897D5E79F4011C5"
+    },
     "7be9a4ff5db31aec": {
       "closed_at": "2026-07-16T19:05:57Z",
       "company": "UnitedHealth Group",
@@ -35483,13 +35729,14 @@
       "url": "https://www.adzuna.com/details/5846730796?utm_medium=api&utm_source=f62da352"
     },
     "7c5ad94e8c441722": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "J.P. Morgan",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Jersey City, Hudson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Lead Technical Program Manager - Chief of Staff, Markets",
       "url": "https://www.adzuna.com/land/ad/5887016362?se=sAiyQdqy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=2DB2627B88593570D5543F68A71CB8F18411B067"
     },
@@ -36190,13 +36437,14 @@
       "url": "https://www.adzuna.com/land/ad/5860631194?se=slZWhWuj8RG437SRGsTqFw&utm_medium=api&utm_source=f62da352&v=30E4DB11F65B2BF5BB05A2111E6CF3092B0C722B"
     },
     "7e7154816c1bf319": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "Roche",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "South San Francisco, San Mateo County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GPS Oncology - Hematology",
       "url": "https://www.adzuna.com/land/ad/5887570332?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=736B2DC9B9F125EFB42C6B6F10530A2A6BECD5AE"
     },
@@ -36811,6 +37059,17 @@
       "status": "closed",
       "title": "Chief of Staff to CEO \u2014 U.S. Market Lead",
       "url": "https://www.adzuna.com/land/ad/5809413279?se=Piw20dOF8RG2PfKsnVmRFg&utm_medium=api&utm_source=f62da352&v=79AF77E66BD770B7802BECBEE4F198A15BF1FB3B"
+    },
+    "80ddf0ecc68d3510": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Sacramento, Sacramento County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887579612?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=A8FF8901BA8C5D40D1D208AD50DD0E0D879C70DB"
     },
     "80deab5efedebdd1": {
       "closed_at": "2026-08-08T12:41:25Z",
@@ -37676,6 +37935,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844845270?se=MBkhyQea8RGUiq14ohrRew&utm_medium=api&utm_source=f62da352&v=1F32EB8037D274A6356CEFC060189C98A1B8C79B"
     },
+    "842dc7a8f4079ea4": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Helena, Lewis and Clark County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5888535138?se=qjsYVw6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=75A47C3F6FE53928187042EB73504FD616C6426B"
+    },
     "843dc702daf9ecf7": {
       "closed_at": "2026-07-25T02:26:37Z",
       "company": "Office-of-the-Comptroller",
@@ -38047,6 +38317,17 @@
       "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5819244709?se=IrOvcIGL8RGzQa4pljvFHQ&utm_medium=api&utm_source=f62da352&v=691E1981B7C9D38D1D1417C3AB85D6581D4B1716"
+    },
+    "8537a6f4361f4b71": {
+      "company": "Roche",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "South San Francisco, San Mateo County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GPS Oncology - Hematology",
+      "url": "https://www.adzuna.com/land/ad/5887570332?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=736B2DC9B9F125EFB42C6B6F10530A2A6BECD5AE"
     },
     "853a116a70cf2979": {
       "closed_at": "2026-08-28T09:27:54Z",
@@ -38855,7 +39136,7 @@
     "879d117a221f0a2f": {
       "company": "AbbVie",
       "first_seen": "2026-09-17T16:13:19Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "North Chicago, Lake County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -38886,6 +39167,17 @@
       "status": "closed",
       "title": "Chief of Staff; Senior Lead Business Execution Consultant",
       "url": "https://www.adzuna.com/land/ad/5879690442?se=omqOBOau8RGmH_Ty5BvfSA&utm_medium=api&utm_source=f62da352&v=6BA0890F0925BCC7C5F8A4A1FF9794FDC48313BB"
+    },
+    "87b89da236558c1a": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Ny State Campus, Albany County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887556482?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=77205DA6A8C61B86E0FCECF6D6DAA36D9616CB18"
     },
     "87c26376aa873011": {
       "closed_at": "2026-09-04T10:34:09Z",
@@ -41576,13 +41868,14 @@
       "url": "https://www.adzuna.com/land/ad/5868410426?se=IIXywYOn8RGxLcPzt0M5RA&utm_medium=api&utm_source=f62da352&v=6CF8B2668FD72BBE4BADAFADE14BE6ADB18765F8"
     },
     "908b44a26f00ab95": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Saint Paul, Ramsey County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887587386?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=DF8D57720C4FF55D35C5048DAAEBB1A91A46F793"
     },
@@ -41921,6 +42214,17 @@
       "status": "closed",
       "title": "Chief of Staff, Head of Legal Ops (San Francisco)",
       "url": "https://www.adzuna.com/land/ad/5847016596?se=PH2tFWKc8RGXv81Jd4g7Zw&utm_medium=api&utm_source=f62da352&v=9471987D22444B766AC437AECA32B22162189A51"
+    },
+    "91db5622b41aed15": {
+      "company": "Kforce Technology Staffing",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Fountainebleau, Miami-Dade County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff Project Coordinator",
+      "url": "https://www.adzuna.com/land/ad/5888358128?se=qjsYVw6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=4A17DE2997CBD38DC5C1793C27931D62BC2DEEE8"
     },
     "91e3b043222caec3": {
       "closed_at": "2026-07-23T19:12:43Z",
@@ -42487,13 +42791,14 @@
       "url": "https://www.adzuna.com/land/ad/5809429546?se=OE2LxXSF8RGmi-ibh9Tepg&utm_medium=api&utm_source=f62da352&v=EACCA1F24CAAFA6C2EC216B294E9E060702C5327"
     },
     "93b1638fd52faf49": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Urbanizaci\u00f3n El Vedado, San Juan",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887114337?se=sAiyQdqy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=23949CE05F977D8A12267BD472BF08DA5F5C061A"
     },
@@ -43193,6 +43498,17 @@
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850459191?se=tpfUbcWd8RGU6LIjyaRnwA&utm_medium=api&utm_source=f62da352&v=EC32AA4E7FEE72484C5F6CD284978DE7B3844D86"
     },
+    "9626d5779cac9986": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "La Cienga, Santa Fe County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887563231?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=BAE16C957D70B2E2053BE82BB7A68EE719AFA03C"
+    },
     "96365f87d020b1f4": {
       "closed_at": "2026-08-21T18:32:33Z",
       "company": "Oracle",
@@ -43770,13 +44086,14 @@
       "url": "https://www.adzuna.com/details/5847824248?utm_medium=api&utm_source=f62da352"
     },
     "98b1c0c37fe577d1": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Providence, Providence County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887121523?se=sAiyQdqy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=5752EA0920974E7800999867D50E34DDB947E135"
     },
@@ -44117,13 +44434,14 @@
       "url": "https://www.adzuna.com/land/ad/5884849682?se=MNMJteix8RGW7Jd0wGJW9Q&utm_medium=api&utm_source=f62da352&v=9A6DBA0436286F253E81A40CC48A3E8BF342BDF7"
     },
     "99ad8fcaf2e380f8": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Madison, Dane County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887587713?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=CA742B3140022DB63F0E8BEA9A01FB80F889B260"
     },
@@ -44164,13 +44482,14 @@
       "url": "https://www.adzuna.com/land/ad/5803614789?se=Eqp6-oaB8RGuXZiVwx-Xkw&utm_medium=api&utm_source=f62da352&v=444B2B99BE9EB44D6833B92C0842F563DF4DD54D"
     },
     "99e7826ea797f85e": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Uptown, Marion County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887592552?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=3186526C2FD2A4C6CF8B968E714722443E4B0E5C"
     },
@@ -44426,6 +44745,17 @@
       "title": "Chief of Staff, Data Center Engineering \u2014 HPE Networking",
       "url": "https://www.adzuna.com/land/ad/5884745025?se=mGdhYLyx8RGx6KQk4w4iHw&utm_medium=api&utm_source=f62da352&v=1AD0F9FF7C236BD77206D0E95A784B2A13C04444"
     },
+    "9adbcb100da7cbc4": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Talcott Village, Hartford County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887568215?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=1FBF0F9DF36FAEB3C31E433F0E07B357822EAC3C"
+    },
     "9ae7048420ba5aa0": {
       "closed_at": "2026-08-03T19:26:43Z",
       "company": "Assured",
@@ -44453,7 +44783,7 @@
     "9b0279596453fbcd": {
       "company": "Valkai",
       "first_seen": "2026-09-17T16:13:19Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -44725,6 +45055,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844845896?se=MBkhyQea8RGUiq14ohrRew&utm_medium=api&utm_source=f62da352&v=A1765887F2A77CDD8EEAD81CED427FB82009BA4A"
     },
+    "9c5404bcf82c7105": {
+      "company": "JPMorganChase",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "New York, US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Office of the Head of Talent & Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5887361452?se=2JHdWA6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=BC01ED117CCFEF5735BC45360F294CC55FF69217"
+    },
     "9c65ce06dafb0afd": {
       "closed_at": "2026-08-04T08:32:30Z",
       "company": "Tuft & Associates, Inc.",
@@ -44856,6 +45197,17 @@
       "status": "closed",
       "title": "Associate, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5828915068?se=ODeofgOR8RGQ4Z-QtyXkyw&utm_medium=api&utm_source=f62da352&v=EB36DF117DF685F4C210BE4475792BF99BC81A6C"
+    },
+    "9cb99114583e978b": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Carson Mall, Carson City",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887566318?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=DC1A59A5D6C57212CBB024720AE9DE34D36FA042"
     },
     "9cbfcef8faa4d47f": {
       "closed_at": "2026-08-06T14:01:26Z",
@@ -45084,6 +45436,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5882575952?se=BFyPXmOw8RG9XpPB6nJArQ&utm_medium=api&utm_source=f62da352&v=C96344461E8893F96815CA4654851A5C1F928277"
+    },
+    "9d466066f8ea89e9": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Tumwater, Thurston County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887594543?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=E7C2CE38CEB9AA6574D27A9C1C03555B21C6C657"
     },
     "9d4c2088f4b514ce": {
       "closed_at": "2026-07-22T19:13:03Z",
@@ -45938,13 +46301,14 @@
       "url": "https://www.adzuna.com/land/ad/5833759814?se=UKvTXpGT8RGWPoJqQXFPnw&utm_medium=api&utm_source=f62da352&v=421ACA4D5157DB6248A9C36ED37788E66492309D"
     },
     "a03a95f1f8aa8812": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Bismarck, Burleigh County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887120057?se=sAiyQdqy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=5D1C9864A2658544BF81F829B0D6FD3C5A734292"
     },
@@ -47557,13 +47921,14 @@
       "url": "https://www.adzuna.com/land/ad/5874491232?se=6OJ1HZ6r8RGIJqh87QWbzg&utm_medium=api&utm_source=f62da352&v=66F8BAC070DC22C47ED0B68818B138B3CE7638D9"
     },
     "a58157e65f804a0b": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Charleston, Kanawha County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887563888?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=B3FF56B00DBAC3E1ECE027CF3F702A9CD4FF6B24"
     },
@@ -47666,7 +48031,7 @@
     "a5c77e1e5b38658a": {
       "company": "UKG",
       "first_seen": "2026-09-17T10:56:21Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "Douglas, Juneau",
       "slug": "adzuna",
       "source": "adzuna",
@@ -48466,6 +48831,17 @@
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823972908?se=4rq-4tuN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=0031DBB86CB626EAC9A21B8E680D7853244A2611"
     },
+    "a8d8b2a55d55ce67": {
+      "company": "Mission Pet Health",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Birmingham, Jefferson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5888180980?se=qjsYVw6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=BDC1B3EC035EA901237364DB748C7ADA4A781DF1"
+    },
     "a8d97acc5e63fb24": {
       "closed_at": "2026-09-09T20:23:18Z",
       "company": "Banfield",
@@ -48623,13 +48999,14 @@
       "url": "https://www.adzuna.com/land/ad/5825811744?se=tBGwLh-P8RG3SvDIKJ74_A&utm_medium=api&utm_source=f62da352&v=7418E3CCD87F4437405146E7223911E97BF01966"
     },
     "a962bdef12d2da47": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Edgewood, Richland County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887589527?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=E2A883875A598189948E35E048260F8AA466A085"
     },
@@ -50445,6 +50822,17 @@
       "title": "Associate, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5818205051?se=GECRNLmK8RGh4YMJCQ8cOQ&utm_medium=api&utm_source=f62da352&v=5522E3139FE5FA055F3F72E1AE904EC915E5C62C"
     },
+    "afa1cf9518ba7f51": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Topeka, Shawnee County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887571991?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=335A479AF6148562D3B0E5651188C9CD313B278A"
+    },
     "afa81530989d4b22": {
       "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
@@ -50580,7 +50968,7 @@
     "afe5b38197ee5582": {
       "company": "UKG",
       "first_seen": "2026-09-17T16:13:19Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "Capitol, Richmond",
       "slug": "adzuna",
       "source": "adzuna",
@@ -50803,6 +51191,17 @@
       "status": "closed",
       "title": "Advanced Optics Technology Portfolio Manager and Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5868582421?se=RtJZvguo8RGGabHdMh0IUQ&utm_medium=api&utm_source=f62da352&v=9174526604FB63E0B18B1574286D2E74839D6641"
+    },
+    "b12f79cbe0ddf88f": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Atlanta, Fulton County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887598180?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=4344F1DAE93FDFFF0D6B2247B854B000EB0A0D91"
     },
     "b1357ae119a2c299": {
       "closed_at": "2026-08-02T19:05:33Z",
@@ -51501,13 +51900,14 @@
       "url": "https://www.adzuna.com/land/ad/5836418125?se=HlurQYSV8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=D7A991467F190DFC66D348BC9B82C662F105C098"
     },
     "b38636067a9c79c9": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Archer, Laramie County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887112904?se=sAiyQdqy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=4E632CB6B718570A5E82F4A9D788127FD141DE70"
     },
@@ -51907,6 +52307,17 @@
       "title": "Strategic Chief of Staff to the Dean, Academic Medicine",
       "url": "https://www.adzuna.com/land/ad/5809407498?se=ZpGbz6aF8RGd5oc3a39PRg&utm_medium=api&utm_source=f62da352&v=BA307AEB75C5F71CAEF69C01A81284E1DE6C34A8"
     },
+    "b496e0741fa6613b": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Trenton, Mercer County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887595010?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=1C54C0E9F028528C64DDA5D344A328ABE70D58D1"
+    },
     "b4aefec8d0508c50": {
       "closed_at": "2026-08-21T12:40:41Z",
       "company": "Oracle",
@@ -51918,6 +52329,17 @@
       "status": "closed",
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850466307?se=1sJbOyud8RGVwpWvD-HIQQ&utm_medium=api&utm_source=f62da352&v=2F94DEA72C4B4B36F05961DA86AF5472D6434432"
+    },
+    "b4bb549016251627": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Boise, Ada County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887557261?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=D7D9CA09161438A00306F7014FAC1F8A3CD2588E"
     },
     "b4bb68755094dcdc": {
       "closed_at": "2026-08-08T01:21:01Z",
@@ -52198,7 +52620,7 @@
     "b5c8ed6af5795ae4": {
       "company": "Blue Cross Blue Shield of Massachusetts",
       "first_seen": "2026-09-17T10:56:21Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -52483,13 +52905,14 @@
       "url": "https://www.adzuna.com/land/ad/5856776313?se=KsuPjIah8RGhZ7gcUJZivg&utm_medium=api&utm_source=f62da352&v=354B879438E0F44383638AA773972EEB86EF1646"
     },
     "b69bcb4943ddc6ef": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Grandview Heights, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887602040?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=B8DCB92E48D2D8FEF2188987641350F3B09699BF"
     },
@@ -52792,6 +53215,17 @@
       "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5819244709?se=jgoidVaL8RGZmYFlEP0Odw&utm_medium=api&utm_source=f62da352&v=691E1981B7C9D38D1D1417C3AB85D6581D4B1716"
+    },
+    "b76e4f248e390a10": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Lansing, Ingham County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887593925?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=8FE9EE97A840521C867F242D705C4231CAC0F97F"
     },
     "b7760e1b09ab1134": {
       "closed_at": "2026-08-04T08:32:30Z",
@@ -55434,13 +55868,14 @@
       "url": "https://www.adzuna.com/land/ad/5874214748?se=ftd-9v-q8RG0cofmL8cPtg&utm_medium=api&utm_source=f62da352&v=6D08A7B77214535B9DBD157BB5C2654C650AAAB3"
     },
     "c01c684e9fd0c4f8": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Carson Mall, Carson City",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887566318?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=DC1A59A5D6C57212CBB024720AE9DE34D36FA042"
     },
@@ -55457,13 +55892,14 @@
       "url": "https://www.adzuna.com/details/5886533486?utm_medium=api&utm_source=f62da352"
     },
     "c03db94bd05944f7": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Five Points, Wake County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887600316?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=BED34FB941FA0D612ACE8CDE324CD3EC11D0B7D8"
     },
@@ -55518,7 +55954,7 @@
     "c075c770afafc93b": {
       "company": "WeVote",
       "first_seen": "2026-09-17T10:56:21Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "Oakland, Alameda County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -56801,7 +57237,7 @@
     "c4a8d9d7aac6f56e": {
       "company": "Inca Digital",
       "first_seen": "2026-09-17T10:56:21Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "Tampa, Hillsborough County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -57229,6 +57665,17 @@
       "title": "Chief of Staff & Strategy Executive",
       "url": "https://www.adzuna.com/land/ad/5865097671?se=FjWdKkSm8RGQ7M7zg-g2dQ&utm_medium=api&utm_source=f62da352&v=052A1308A612373352B26FF68002735A612ED3E1"
     },
+    "c64fee8303993b42": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Phoenix, Maricopa County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887583546?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=311768CF4617935A524C13CA66C9AB7F99AAABAA"
+    },
     "c669553c60b24e0b": {
       "closed_at": "2026-08-12T13:02:00Z",
       "company": "Banfield",
@@ -57240,6 +57687,17 @@
       "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5836540134?se=jn0YUh6W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=E4F8EA157A0EAF2FB42123B3721BAF4CAB748A52"
+    },
+    "c68d87871250286d": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Des Moines, Polk County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887574422?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=FB9280663B749096E184B36B46435BD867A8F642"
     },
     "c695b0c37b41aebe": {
       "closed_at": "2026-09-12T14:58:01Z",
@@ -57517,6 +57975,17 @@
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5843072012?se=8laYUaWY8RGaevegjTuRig&utm_medium=api&utm_source=f62da352&v=DC6C866C375A24B1A8CFE3BAF2FB6F50A3E045F1"
     },
+    "c734fe53c403fb19": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Edgewood, Richland County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887589527?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=E2A883875A598189948E35E048260F8AA466A085"
+    },
     "c73978f16ec74f9d": {
       "closed_at": "2026-08-19T12:40:19Z",
       "company": "Hourglass Cosmetics",
@@ -57756,6 +58225,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5873009962?utm_medium=api&utm_source=f62da352"
+    },
+    "c864ab22a5aba136": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Oklahoma City, Oklahoma County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887573691?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=441C06D698098A84E8C9ADFC6B1918140B61C99D"
     },
     "c887bab8f70237d4": {
       "closed_at": "2026-08-05T08:31:05Z",
@@ -58742,13 +59222,14 @@
       "url": "https://www.adzuna.com/land/ad/5835893945?se=msbforaV8RGNEO0SxDr7vQ&utm_medium=api&utm_source=f62da352&v=C6058C8B7E48BA0B1A9C0AC5AE979C9775295CB5"
     },
     "cc7d556e93087ca3": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887593618?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=F3DC30E9141203A1F714DFCEA7C70A24C8968057"
     },
@@ -60241,13 +60722,14 @@
       "url": "https://www.adzuna.com/land/ad/5818744662?se=IrOvcIGL8RGzQa4pljvFHQ&utm_medium=api&utm_source=f62da352&v=E2B5C1546E36ACC253D2FCDEC47C3CA92B91CC2C"
     },
     "d1eb4945c1ce570c": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Cammack Village, Pulaski County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887563765?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=27A9FF67F37B0F987E22CDA91DBC71ACDDB38ACC"
     },
@@ -60410,7 +60892,7 @@
     "d26bd8bd2cd021f4": {
       "company": "The San Francisco Compute Company",
       "first_seen": "2026-09-17T10:56:21Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -60501,6 +60983,17 @@
       "status": "closed",
       "title": "Chief of Staff - Manager Project Management 1 with Security Clearance",
       "url": "https://www.adzuna.com/land/ad/5869564976?se=3i4wvAuo8RGAquma5vUeHg&utm_medium=api&utm_source=f62da352&v=73B91C34C4DBE0B731D4D5FFB28E8EDC146D26F6"
+    },
+    "d2c3d246114c3d91": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Madison, Dane County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887587713?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=CA742B3140022DB63F0E8BEA9A01FB80F889B260"
     },
     "d2d897ff356060f8": {
       "closed_at": "2026-07-31T19:20:45Z",
@@ -60837,6 +61330,17 @@
       "status": "closed",
       "title": "Chief of Staff - Patient & Provider Services",
       "url": "https://www.adzuna.com/land/ad/5802146251?se=KDkadkmB8RGnGfZ-Vm2jGw&utm_medium=api&utm_source=f62da352&v=7B0433A444A7DD8D2E189A7B30BD712281BBAC32"
+    },
+    "d43f16ca19f64d96": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Nashville, Davidson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887593287?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=20A0F2BBECFDF2AEB4E27EFE6C98324B4C92D1BF"
     },
     "d43f8e7d2860b7a4": {
       "closed_at": "2026-08-12T01:43:07Z",
@@ -61438,6 +61942,17 @@
       "title": "Frontier Chief of Staff",
       "url": "https://www.adzuna.com/details/5834323965?utm_medium=api&utm_source=f62da352"
     },
+    "d66fadc4b6ff3e29": {
+      "company": "Mission Pet Health",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Birmingham, Jefferson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff - Chief Executive Officer",
+      "url": "https://www.adzuna.com/land/ad/5888209411?se=qjsYVw6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=AED4B6462A22C0D7A6A656165526112B8863D2F0"
+    },
     "d67b6450d66dc52b": {
       "closed_at": "2026-08-09T06:52:00Z",
       "company": "Freehand",
@@ -61559,13 +62074,14 @@
       "url": "https://www.adzuna.com/land/ad/5823314132?se=7pNXR4GN8RG8DqYT68M2aw&utm_medium=api&utm_source=f62da352&v=640C5D8307B8C4738AE0BF46D50310FF278689A2"
     },
     "d6fdfb25a5d583b5": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Frankfort, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887572601?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=6A6AF361F14CD3F204453789CBE0B65D9B543F55"
     },
@@ -62109,10 +62625,21 @@
       "title": "Chief of Staff & AI Operations Manager, AI Operating Group - Remote",
       "url": "https://www.adzuna.com/details/5812300502?utm_medium=api&utm_source=f62da352"
     },
+    "d8fb884b57492f2a": {
+      "company": "Oracle",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Augusta, Kennebec County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Program Manager, Chief of Staff, Applied AI",
+      "url": "https://www.adzuna.com/land/ad/5888535238?se=qjsYVw6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=A097738158E6B54BD73590CCCE6220956B0A9428"
+    },
     "d8ff2017b545cee8": {
       "company": "King County",
       "first_seen": "2026-09-17T10:56:21Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "Pioneer Square, King County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -63081,13 +63608,14 @@
       "url": "https://www.adzuna.com/land/ad/5868824753?se=NMQqvQuo8RGpEdUzgEZ57g&utm_medium=api&utm_source=f62da352&v=E6B40946A6A3E7702F742E33569AE9E22C7E89AF"
     },
     "dc46b4a598d51d7b": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Nashville, Davidson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887593287?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=20A0F2BBECFDF2AEB4E27EFE6C98324B4C92D1BF"
     },
@@ -63716,13 +64244,14 @@
       "url": "https://www.adzuna.com/land/ad/5823969546?se=5u8y5duN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=E1B9B7A6BB8313C0093E3DAC058F19F461199DEF"
     },
     "deb9e4971bf14939": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Talcott Village, Hartford County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887568215?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=1FBF0F9DF36FAEB3C31E433F0E07B357822EAC3C"
     },
@@ -64101,7 +64630,7 @@
     "dff86d39bc5925a4": {
       "company": "Medical Management International",
       "first_seen": "2026-09-17T10:56:21Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -64854,13 +65383,14 @@
       "url": "https://www.adzuna.com/details/5823156168?utm_medium=api&utm_source=f62da352"
     },
     "e2aa776f7526cdc6": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Phoenix, Maricopa County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887583546?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=311768CF4617935A524C13CA66C9AB7F99AAABAA"
     },
@@ -65693,13 +66223,14 @@
       "url": "https://www.adzuna.com/land/ad/5874284214?se=RG3FHp6r8RGIJqh87QWbzg&utm_medium=api&utm_source=f62da352&v=0FC751D9588B142AC3B3DF8F1710DF78EF7ADB70"
     },
     "e529158ff2de2168": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Helena, Lewis and Clark County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887028360?se=sAiyQdqy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=EEE08338C0FDD60E1FECBC70145BDEE9694C3FD8"
     },
@@ -65846,6 +66377,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5869144558?se=oqTBHNan8RGAquma5vUeHg&utm_medium=api&utm_source=f62da352&v=DDD7F69342A0E06439CEB2111299FB8630BDB989"
+    },
+    "e580004229cb1f6b": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Saint Paul, Ramsey County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887587386?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=DF8D57720C4FF55D35C5048DAAEBB1A91A46F793"
     },
     "e58ac9e02413e6be": {
       "closed_at": "2026-08-21T06:40:25Z",
@@ -67154,6 +67696,17 @@
       "status": "closed",
       "title": "Chief of Staff, CRO - Remote",
       "url": "https://www.adzuna.com/land/ad/5861375856?se=lC5Wgeej8RGxSf1iGXKoQA&utm_medium=api&utm_source=f62da352&v=48C74128A76A8B560622E17D4A2D59521486B99D"
+    },
+    "e9a2941882baaf16": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Bonnie, Utah County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887565759?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=C3B9EEC8E8E48B13556CC400FAECE53B97015F0C"
     },
     "e9a97ee9fd0df385": {
       "closed_at": "2026-08-12T13:02:00Z",
@@ -70720,13 +71273,14 @@
       "url": "https://www.adzuna.com/land/ad/5809422893?se=_vFz5TiF8RGgQcTn0fwhJg&utm_medium=api&utm_source=f62da352&v=123A490B27323E2E1EDADBA3D894CD4E8AC5EEDE"
     },
     "f5ab23efcb1b7b87": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "Mission Pet Health",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Fort Worth, Tarrant County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5888179852?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=256F1CDD3414EC3ACECB90B2DF13DFCC67D97449"
     },
@@ -71403,13 +71957,14 @@
       "url": "https://www.adzuna.com/details/5854663144?utm_medium=api&utm_source=f62da352"
     },
     "f7d9647f12cc1aee": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Boise, Ada County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887557261?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=D7D9CA09161438A00306F7014FAC1F8A3CD2588E"
     },
@@ -72352,7 +72907,7 @@
     "fac8e17bdff93d38": {
       "company": "UKG",
       "first_seen": "2026-09-17T16:13:19Z",
-      "last_seen": "2026-09-17T20:56:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
       "location": "Penbrook, Dauphin County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -72443,6 +72998,17 @@
       "status": "closed",
       "title": "Director, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5882584343?se=GtPQorSw8RGTQqzE1MT0Kg&utm_medium=api&utm_source=f62da352&v=3BC1BD2FDDF9A32A5DA918E7F87A45696567C3A6"
+    },
+    "fb152ac4196a7d00": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Annapolis, Anne Arundel County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887589759?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=3D7B687C46BB6F9C98335D4BB9DD782B4F9D5D52"
     },
     "fb29a4c7ac0df456": {
       "closed_at": "2026-09-03T20:28:49Z",
@@ -72601,13 +73167,14 @@
       "url": "https://www.adzuna.com/land/ad/5820152858?se=HK1Aa7uL8RGy6YPamwKkEg&utm_medium=api&utm_source=f62da352&v=F97009477A39D8D183419AA0FCD179AAEFA0D7E0"
     },
     "fb8a026fb9b45b3a": {
+      "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
       "first_seen": "2026-09-17T20:56:03Z",
       "last_seen": "2026-09-17T20:56:03Z",
       "location": "Salem, Marion County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887579428?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=CBFE7A366C54F9B4D356D54FD0571EAFEC5AFBF3"
     },
@@ -73379,6 +73946,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5874600855?se=6OJ1HZ6r8RGIJqh87QWbzg&utm_medium=api&utm_source=f62da352&v=CEA4201867F4221769565B36928AFED13F896D18"
     },
+    "fe0b5fd4b3f73ecc": {
+      "company": "UKG",
+      "first_seen": "2026-09-18T03:09:03Z",
+      "last_seen": "2026-09-18T03:09:03Z",
+      "location": "Glendale, Denver",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, GTM",
+      "url": "https://www.adzuna.com/land/ad/5887555662?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=485A82B34176AE18E7A7A97526F7D99C58CE06F1"
+    },
     "fe0d2365ecdbfe39": {
       "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
@@ -73944,5 +74522,5 @@
       "url": "https://www.adzuna.com/details/5816410970?utm_medium=api&utm_source=f62da352"
     }
   },
-  "last_run": "2026-09-17T20:56:03Z"
+  "last_run": "2026-09-18T03:09:03Z"
 }
