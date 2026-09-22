@@ -1,6 +1,5 @@
 {
   "errors": [
-    "greenhouse/stripe: HTTPSConnectionPool(host='boards-api.greenhouse.io', port=443): Read timed out. (read timeout=20)",
     "greenhouse/notion: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/notion/jobs?content=true",
     "greenhouse/rippling: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/rippling/jobs?content=true",
     "lever/plaid: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/plaid?mode=json",
@@ -873,13 +872,14 @@
       "url": "https://www.adzuna.com/land/ad/5856776008?se=jBBNEkyh8RGibI7KeL9hYA&utm_medium=api&utm_source=f62da352&v=17BB0E3A732A9BD5378DC7527B18BE2C753283EC"
     },
     "0323ebb4c72838c3": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Saint Paul, Ramsey County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892734639?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=FF4D9D66BD7FC8F2C91D82AC9E231FAB6223AF8A"
     },
@@ -966,6 +966,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5865097533?se=FjWdKkSm8RGQ7M7zg-g2dQ&utm_medium=api&utm_source=f62da352&v=54547098145BAEEA8B56694E03F09684FFC7375F"
+    },
+    "035a75aedd8c8cbe": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Des Moines, Polk County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892720344?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=84B14D87C2E5AE64B0622765AC60D47FCE77DD53"
     },
     "0366a475c0275ae5": {
       "closed_at": "2026-09-15T20:51:11Z",
@@ -1148,13 +1159,14 @@
       "url": "https://www.adzuna.com/land/ad/5850465187?se=1sJbOyud8RGVwpWvD-HIQQ&utm_medium=api&utm_source=f62da352&v=A255477F97A1261139C1A39990A6168B6238E2DE"
     },
     "03b11dab10f6298f": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "The Estee Lauder Companies",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Grand Central, Manhattan",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff and Special Projects",
       "url": "https://www.adzuna.com/land/ad/5891658295?se=AiIhiee18RGVK77OOimlQQ&utm_medium=api&utm_source=f62da352&v=3DAFFB5BF704B01C5768D25B824067B25DFFA758"
     },
@@ -1293,7 +1305,7 @@
     "04245df7e478800d": {
       "company": "Scale AI",
       "first_seen": "2026-08-03T19:26:43Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "Washington, DC",
       "slug": "scaleai",
       "source": "greenhouse",
@@ -1336,6 +1348,17 @@
       "status": "closed",
       "title": "Associate, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5841625169?se=YsCZARGY8RGOaqmpVDVsqA&utm_medium=api&utm_source=f62da352&v=80A9FB5A385D29881614EA5C7C0CA27B33808C46"
+    },
+    "0460fa934d9c96f5": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Tumwater, Thurston County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892736916?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=91FBF16954B5935C5D4838109C96DC9FF1F9A384"
     },
     "046890730dfcee85": {
       "closed_at": "2026-08-29T05:35:34Z",
@@ -1386,13 +1409,14 @@
       "url": "https://www.adzuna.com/land/ad/5868709576?se=RpSsia6n8RGxWp4A46G3QA&utm_medium=api&utm_source=f62da352&v=85E67610EF8DE67CDFECC2477CDB160C9627DD76"
     },
     "04987bae21f39cd5": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Archer, Laramie County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892331048?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=41D6BF55AB620B108079A58D7286F0F1A94EB49A"
     },
@@ -1539,6 +1563,17 @@
       "status": "closed",
       "title": "Chief of Staff to CEO & President \u2014 Strategy & Operations (Palo Alto)",
       "url": "https://www.adzuna.com/details/5830003029?utm_medium=api&utm_source=f62da352"
+    },
+    "04f452d59856e1e0": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Carson Mall, Carson City",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892722723?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=5091469B4CB2D9D76AC96CE2BB0ECF08EB76C81A"
     },
     "04fb24b6a3876882": {
       "closed_at": "2026-09-09T10:44:36Z",
@@ -1795,7 +1830,7 @@
     "05b6789a9198598d": {
       "company": "Scurri",
       "first_seen": "2026-09-20T10:36:13Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "Dallas, Texas",
       "slug": "adzuna",
       "source": "adzuna",
@@ -2416,13 +2451,14 @@
       "url": "https://www.adzuna.com/land/ad/5821902454?se=gKBXQbyM8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=905F0F5A3C91B5E03AB9AF1A903C3C02ABE089A1"
     },
     "07cef5bb8b3d6736": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Bismarck, Burleigh County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892333645?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=97CBB31E5729110DA65CA759768E014DA9E0FF41"
     },
@@ -2643,13 +2679,14 @@
       "url": "https://www.adzuna.com/land/ad/5817297661?se=qGLdBSuK8RGhc8VmICvpmw&utm_medium=api&utm_source=f62da352&v=730BCEBC7D3D4C2F4C6A53CDEBC83BD502856CB5"
     },
     "0849c664292c0d1d": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Bonnie, Utah County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892722742?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=30CDFB7D05973F2706B4F92E5670798A8CE14D78"
     },
@@ -2884,7 +2921,7 @@
     "08e52cbcde97cba4": {
       "company": "Western Digital",
       "first_seen": "2026-09-21T11:58:39Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "Springfield, Sangamon County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -2999,6 +3036,17 @@
       "status": "closed",
       "title": "CHIEF OF STAFF - PEDIATRIC ORTHOPEDICS - SHRINERS ST LOUIS",
       "url": "https://www.adzuna.com/land/ad/5825255461?se=Kvy3BEuO8RGX2L3R0S5OZA&utm_medium=api&utm_source=f62da352&v=62CB1B75A796CAAB31E93B37898ECA3A10AB5012"
+    },
+    "092d43d1ff4a2343": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Frankfort, Franklin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892726308?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=6F5AA47F20538FD10817831F1911B4255C47AA4C"
     },
     "092f0acdf193e84a": {
       "closed_at": "2026-08-14T18:50:06Z",
@@ -4417,13 +4465,14 @@
       "url": "https://www.adzuna.com/details/5812298575?utm_medium=api&utm_source=f62da352"
     },
     "0d86083e6d451142": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Washington, D.C., US",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892714350?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=C8F6509A77185137019135A3206B09471E76F75F"
     },
@@ -4824,13 +4873,14 @@
       "url": "https://www.adzuna.com/land/ad/5803647871?se=zhMVZbaB8RGuXZiVwx-Xkw&utm_medium=api&utm_source=f62da352&v=BA29603FD3EB94D9AABC2CE208902E4AFFB8587B"
     },
     "0eadf686c4e55736": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Montpelier, Washington County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892367925?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=017C47597DBE45260AD81E55C04C3E3822F01DBD"
     },
@@ -5627,13 +5677,14 @@
       "url": "https://www.adzuna.com/details/5854662521?utm_medium=api&utm_source=f62da352"
     },
     "1158aeeccb3aac57": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Wake Island, Honolulu",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892242737?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=A08F2872342CF71D42B1FD8207451C35E7920BA9"
     },
@@ -6249,6 +6300,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5868823398?se=RpSsia6n8RGxWp4A46G3QA&utm_medium=api&utm_source=f62da352&v=B573545C07D9304B09220CC66E80919503453851"
     },
+    "13d4727ff85bc416": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Archer, Laramie County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892331048?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=41D6BF55AB620B108079A58D7286F0F1A94EB49A"
+    },
     "13e3564f47584c4f": {
       "closed_at": "2026-07-17T08:06:01Z",
       "company": "KION GROUP",
@@ -6418,20 +6480,21 @@
       "url": "https://www.adzuna.com/land/ad/5861788713?se=IC-nDYyk8RGEeLI7Dotn4Q&utm_medium=api&utm_source=f62da352&v=8AAB2BA126769876D7724A5407904712DFCCFAB7"
     },
     "14b3f08d38605f3d": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Phoenix, Maricopa County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892732891?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=420D6DBBEB343CC94BF3F7EFF5D8FAF7EB88CEDA"
     },
     "14bfb49c87cef557": {
       "company": "Western Digital",
       "first_seen": "2026-09-21T11:58:39Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "Tallahassee, Leon County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -8707,6 +8770,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5869213973?se=3i4wvAuo8RGAquma5vUeHg&utm_medium=api&utm_source=f62da352&v=43783C62725822B6B82328D8AC349D1F0E34442A"
     },
+    "1c52ece111467125": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Grandview Heights, Franklin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892741570?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=ECE623A13370E95E2AB7ABBF9F1D95CC78AA2FEC"
+    },
     "1c53417ec201ecb3": {
       "closed_at": "2026-09-18T03:09:03Z",
       "company": "Arc Institute",
@@ -9463,6 +9537,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5890508376?se=lDhU7mq18RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=D232CF218C0D4CAA2CAB6F2584E1ED57ABBEBE43"
     },
+    "1ea76160571d0b4d": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Pierre, Hughes County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892336298?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=C7962C2A236EEF526D97515334B320A8929D94AF"
+    },
     "1ea86bfa61168680": {
       "closed_at": "2026-09-15T20:51:11Z",
       "company": "Phusion Projects LLC",
@@ -9656,13 +9741,14 @@
       "url": "https://www.adzuna.com/land/ad/5884782543?se=YibTOkex8RG80dqbAPfRRQ&utm_medium=api&utm_source=f62da352&v=866B6368DC343303DA5A8EC0CE5FBDC61F2F26CD"
     },
     "1f989b240dcd9b86": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Salem, Marion County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892727702?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=5AB549F71498412F1B761D178C768F91E8465E79"
     },
@@ -9821,6 +9907,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5884721409?se=3BTKNn2x8RGKueTDCc9nGA&utm_medium=api&utm_source=f62da352&v=12DEE255FF2349D70B81AFAF79D74FAEE4485E3D"
+    },
+    "200c0c32e95727a1": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Lansing, Ingham County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892736147?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=AB0DF55D5B0518265983CA2B3B253FCE16612A27"
     },
     "200e65cf83055183": {
       "closed_at": "2026-08-13T01:45:55Z",
@@ -10051,13 +10148,14 @@
       "url": "https://www.adzuna.com/land/ad/5874284214?se=5j7fbt-q8RGu8tJYnCgVuw&utm_medium=api&utm_source=f62da352&v=0FC751D9588B142AC3B3DF8F1710DF78EF7ADB70"
     },
     "20c5d7908ff764aa": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Lansing, Ingham County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892736147?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=AB0DF55D5B0518265983CA2B3B253FCE16612A27"
     },
@@ -11144,7 +11242,7 @@
     "242abf78c0dc7043": {
       "company": "Hollman",
       "first_seen": "2026-09-20T15:25:11Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "Irving, Dallas",
       "slug": "adzuna",
       "source": "adzuna",
@@ -11321,13 +11419,14 @@
       "url": "https://www.adzuna.com/land/ad/5861833326?se=MF3C8GOk8RGf1rbwV-jGNg&utm_medium=api&utm_source=f62da352&v=814619297399DE75BFCF6001A7B163C88CA090FD"
     },
     "24d26b7fb64975f9": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Trenton, Mercer County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892736437?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=8EDDD716EB30D4A8A79A247348189347C6CBC132"
     },
@@ -11608,13 +11707,14 @@
       "url": "https://www.adzuna.com/land/ad/5823971432?se=zr4i5NuN8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=E40B0962E31835CC5B575FAC79FCEA82D20F365D"
     },
     "25eec067e59edfbc": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Five Points, Wake County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892740634?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=D60180444F62D060C6D295F89A34D4D72A07FF8C"
     },
@@ -12962,6 +13062,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5865124082?se=FjWdKkSm8RGQ7M7zg-g2dQ&utm_medium=api&utm_source=f62da352&v=B678026776BB8E7897F774CBD79278701EB64416"
     },
+    "29a77feec705489e": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Saint Paul, Ramsey County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892734639?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=FF4D9D66BD7FC8F2C91D82AC9E231FAB6223AF8A"
+    },
     "29ad043701fabc52": {
       "closed_at": "2026-08-24T18:35:43Z",
       "company": "Arcadia",
@@ -14247,13 +14358,14 @@
       "url": "https://www.adzuna.com/land/ad/5836568608?se=UAYsN--V8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=08E5C93A601846F557A5FD9255FB3CFB65686042"
     },
     "2db77861c6e4a57f": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "ServiceNow, Inc.",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "SoMa, San Francisco",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Head of Marketing Strategy & Operations",
       "url": "https://www.adzuna.com/land/ad/5891639386?se=AiIhiee18RGVK77OOimlQQ&utm_medium=api&utm_source=f62da352&v=BC61BBB2053EE5509F569FC928A9F18DCF597884"
     },
@@ -15229,6 +15341,17 @@
       "title": "Chief of Staff, Office of the CEO",
       "url": "https://www.adzuna.com/land/ad/5818744662?se=jgoidVaL8RGZmYFlEP0Odw&utm_medium=api&utm_source=f62da352&v=E2B5C1546E36ACC253D2FCDEC47C3CA92B91CC2C"
     },
+    "3096172edb3379cc": {
+      "company": "ServiceNow, Inc.",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "SoMa, San Francisco",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Head of Marketing Strategy & Operations",
+      "url": "https://www.adzuna.com/land/ad/5891639386?se=ENxFBDS28RGVK77OOimlQQ&utm_medium=api&utm_source=f62da352&v=BC61BBB2053EE5509F569FC928A9F18DCF597884"
+    },
     "30a3196a163eabcd": {
       "closed_at": "2026-07-26T13:15:43Z",
       "company": "Lyft",
@@ -15540,6 +15663,17 @@
       "status": "closed",
       "title": "Chief of Staff, Academy of Nutrition and Dietetics (Chicagoland area based)",
       "url": "https://www.adzuna.com/land/ad/5817054315?se=YpDIGKCJ8RG3tOkLR0Zx3w&utm_medium=api&utm_source=f62da352&v=E26B44146839C489F547D1E2F65F45296A593CE0"
+    },
+    "3168f9234986a1e2": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Ny State Campus, Albany County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892710455?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=5DF5B3FF6EB4FE32D25ABF9EC3376A25125579DE"
     },
     "317a4a14af93cd7d": {
       "closed_at": "2026-07-25T08:02:57Z",
@@ -17090,13 +17224,14 @@
       "url": "https://www.adzuna.com/land/ad/5830500678?se=sm71LJGS8RGWPoJqQXFPnw&utm_medium=api&utm_source=f62da352&v=61ED43AE530232251B064FD9EC29C6F725CBF80B"
     },
     "36abc4fc5af7c52b": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Tumwater, Thurston County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892736916?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=91FBF16954B5935C5D4838109C96DC9FF1F9A384"
     },
@@ -17245,13 +17380,14 @@
       "url": "https://www.adzuna.com/land/ad/5842972846?se=1O_4nDyZ8RGJftUyzQ0_4w&utm_medium=api&utm_source=f62da352&v=80A6921A82911B43397EC4906028127810904B8A"
     },
     "3765cd54000b57c0": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Ny State Campus, Albany County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892710455?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=5DF5B3FF6EB4FE32D25ABF9EC3376A25125579DE"
     },
@@ -18120,13 +18256,14 @@
       "url": "https://www.adzuna.com/land/ad/5861840841?se=IC-nDYyk8RGEeLI7Dotn4Q&utm_medium=api&utm_source=f62da352&v=B5A7D6AF43D10413AF6A8A5E2153DDF0D392033F"
     },
     "3a53c8f69fb53984": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Carson Mall, Carson City",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892722723?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=5091469B4CB2D9D76AC96CE2BB0ECF08EB76C81A"
     },
@@ -18681,6 +18818,17 @@
       "status": "closed",
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662653?utm_medium=api&utm_source=f62da352"
+    },
+    "3c1732a78ea2c1ca": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Five Points, Wake County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892740634?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=D60180444F62D060C6D295F89A34D4D72A07FF8C"
     },
     "3c1b5bb9ea487246": {
       "closed_at": "2026-07-21T13:43:39Z",
@@ -19669,13 +19817,24 @@
     "3eb9492152abc56b": {
       "company": "Checkr",
       "first_seen": "2026-07-16T16:52:38Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "San Francisco, California, United States",
       "slug": "checkr",
       "source": "greenhouse",
       "status": "active",
       "title": "Chief of Staff",
       "url": "https://job-boards.greenhouse.io/checkr/jobs/7913718"
+    },
+    "3ebbe1d2b4053110": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Mongmong, Mongmong-Toto-Maite",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892327513?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=7ABF2C07FC3ACB8F1CCDD0F33370930C669CB094"
     },
     "3ebf96026c9fe178": {
       "closed_at": "2026-07-28T08:29:36Z",
@@ -21393,6 +21552,17 @@
       "title": "Director of Personal Affairs/Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5822097547?se=furqBxWN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=847174F60A07FC32C5A669BCB2BB9015D1368174"
     },
+    "430f58477fddb6b9": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Washington, D.C., US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892714350?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=C8F6509A77185137019135A3206B09471E76F75F"
+    },
     "431a7355b4d0c44c": {
       "closed_at": "2026-07-29T02:25:18Z",
       "company": "Lyft",
@@ -21512,6 +21682,17 @@
       "status": "closed",
       "title": "Chief of Staff to the President & Chief Executive Officer (CEO) at Confidential Palo Alto, CA",
       "url": "https://www.adzuna.com/land/ad/5865143462?se=Knsk9nim8RG8RN41HFlqJw&utm_medium=api&utm_source=f62da352&v=94B0D527E74562B407360A13CAF7D10D462ADF49"
+    },
+    "439f5312e72f18c8": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "State House, Lancaster County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892715152?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=B46C1FD89F3EC276B0AFFB3682DB02FE78BC6E06"
     },
     "43a72288b6f0c1c4": {
       "closed_at": "2026-07-17T13:22:32Z",
@@ -21778,13 +21959,14 @@
       "url": "https://www.adzuna.com/details/5823491014?utm_medium=api&utm_source=f62da352"
     },
     "4433f974fee2a435": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Des Moines, Polk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892720344?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=84B14D87C2E5AE64B0622765AC60D47FCE77DD53"
     },
@@ -24777,24 +24959,26 @@
       "url": "https://www.adzuna.com/details/5871812430?utm_medium=api&utm_source=f62da352"
     },
     "4dc27d0767c9a7b3": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Jackson, Hinds County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892717998?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=8F58BDF5C4CEA294EE8ECA6A3DB626BAF91C5065"
     },
     "4dc655f8dfdc4136": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Baton Rouge, East Baton Rouge Parish",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892727465?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=018351CC7EF3C486BEDA6A9153A9DDD532D0C7E6"
     },
@@ -25903,13 +26087,14 @@
       "url": "https://www.adzuna.com/land/ad/5826706936?se=pmSWTHGP8RGiFPg8UCT7uA&utm_medium=api&utm_source=f62da352&v=12B6B960750AD51971B379102F458ED16660D485"
     },
     "51855ef56994e66c": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Helena, Lewis and Clark County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892242628?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=198F4F7A2698B9C5AD46F9379162489BD5E7D799"
     },
@@ -27318,13 +27503,14 @@
       "url": "https://www.adzuna.com/land/ad/5814073124?se=tFo4T9CH8RGMv-1xTUutqg&utm_medium=api&utm_source=f62da352&v=E95DC910CA85CC7FF2DAB14251A28048F12535DC"
     },
     "55f68899c9efdb23": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Cammack Village, Pulaski County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892719276?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=BB028BD9875193EE414CF38053B0B30733603C18"
     },
@@ -27797,13 +27983,14 @@
       "url": "https://www.adzuna.com/land/ad/5850663020?se=8JurbMWd8RGnZ6fRVSHzTw&utm_medium=api&utm_source=f62da352&v=2215390AA3C1EC73C0BEF9748673C15011DC29C6"
     },
     "57caae20db45dc02": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Fieldwire",
       "first_seen": "2026-09-20T10:36:13Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff - Finance & Ops",
       "url": "https://www.adzuna.com/details/5891361939?utm_medium=api&utm_source=f62da352"
     },
@@ -28430,6 +28617,17 @@
       "status": "closed",
       "title": "Chief of Staff-Global Supply Chain (Dir. Business Strategy and Operations)",
       "url": "https://www.adzuna.com/details/5810535029?utm_medium=api&utm_source=f62da352"
+    },
+    "5a20d836dff1197d": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "La Cienga, Santa Fe County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892720415?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=4E3CD63AAD49999D615DC79E4C5CE2D1739E40E1"
     },
     "5a2450f4aacb0cb7": {
       "closed_at": "2026-09-04T15:44:13Z",
@@ -31131,6 +31329,17 @@
       "title": "Chief of Staff, Co-CEO",
       "url": "https://www.adzuna.com/land/ad/5870046583?se=UjFJMkyo8RGditPr9QqE6w&utm_medium=api&utm_source=f62da352&v=5C5AF22CE658CE35D06BD7DB74B913B2B69432DD"
     },
+    "6254d8c597704e57": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Salem, Marion County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892727702?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=5AB549F71498412F1B761D178C768F91E8465E79"
+    },
     "62695b624c0310cd": {
       "closed_at": "2026-09-15T20:51:11Z",
       "company": "Autodesk",
@@ -31792,13 +32001,14 @@
       "url": "https://www.adzuna.com/land/ad/5836337991?se=vPapn1KV8RG7ILaWj3cC-A&utm_medium=api&utm_source=f62da352&v=ED83ACAAC8417AF061095F36374609D06D55EAAE"
     },
     "643908a5cef712a4": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Cedar, Cole County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892735850?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=7F62DD1412EFC8451A00373B66F89A84846232B8"
     },
@@ -32125,6 +32335,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5890510227?se=msoVuT208RG21Njjpj2Wpg&utm_medium=api&utm_source=f62da352&v=7CB2137C748757732F9A1330DF50B24C14207371"
+    },
+    "65807fc14ed76649": {
+      "company": "Veterans Health Administration",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Honolulu, Hawaii",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Physician - Associate Chief of Staff (Primary Care)",
+      "url": "https://www.adzuna.com/details/5893489215?utm_medium=api&utm_source=f62da352"
     },
     "65860c019733f7ef": {
       "closed_at": "2026-09-20T03:21:30Z",
@@ -33027,13 +33248,14 @@
       "url": "https://www.adzuna.com/land/ad/5874593877?se=3sR-9P-q8RGyxtY0rUukWA&utm_medium=api&utm_source=f62da352&v=9BFA95BF66F83917FC69F9B74B8DD0AB0C13E45A"
     },
     "6933f3e6eb319eda": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Oklahoma City, Oklahoma County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892726038?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=EE7C3BA43FAF78DC64F01A622D8695D780FB4F80"
     },
@@ -33626,13 +33848,14 @@
       "url": "https://www.adzuna.com/land/ad/5879630577?se=omqOBOau8RGmH_Ty5BvfSA&utm_medium=api&utm_source=f62da352&v=44602D806CA7417FCDFD9EEE1DC62989E2D50C0F"
     },
     "6b2c22bbb2246b1d": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Pierre, Hughes County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892336298?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=C7962C2A236EEF526D97515334B320A8929D94AF"
     },
@@ -35019,7 +35242,7 @@
     "6fb358cd96de8020": {
       "company": "Capital One",
       "first_seen": "2026-09-20T15:25:11Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "Tysons Corner, Fairfax County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -36695,6 +36918,17 @@
       "title": "Chief of Staff Manager",
       "url": "https://www.adzuna.com/land/ad/5836544816?se=jn0YUh6W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=02BF3275ADC3345DA597FE67F5D834129F218246"
     },
+    "750e7cd3584e63e6": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Bismarck, Burleigh County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892333645?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=97CBB31E5729110DA65CA759768E014DA9E0FF41"
+    },
     "75212ea108a2ece9": {
       "closed_at": "2026-07-25T13:19:18Z",
       "company": "Office of the New York City Comptroller",
@@ -38339,6 +38573,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5888775299?utm_medium=api&utm_source=f62da352"
     },
+    "7aa16a12b7a08742": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Wake Island, Honolulu",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892242737?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=A08F2872342CF71D42B1FD8207451C35E7920BA9"
+    },
     "7aa4dbd1aa24a54a": {
       "closed_at": "2026-08-18T01:03:37Z",
       "company": "Coinbase",
@@ -39768,13 +40013,14 @@
       "url": "https://www.adzuna.com/land/ad/5821915160?se=furqBxWN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=23AC718CA8B4219F49D57B08F5D44C2E044BD955"
     },
     "7e8eb50f58ca1e3d": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Providence, Providence County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892334538?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=A7E0F6D4DB3DEAAC283BB87F3B7C71B68EA454EC"
     },
@@ -40486,6 +40732,17 @@
       "title": "Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5860177081?utm_medium=api&utm_source=f62da352"
     },
+    "810931acfc242927": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Montpelier, Washington County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892367925?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=017C47597DBE45260AD81E55C04C3E3822F01DBD"
+    },
     "810a5f94215226b0": {
       "closed_at": "2026-09-17T10:56:21Z",
       "company": "RemotelyHR",
@@ -40869,6 +41126,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5868820049?utm_medium=api&utm_source=f62da352"
+    },
+    "827db5e6537b2f90": {
+      "company": "J.P. Morgan",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Jersey City, Hudson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Lead Technical Program Manager- Chief of Staff",
+      "url": "https://www.adzuna.com/details/5893494898?utm_medium=api&utm_source=f62da352"
     },
     "827e0bb5aaf68e07": {
       "closed_at": "2026-07-28T02:21:04Z",
@@ -41375,13 +41643,14 @@
       "url": "https://www.adzuna.com/land/ad/5888535138?se=qjsYVw6z8RGC2-zUv1gYag&utm_medium=api&utm_source=f62da352&v=75A47C3F6FE53928187042EB73504FD616C6426B"
     },
     "842f9ec1938edb9c": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Citigroup",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Grand Central, Manhattan",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Head of Business Strategy & Operations/Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5892726883?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=E9F2E172D49BC382123DC725C6484199A10C55E0"
     },
@@ -41420,6 +41689,17 @@
       "status": "closed",
       "title": "Associate, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5808061304?se=xn1wvquE8RGAlJMQe9ygCA&utm_medium=api&utm_source=f62da352&v=80A150DF4BB905664C2F8CB9141456C1E3F3ED09"
+    },
+    "844b2a5d7c887662": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Trenton, Mercer County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892736437?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=8EDDD716EB30D4A8A79A247348189347C6CBC132"
     },
     "844b570915baa4b3": {
       "closed_at": "2026-08-26T12:45:35Z",
@@ -41554,13 +41834,14 @@
       "url": "https://www.adzuna.com/land/ad/5869362257?se=Qg8RM0yo8RGditPr9QqE6w&utm_medium=api&utm_source=f62da352&v=F82BD4D7333342B6F9AB41C2627EB954750799C5"
     },
     "84b67f0f6b9ce178": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Atlanta, Fulton County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892739194?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=03B83C3F0A0A5354129A27C02A2E86200E37BEDE"
     },
@@ -43113,13 +43394,14 @@
       "url": "https://www.adzuna.com/land/ad/5843665180?se=xnQytKCa8RGyIdVC-Du-Yg&utm_medium=api&utm_source=f62da352&v=3ECB8B9C1FFF6666CF4C613628301C40EEB3BD51"
     },
     "890cf91c398cfef0": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Glendale, Denver",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892714929?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=271A33C4629564BB77B9F02235F26C8AAAB76BCD"
     },
@@ -43230,6 +43512,17 @@
       "status": "closed",
       "title": "Chief of Staff for Chief Regulatory Officer (Washington)",
       "url": "https://www.adzuna.com/land/ad/5825808721?se=7hTi4eOO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=375CC6E6E07814D0C854EDD58D0FE095BE543C44"
+    },
+    "899af0ed6f54b081": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Jackson, Hinds County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892717998?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=8F58BDF5C4CEA294EE8ECA6A3DB626BAF91C5065"
     },
     "899ddfcf403761df": {
       "closed_at": "2026-08-07T18:52:18Z",
@@ -43460,13 +43753,14 @@
       "url": "https://www.adzuna.com/land/ad/5870859331?se=4L3tKtWo8RGKupoVICWNPA&utm_medium=api&utm_source=f62da352&v=6085B23FAE004813341E0F4BCDC14D5C84412B35"
     },
     "8a34af66600586c2": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Annapolis, Anne Arundel County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892731116?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=4E4229C9AAE1ED629E71C27FC8E272317CA573E8"
     },
@@ -43687,13 +43981,14 @@
       "url": "https://www.adzuna.com/land/ad/5823968160?se=5n9zbBqO8RGBm-nBsWM45g&utm_medium=api&utm_source=f62da352&v=D0E2C72A72807693413388682208254934184F26"
     },
     "8aea1efa33f3a9a0": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Frankfort, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892726308?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=6F5AA47F20538FD10817831F1911B4255C47AA4C"
     },
@@ -43720,6 +44015,17 @@
       "status": "closed",
       "title": "Strategic Chief of Staff for Customer Growth (Hershey)",
       "url": "https://www.adzuna.com/land/ad/5814084374?se=MhhOTtCH8RGEopbyd0f8Hw&utm_medium=api&utm_source=f62da352&v=A3212590EDB98D0C8BAFD60086F4B29AE628B3AC"
+    },
+    "8aff34397e0162b9": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Annapolis, Anne Arundel County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892731116?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=4E4229C9AAE1ED629E71C27FC8E272317CA573E8"
     },
     "8b0b043d7ad5bdbf": {
       "closed_at": "2026-08-03T19:26:43Z",
@@ -44286,13 +44592,14 @@
       "url": "https://www.adzuna.com/land/ad/5844856496?se=sv45izia8RG99P0DnZNbXw&utm_medium=api&utm_source=f62da352&v=5E1DDF78D35BACB94B01F9037063A09537B8B10C"
     },
     "8cc39d9d89f2881d": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Nashville, Davidson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892736208?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=278B4AAA44D45DE3295AF934F20C671E8FB5B6FF"
     },
@@ -44535,6 +44842,17 @@
       "status": "closed",
       "title": "Remote Chief of Staff to CLO - Strategy & Execution Leader (Penn)",
       "url": "https://www.adzuna.com/land/ad/5814068209?se=tFo4T9CH8RGMv-1xTUutqg&utm_medium=api&utm_source=f62da352&v=4552D6802EC9E9E4E3286D31F05CBB00F1F2791E"
+    },
+    "8dbd57eee23a4893": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Nashville, Davidson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892736208?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=278B4AAA44D45DE3295AF934F20C671E8FB5B6FF"
     },
     "8dbe9d65f73ee443": {
       "closed_at": "2026-08-03T09:38:54Z",
@@ -45269,13 +45587,14 @@
       "url": "https://www.adzuna.com/details/5838550613?utm_medium=api&utm_source=f62da352"
     },
     "8fc89d73286fbe60": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Boise, Ada County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892712195?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=6AF1AD1E682E63FCA7FF1F7E56A9D81CBE05DB02"
     },
@@ -46179,6 +46498,17 @@
       "title": "CHIEF OF STAFF \u2013 PEDIATRIC ORTHOPEDICS - SHRINERS ST LOUIS",
       "url": "https://www.adzuna.com/land/ad/5823991483?se=7OmzPnSO8RGcV99e4Qko5g&utm_medium=api&utm_source=f62da352&v=620874561D7789D39397562399CA4FB89B7EFCEA"
     },
+    "92785ffca7790df6": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Cammack Village, Pulaski County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892719276?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=BB028BD9875193EE414CF38053B0B30733603C18"
+    },
     "928244fd88f658a3": {
       "closed_at": "2026-08-21T01:07:37Z",
       "company": "Barrel RM",
@@ -46190,6 +46520,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5849796681?se=gic33cWc8RGyqsBmMepyJg&utm_medium=api&utm_source=f62da352&v=EFA8EA6DC10EF8693F5394DDF680CEC8C6EA45A1"
+    },
+    "92878c9952267668": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Urbanizaci\u00f3n El Vedado, San Juan",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892330108?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=7779D30D934790D977E7D1E86900F972427E7CC2"
     },
     "9289926c03b6cf96": {
       "closed_at": "2026-08-15T06:32:43Z",
@@ -48507,6 +48848,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5852708461?se=zmJS5Fae8RGYCPkgqRwtpg&utm_medium=api&utm_source=f62da352&v=813FE2A5D619546EDB2410F928FFC2A02E461EB4"
     },
+    "9a3ff7c1371a5c42": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Phoenix, Maricopa County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892732891?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=420D6DBBEB343CC94BF3F7EFF5D8FAF7EB88CEDA"
+    },
     "9a441fe09b0a1abb": {
       "closed_at": "2026-09-08T15:57:58Z",
       "company": "US Modules",
@@ -48568,13 +48920,14 @@
       "url": "https://www.adzuna.com/land/ad/5827006721?se=0Df4NXOQ8RGLwZkdgahNug&utm_medium=api&utm_source=f62da352&v=DFEE15A1327134D5A6A401075A21A04EEEE466B9"
     },
     "9a5b7364981d3e04": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "State House, Lancaster County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892715152?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=B46C1FD89F3EC276B0AFFB3682DB02FE78BC6E06"
     },
@@ -48807,13 +49160,14 @@
       "url": "https://www.adzuna.com/land/ad/5844856603?se=MBkhyQea8RGUiq14ohrRew&utm_medium=api&utm_source=f62da352&v=DEE72B1072CF27E27C193A596D359D3B49B1A661"
     },
     "9b3fa85433d52eaf": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Urbanizaci\u00f3n El Vedado, San Juan",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892330108?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=7779D30D934790D977E7D1E86900F972427E7CC2"
     },
@@ -50581,6 +50935,17 @@
       "title": "Chief of Staff to VP, Data Center Engineering & Infrastructure",
       "url": "https://www.adzuna.com/land/ad/5850559788?se=1sJbOyud8RGVwpWvD-HIQQ&utm_medium=api&utm_source=f62da352&v=E2BD3D9A0903E33EAF73716C0B47B360C33CDC4A"
     },
+    "a09edf916edfdc28": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Oklahoma City, Oklahoma County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892726038?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=EE7C3BA43FAF78DC64F01A622D8695D780FB4F80"
+    },
     "a0c15a6d6a4b6085": {
       "closed_at": "2026-07-19T02:28:47Z",
       "company": "Deep Fission",
@@ -50988,6 +51353,17 @@
       "status": "closed",
       "title": "Veterinarian - Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5856781587?se=EGthbmCi8RGhLffPfv7Txw&utm_medium=api&utm_source=f62da352&v=3E236183EA084DCA62118780E310FF9487CCE19D"
+    },
+    "a1a91b4746b0eb48": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Baton Rouge, East Baton Rouge Parish",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892727465?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=018351CC7EF3C486BEDA6A9153A9DDD532D0C7E6"
     },
     "a1bb65ffa2194421": {
       "closed_at": "2026-08-14T07:20:02Z",
@@ -52117,6 +52493,17 @@
       "title": "Director, Chief of Staff - Consumer Developer Experience - CDX",
       "url": "https://www.adzuna.com/details/5870478138?utm_medium=api&utm_source=f62da352"
     },
+    "a5424e7d1c4d8188": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Augusta, Kennebec County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892242763?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=695A0BC0426273DAE80330AF0129943015C0F4A3"
+    },
     "a54e5267cd47b77b": {
       "closed_at": "2026-08-09T18:36:18Z",
       "company": "Mastercard",
@@ -52502,13 +52889,14 @@
       "url": "https://www.adzuna.com/land/ad/5890510227?se=ZqXKJN-08RGWV-1h9kn0Jg&utm_medium=api&utm_source=f62da352&v=7CB2137C748757732F9A1330DF50B24C14207371"
     },
     "a67db42ef651a1d0": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Charleston, Kanawha County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892715856?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=D4FC9DA276B74495C64111D57D95D6B9BCB5CD9F"
     },
@@ -52548,6 +52936,17 @@
       "title": "Chief of Staff - Optexity",
       "url": "https://www.adzuna.com/land/ad/5846734979?se=pCfCBWqb8RGlo4aQRh9CQA&utm_medium=api&utm_source=f62da352&v=38AD3D354BD3595BACFE2E0ADED2CE2BE51E1774"
     },
+    "a6b6883334bdcf66": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Boston, Suffolk County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892735091?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=7AA4580F2D97B8300244B870E65459A9CE450A54"
+    },
     "a6c066fa15d629b1": {
       "closed_at": "2026-08-21T12:40:41Z",
       "company": "Oracle",
@@ -52573,13 +52972,14 @@
       "url": "https://www.adzuna.com/land/ad/5823968154?se=5n9zbBqO8RGBm-nBsWM45g&utm_medium=api&utm_source=f62da352&v=41C3DED1A808C4507F87A6308A2F796D2AFF9334"
     },
     "a6d087e77b96f484": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Deuna",
       "first_seen": "2026-09-20T10:36:13Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5891458556?utm_medium=api&utm_source=f62da352"
     },
@@ -52714,6 +53114,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5868864535?se=sFfSM0yo8RG7o9UvOH5KAA&utm_medium=api&utm_source=f62da352&v=E5BA387299119268121E18A4F34D610EF50010C2"
+    },
+    "a744fea876ec5652": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Wyoming, Kent County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892333643?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=F62849B21B33B59F62E27FE480F356BD1F1D732E"
     },
     "a75255c8f5a13db2": {
       "closed_at": "2026-08-21T01:07:37Z",
@@ -53088,13 +53499,14 @@
       "url": "https://www.adzuna.com/details/5829832362?utm_medium=api&utm_source=f62da352"
     },
     "a8823070b1932eee": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892735091?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=7AA4580F2D97B8300244B870E65459A9CE450A54"
     },
@@ -55041,6 +55453,17 @@
       "status": "closed",
       "title": "Chief of Staff to the GM of Housing (New York)",
       "url": "https://www.adzuna.com/land/ad/5814110148?se=MhhOTtCH8RGEopbyd0f8Hw&utm_medium=api&utm_source=f62da352&v=18D97BA7233623B03AD85721A6E6A09ABBA19A17"
+    },
+    "aeb111a7ef12f57d": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Helena, Lewis and Clark County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892242628?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=198F4F7A2698B9C5AD46F9379162489BD5E7D799"
     },
     "aeb1c742931b7e3f": {
       "closed_at": "2026-09-14T11:45:46Z",
@@ -57229,7 +57652,7 @@
     "b5e33a9c936a6ec3": {
       "company": "Shepherd",
       "first_seen": "2026-09-21T11:58:39Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -57624,7 +58047,7 @@
     "b6d355fae8c90861": {
       "company": "OWN Real Estate",
       "first_seen": "2026-09-20T15:25:11Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "Millbrae, San Mateo County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -57645,13 +58068,14 @@
       "url": "https://www.adzuna.com/land/ad/5874487155?se=rnojwnCr8RGeFb9QzgmiBg&utm_medium=api&utm_source=f62da352&v=62A586233812A2CE16030CD9278E113A14F9B2AF"
     },
     "b6eb7f91a4a0471d": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Wyoming, Kent County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892333643?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=F62849B21B33B59F62E27FE480F356BD1F1D732E"
     },
@@ -58831,6 +59255,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5890512012?se=ZqXKJN-08RGWV-1h9kn0Jg&utm_medium=api&utm_source=f62da352&v=38BE48A35C75345DA0C11F603A82B1511866CD4F"
     },
+    "baa8317858c64aa5": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Providence, Providence County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892334538?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=A7E0F6D4DB3DEAAC283BB87F3B7C71B68EA454EC"
+    },
     "bab01634dc70d4aa": {
       "closed_at": "2026-08-30T20:31:58Z",
       "company": "Indeed",
@@ -59230,7 +59665,7 @@
     "bbf6ec1b84255026": {
       "company": "Western Digital",
       "first_seen": "2026-09-21T11:58:39Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "Penbrook, Dauphin County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -59791,13 +60226,14 @@
       "url": "https://www.adzuna.com/land/ad/5856301476?se=qAROZhmh8RGjObRg0ZikqQ&utm_medium=api&utm_source=f62da352&v=A4CBA20F322AF4038F42008F82FC02BB27DE9877"
     },
     "bdb1780757340768": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Mongmong, Mongmong-Toto-Maite",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892327513?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=7ABF2C07FC3ACB8F1CCDD0F33370930C669CB094"
     },
@@ -60860,7 +61296,7 @@
     "c0a758bcc87fb6ef": {
       "company": "Shift5",
       "first_seen": "2026-09-21T11:58:39Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -61143,6 +61579,17 @@
       "status": "closed",
       "title": "Chief of Staff, President & COO",
       "url": "https://www.adzuna.com/land/ad/5865081522?se=WO-uK0Sm8RGUNa3mkcr13g&utm_medium=api&utm_source=f62da352&v=1E8C35CD82DEC24C21C5AD45731AED8F5CABE622"
+    },
+    "c19bb0e82c5f913a": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Boise, Ada County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892712195?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=6AF1AD1E682E63FCA7FF1F7E56A9D81CBE05DB02"
     },
     "c19dd07ce6c39351": {
       "closed_at": "2026-08-11T07:02:15Z",
@@ -64649,13 +65096,14 @@
       "url": "https://www.adzuna.com/land/ad/5889757112?se=FFFkWBO08RGG797_AW7uWA&utm_medium=api&utm_source=f62da352&v=549D4E51EB043ABB94FA64CAD3367E91A3175960"
     },
     "cd9714f5142cc4d0": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Augusta, Kennebec County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892242763?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=695A0BC0426273DAE80330AF0129943015C0F4A3"
     },
@@ -64934,6 +65382,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5874481140?se=rnojwnCr8RGeFb9QzgmiBg&utm_medium=api&utm_source=f62da352&v=77C0F495F3C46E75D173A407A4816EEC52731DAD"
+    },
+    "cea6b19914adf8a0": {
+      "company": "VSG Business Solutions LLC",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Brickell, Miami-Dade County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Project Coordinator/Chief of Staff",
+      "url": "https://www.adzuna.com/details/5893431716?utm_medium=api&utm_source=f62da352"
     },
     "cea72d0507bc7b71": {
       "closed_at": "2026-08-30T11:13:57Z",
@@ -65500,13 +65959,14 @@
       "url": "https://www.adzuna.com/land/ad/5810287930?se=RtXYzaaF8RGWEYGSBOCNOg&utm_medium=api&utm_source=f62da352&v=ED039DF2D50779E5AEBE2E11C64E25501BB2B26B"
     },
     "d03a577ad85a40af": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Chisolm, Montgomery County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892730102?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=C9A76F2D7C637C6B7C3624FC146FB303DD31B2AE"
     },
@@ -65942,6 +66402,17 @@
       "title": "Chief of Staff - Growing Venture Firm, SF",
       "url": "https://www.adzuna.com/land/ad/5812333956?se=eJZ5XweH8RGlu8FcJJTwKw&utm_medium=api&utm_source=f62da352&v=7447DF16FD2DB6AF76EDC91B39012110FE4E7038"
     },
+    "d16b3cf1a102921c": {
+      "company": "Enterprise Minds",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5893070319?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=C942CD13CE62CCE9BE5FA9988F3B420BD4313072"
+    },
     "d18415f03c8af9fc": {
       "closed_at": "2026-08-20T12:42:12Z",
       "company": "HITT Contracting",
@@ -66161,7 +66632,7 @@
     "d22a29a466c3e88e": {
       "company": "Clipboard",
       "first_seen": "2026-09-20T10:36:13Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -66348,6 +66819,17 @@
       "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887592754?se=zi1VybKy8RGSDerpD9e3rg&utm_medium=api&utm_source=f62da352&v=7C2329CF9C5070969185917BC420C4EA15794D30"
+    },
+    "d2b285562e3ba2af": {
+      "company": "The Estee Lauder Companies",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Grand Central, Manhattan",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff and Special Projects",
+      "url": "https://www.adzuna.com/land/ad/5891658295?se=ENxFBDS28RGVK77OOimlQQ&utm_medium=api&utm_source=f62da352&v=3DAFFB5BF704B01C5768D25B824067B25DFFA758"
     },
     "d2bcff9d7ca5a0c2": {
       "closed_at": "2026-09-03T20:28:49Z",
@@ -66998,13 +67480,14 @@
       "url": "https://www.adzuna.com/land/ad/5826242192?se=tBGwLh-P8RG3SvDIKJ74_A&utm_medium=api&utm_source=f62da352&v=54CC6371E4A1566CDC815CF5E1BEA668C78FED21"
     },
     "d53151b551a863ba": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "La Cienga, Santa Fe County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892720415?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=4E3CD63AAD49999D615DC79E4C5CE2D1739E40E1"
     },
@@ -67969,13 +68452,14 @@
       "url": "https://www.adzuna.com/details/5854663288?utm_medium=api&utm_source=f62da352"
     },
     "d864e12aa5b09920": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Madison, Dane County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892733396?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=65BEC642B3BDCAEAFBE42A2AEA602C9D28F3A2E2"
     },
@@ -68386,6 +68870,17 @@
       "status": "closed",
       "title": "Vice President, Chief of Staff to the CEO",
       "url": "https://www.adzuna.com/land/ad/5823243463?se=FkKFSIGN8RG8DqYT68M2aw&utm_medium=api&utm_source=f62da352&v=036A631D849C3B6A54569337587E72C6CDC2ADC4"
+    },
+    "d973d9b86c2325f9": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Bonnie, Utah County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892722742?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=30CDFB7D05973F2706B4F92E5670798A8CE14D78"
     },
     "d97a896a43df4d8a": {
       "closed_at": "2026-08-02T02:32:15Z",
@@ -68963,6 +69458,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5852199119?utm_medium=api&utm_source=f62da352"
     },
+    "db44ff63a7b02e4e": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Glendale, Denver",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892714929?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=271A33C4629564BB77B9F02235F26C8AAAB76BCD"
+    },
     "db48162df6868411": {
       "closed_at": "2026-08-17T06:49:10Z",
       "company": "HITT Contracting",
@@ -69432,13 +69938,14 @@
       "url": "https://www.adzuna.com/land/ad/5868816880?se=NMQqvQuo8RGpEdUzgEZ57g&utm_medium=api&utm_source=f62da352&v=F0285E769471200D213CBD9E4F816592BA796936"
     },
     "dc8bd4765ed71e2b": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Grandview Heights, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892741570?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=ECE623A13370E95E2AB7ABBF9F1D95CC78AA2FEC"
     },
@@ -69623,13 +70130,14 @@
       "url": "https://www.adzuna.com/land/ad/5820153136?se=Mg8Ov--L8RGW1Ji16AgArw&utm_medium=api&utm_source=f62da352&v=1A1F0DE9FD0A39E820488F705DC0D3E6E1E3B6AE"
     },
     "dd0ebc9312be041f": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Concord, Merrimack County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5891843187?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=DADBEB11815352F921F220C9924B8D3C6163D14A"
     },
@@ -69944,6 +70452,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5874450358?se=RG3FHp6r8RGIJqh87QWbzg&utm_medium=api&utm_source=f62da352&v=1EAAE263EAD246295B46C8AC8AFBC13F4F7CCE06"
+    },
+    "de5b423f4bee848b": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Madison, Dane County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892733396?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=65BEC642B3BDCAEAFBE42A2AEA602C9D28F3A2E2"
     },
     "de7da92b22ec782f": {
       "closed_at": "2026-08-01T13:14:19Z",
@@ -70774,13 +71293,14 @@
       "url": "https://www.adzuna.com/details/5871455309?utm_medium=api&utm_source=f62da352"
     },
     "e11263019711c31c": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Topeka, Shawnee County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892720608?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=E52B51946BF0B5FCEBA10162F9A58349B34BEECE"
     },
@@ -72503,7 +73023,7 @@
     "e6020aec80a8a67e": {
       "company": "Capital One",
       "first_seen": "2026-09-20T15:25:11Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "Capitol, Richmond",
       "slug": "adzuna",
       "source": "adzuna",
@@ -75511,6 +76031,17 @@
       "title": "Chief of Staff to the CEO & CTO",
       "url": "https://www.adzuna.com/land/ad/5835854615?se=wE9n0uyU8RG7ILaWj3cC-A&utm_medium=api&utm_source=f62da352&v=1695C8CB314F1E01343A02745BC0E2F7536E883D"
     },
+    "ef05005034ac681d": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Cedar, Cole County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892735850?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=7F62DD1412EFC8451A00373B66F89A84846232B8"
+    },
     "ef09a0bbabc97fbf": {
       "closed_at": "2026-08-22T01:04:09Z",
       "company": "Oracle",
@@ -76723,6 +77254,17 @@
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/details/5860175720?utm_medium=api&utm_source=f62da352"
     },
+    "f2df5ee0bdefe222": {
+      "company": "Citigroup",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Grand Central, Manhattan",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Business Strategy & Operations/Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5892726883?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=E9F2E172D49BC382123DC725C6484199A10C55E0"
+    },
     "f2e0f7dd829833ef": {
       "closed_at": "2026-08-02T13:15:13Z",
       "company": "Banfield",
@@ -76940,13 +77482,14 @@
       "url": "https://www.adzuna.com/land/ad/5889138274?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=B2DD95B02AA0FBF4F0294D66C1423A34331F8EC6"
     },
     "f34686c8efe6aae1": {
+      "closed_at": "2026-09-22T03:16:10Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-21T18:08:11Z",
       "location": "Edgewood, Richland County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892734443?se=VrJNh-e18RGF38XDgpvU5Q&utm_medium=api&utm_source=f62da352&v=23E41880991DE5A76EA4B3EFCEB482B0B8A24A25"
     },
@@ -78354,6 +78897,17 @@
       "title": "Executive Chief of Staff & Executive Administrator",
       "url": "https://www.adzuna.com/details/5830035748?utm_medium=api&utm_source=f62da352"
     },
+    "f7f2cb1507c123c4": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Topeka, Shawnee County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892720608?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=E52B51946BF0B5FCEBA10162F9A58349B34BEECE"
+    },
     "f7fb6d268ecb7077": {
       "closed_at": "2026-07-22T19:13:03Z",
       "company": "Yeah! Global",
@@ -78501,7 +79055,7 @@
     "f83e2c5ab8b28817": {
       "company": "ChargeItSpot",
       "first_seen": "2026-09-20T15:25:11Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "William Penn Annex East, Philadelphia County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -78629,6 +79183,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844845128?se=sv45izia8RG99P0DnZNbXw&utm_medium=api&utm_source=f62da352&v=9174C5C60EA0013506E5D09D73C5D4A6530A4F37"
     },
+    "f8948dc095a6914d": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Charleston, Kanawha County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892715856?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=D4FC9DA276B74495C64111D57D95D6B9BCB5CD9F"
+    },
     "f899145fc5126a06": {
       "closed_at": "2026-09-15T11:02:55Z",
       "company": "Oracle",
@@ -78653,10 +79218,21 @@
       "title": "Veterinarian - Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823949610?se=uoZ-8aqN8RGv1eY0AXRckA&utm_medium=api&utm_source=f62da352&v=DE2DD5174283A8B0E7D32E8A3B665A013AAF3913"
     },
+    "f8a8a17cc454f880": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Edgewood, Richland County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892734443?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=23E41880991DE5A76EA4B3EFCEB482B0B8A24A25"
+    },
     "f8ac70b7b22f571a": {
       "company": "JPMorgan Chase & Co.",
       "first_seen": "2026-09-21T18:08:11Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "Jersey City, Hudson County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -79203,6 +79779,17 @@
       "status": "closed",
       "title": "Applied AI Strategy Business Planning Lead - Chief of Staff",
       "url": "https://www.adzuna.com/details/5829832284?utm_medium=api&utm_source=f62da352"
+    },
+    "fa3739bb2cc8f818": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Chisolm, Montgomery County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892730102?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=C9A76F2D7C637C6B7C3624FC146FB303DD31B2AE"
     },
     "fa44b1a98c280236": {
       "closed_at": "2026-08-30T16:00:52Z",
@@ -80080,6 +80667,17 @@
       "title": "MCTP PTOC OSC Chief of Staff",
       "url": "https://www.adzuna.com/details/5811255966?utm_medium=api&utm_source=f62da352"
     },
+    "fcc5e02aa1a2654f": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Concord, Merrimack County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5891843187?se=ENxFBDS28RGVK77OOimlQQ&utm_medium=api&utm_source=f62da352&v=DADBEB11815352F921F220C9924B8D3C6163D14A"
+    },
     "fcd60ce4190d34dc": {
       "closed_at": "2026-08-12T13:02:00Z",
       "company": "Banfield",
@@ -80788,6 +81386,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823970816?se=1M5paxqO8RGBm-nBsWM45g&utm_medium=api&utm_source=f62da352&v=AE0F9227D1957E8E39F6B91A427B275913CBDCBD"
     },
+    "ff05ab6ff34cf6fe": {
+      "company": "Western Digital",
+      "first_seen": "2026-09-22T03:16:10Z",
+      "last_seen": "2026-09-22T03:16:10Z",
+      "location": "Atlanta, Fulton County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
+      "url": "https://www.adzuna.com/land/ad/5892739194?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=03B83C3F0A0A5354129A27C02A2E86200E37BEDE"
+    },
     "ff0dfb9b81dd12a9": {
       "closed_at": "2026-08-26T06:42:39Z",
       "company": "Banfield Pet Hospitals",
@@ -81103,7 +81712,7 @@
     "fff13c521898d1c8": {
       "company": "Western Digital",
       "first_seen": "2026-09-21T11:58:39Z",
-      "last_seen": "2026-09-21T18:08:11Z",
+      "last_seen": "2026-09-22T03:16:10Z",
       "location": "Douglas, Juneau",
       "slug": "adzuna",
       "source": "adzuna",
@@ -81124,5 +81733,5 @@
       "url": "https://www.adzuna.com/details/5816410970?utm_medium=api&utm_source=f62da352"
     }
   },
-  "last_run": "2026-09-21T18:08:11Z"
+  "last_run": "2026-09-22T03:16:10Z"
 }
