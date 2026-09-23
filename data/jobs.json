@@ -862,7 +862,7 @@
     "030505094236f645": {
       "company": "Morgan Stanley",
       "first_seen": "2026-09-23T03:16:43Z",
-      "last_seen": "2026-09-23T10:45:03Z",
+      "last_seen": "2026-09-23T16:04:47Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -1065,7 +1065,7 @@
     "03884bb4647f2066": {
       "company": "Androscoggin Bank Career",
       "first_seen": "2026-09-23T10:45:03Z",
-      "last_seen": "2026-09-23T10:45:03Z",
+      "last_seen": "2026-09-23T16:04:47Z",
       "location": "Lewiston, Androscoggin County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -1328,7 +1328,7 @@
     "04245df7e478800d": {
       "company": "Scale AI",
       "first_seen": "2026-08-03T19:26:43Z",
-      "last_seen": "2026-09-23T10:45:03Z",
+      "last_seen": "2026-09-23T16:04:47Z",
       "location": "Washington, DC",
       "slug": "scaleai",
       "source": "greenhouse",
@@ -1567,7 +1567,7 @@
     "04de5fd45a753334": {
       "company": "Rocket Mortgage",
       "first_seen": "2026-09-23T10:45:03Z",
-      "last_seen": "2026-09-23T10:45:03Z",
+      "last_seen": "2026-09-23T16:04:47Z",
       "location": "Seattle, King County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -1732,13 +1732,14 @@
       "url": "https://www.adzuna.com/land/ad/5830759346?se=xGI5g1-S8RGvg6_5HonlUw&utm_medium=api&utm_source=f62da352&v=C69C34739D0DA48518981FCD993101CAA61B6071"
     },
     "053e141590c11256": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Booz Allen Hamilton",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Washington, D.C., US",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff with Security Clearance",
       "url": "https://www.adzuna.com/land/ad/5893678446?se=YNJe4ju38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=6EA8BE4910844BB72B61C231FAAD00D819509D9F"
     },
@@ -1899,13 +1900,14 @@
       "url": "https://www.adzuna.com/details/5891533421?utm_medium=api&utm_source=f62da352"
     },
     "05c583da1143c736": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "RELX INC",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Concord, Merrimack County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Head of Global Customer Operations Strategy & Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5894055604?se=YNJe4ju38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=95041CF311F59BF460769CDC52FFC6010B91D55A"
     },
@@ -3014,13 +3016,14 @@
       "url": "https://www.adzuna.com/land/ad/5892726883?se=jEPbQ_228RG6-LerT6N-jw&utm_medium=api&utm_source=f62da352&v=E9F2E172D49BC382123DC725C6484199A10C55E0"
     },
     "08e52cbcde97cba4": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T11:58:39Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Springfield, Sangamon County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/details/5892741099?utm_medium=api&utm_source=f62da352"
     },
@@ -4283,6 +4286,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5890510471?se=msoVuT208RG21Njjpj2Wpg&utm_medium=api&utm_source=f62da352&v=B0B2AC7467BB9D99BBCA0C3BB001E12A30F2E22A"
+    },
+    "0c743f77d231f0ca": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Maryland Heights, Saint Louis County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895117853?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=F4F939416CCD0E3B5F5FA85D0546271D96FA9DAE"
     },
     "0c77a3018a8b97de": {
       "closed_at": "2026-07-26T02:32:57Z",
@@ -7693,13 +7707,14 @@
       "url": "https://www.adzuna.com/land/ad/5865109496?se=FjWdKkSm8RGQ7M7zg-g2dQ&utm_medium=api&utm_source=f62da352&v=738E72FEC630DE7180830E3EEB440C2248BC3758"
     },
     "178992dacbf3e90c": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "RELX INC",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Montpelier, Washington County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Head of Global Customer Operations Strategy & Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5894802835?se=ojh74Tu38RGC4YytmZ486A&utm_medium=api&utm_source=f62da352&v=73B6F3079D2BF6DEAEF9D4941E711C515BC676C4"
     },
@@ -7908,13 +7923,14 @@
       "url": "https://www.adzuna.com/land/ad/5892735850?se=Hl1Vmse28RG17I8Hj0wZow&utm_medium=api&utm_source=f62da352&v=7F62DD1412EFC8451A00373B66F89A84846232B8"
     },
     "1819792ed206c129": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-22T10:56:52Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Capitol, Richmond",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/details/5892741594?utm_medium=api&utm_source=f62da352"
     },
@@ -8195,13 +8211,14 @@
       "url": "https://www.adzuna.com/land/ad/5823970805?se=1M5paxqO8RGBm-nBsWM45g&utm_medium=api&utm_source=f62da352&v=54783976C0CF074F0FB5C3D74FE8562E185AE230"
     },
     "190311b9a19ae2c3": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "RELX INC",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Urbanizaci\u00f3n El Vedado, San Juan",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Head of Global Customer Operations Strategy & Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5894740321?se=ojh74Tu38RGC4YytmZ486A&utm_medium=api&utm_source=f62da352&v=6A6037CB9AEA88D0E9B253F300DB3118AC7003FE"
     },
@@ -8232,7 +8249,7 @@
     "19217b15fe9d5b86": {
       "company": "RELX INC",
       "first_seen": "2026-09-22T16:15:17Z",
-      "last_seen": "2026-09-23T10:45:03Z",
+      "last_seen": "2026-09-23T16:04:47Z",
       "location": "Old Sixth Ward, Houston",
       "slug": "adzuna",
       "source": "adzuna",
@@ -10221,13 +10238,14 @@
       "url": "https://www.adzuna.com/land/ad/5884782543?se=YibTOkex8RG80dqbAPfRRQ&utm_medium=api&utm_source=f62da352&v=866B6368DC343303DA5A8EC0CE5FBDC61F2F26CD"
     },
     "1f9644c0b405dd46": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Annapolis, Anne Arundel County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892731116?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=4E4229C9AAE1ED629E71C27FC8E272317CA573E8"
     },
@@ -12235,6 +12253,17 @@
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/land/ad/5856779067?se=VNQKD-eh8RGuQLai7eSWow&utm_medium=api&utm_source=f62da352&v=73285F35BBB6B76533B0DB921C1F96F584BD3C58"
     },
+    "25aca2f38c1fcc68": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Concord, Merrimack County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5894055604?se=IECfl2i38RGJ2swHbDsdyg&utm_medium=api&utm_source=f62da352&v=95041CF311F59BF460769CDC52FFC6010B91D55A"
+    },
     "25af46d30bfdf355": {
       "closed_at": "2026-08-16T01:08:05Z",
       "company": "UnitedHealth Group",
@@ -12440,13 +12469,14 @@
       "url": "https://www.adzuna.com/details/5871432692?utm_medium=api&utm_source=f62da352"
     },
     "26278354c58ac1ec": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Lansing, Ingham County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892736147?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=AB0DF55D5B0518265983CA2B3B253FCE16612A27"
     },
@@ -13746,6 +13776,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5874458921?se=ljhw9f-q8RGoE9oKHnKTsA&utm_medium=api&utm_source=f62da352&v=D4B91303074A1DE24480F233D10D02AD065993DF"
     },
+    "29e372f07776c74d": {
+      "company": "Booz Allen Hamilton",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Washington, D.C., US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895246056?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=EAF0A3372723550FF61C456DAB9C45EB48A5E479"
+    },
     "29edc899a7b6ab03": {
       "closed_at": "2026-08-22T06:34:34Z",
       "company": "Oracle",
@@ -13877,6 +13918,17 @@
       "status": "closed",
       "title": "Director, Chief of Staff - Consumer Developer Experience - CDX",
       "url": "https://www.adzuna.com/land/ad/5870488156?se=RD9ZbJ2o8RGogquEo3zAlQ&utm_medium=api&utm_source=f62da352&v=4B41B0BDDAAD620BAF4CB363FBA7246F5AB3A7EB"
+    },
+    "2a39c28dbfe4eb55": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Alameda Pt, Alameda County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895089617?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=2444159416F574A29EAA93B8B28235D4D0FFFA93"
     },
     "2a3b74c7a94af376": {
       "closed_at": "2026-08-01T13:14:19Z",
@@ -14754,6 +14806,17 @@
       "title": "Advanced Optics Technology Portfolio Manager and Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5843081269?se=bDaoygea8RGUiq14ohrRew&utm_medium=api&utm_source=f62da352&v=8FA5AF6987742B09E2B1B2F3004D4582D1424449"
     },
+    "2ced368e97c0c363": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Washington, D.C., US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895098545?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=D41429F13B040722A7CFA3E0163316BAADE8B976"
+    },
     "2cf70c059a4108a5": {
       "closed_at": "2026-09-02T02:49:30Z",
       "company": "Gainor Staffing",
@@ -15017,6 +15080,17 @@
       "status": "closed",
       "title": "Product Operations / Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5870558018?se=QoIbhXeo8RGlI_dq_IL75Q&utm_medium=api&utm_source=f62da352&v=C611471A4357DB66856356E96BAA0DA7F44E2243"
+    },
+    "2daa7b80d3bc5e59": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Charleston, Kanawha County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895105588?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=7EA632574C1AD501A2089C459A6CFD519B5A31AA"
     },
     "2db335e5126720bf": {
       "closed_at": "2026-08-02T13:15:13Z",
@@ -15403,13 +15477,14 @@
       "url": "https://www.adzuna.com/land/ad/5836568613?se=ODatQISV8RG6LpicnsiRlg&utm_medium=api&utm_source=f62da352&v=3001FE9CD4E3920D8AFA4A147CD307E9DF7B04DE"
     },
     "2ef235bc2f1673d6": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Grandview Heights, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892741570?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=ECE623A13370E95E2AB7ABBF9F1D95CC78AA2FEC"
     },
@@ -15678,13 +15753,14 @@
       "url": "https://www.adzuna.com/land/ad/5865124054?se=FjWdKkSm8RGQ7M7zg-g2dQ&utm_medium=api&utm_source=f62da352&v=91C91F68C4DC9D5596D60927EE0BE4D8385A8798"
     },
     "2f97cb58782454a9": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Saint Paul, Ramsey County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892734639?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=FF4D9D66BD7FC8F2C91D82AC9E231FAB6223AF8A"
     },
@@ -18544,6 +18620,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844907956?se=7MwtrqCa8RGB8rnM-OiTpQ&utm_medium=api&utm_source=f62da352&v=F27AD95B64DDBFEEA62F0B1EEC675C44C1C58E8C"
     },
+    "3845fe9410f9cc0c": {
+      "company": "UIOWA",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Iowa City, Johnson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff & Public Information Officer",
+      "url": "https://www.adzuna.com/details/5895228644?utm_medium=api&utm_source=f62da352"
+    },
     "384b4cb479a51245": {
       "closed_at": "2026-09-20T15:25:11Z",
       "company": "Micron Technology, Inc.",
@@ -20381,13 +20468,14 @@
       "url": "https://www.adzuna.com/land/ad/5887565759?se=0NA7yrKy8RG26-5qCWAmWw&utm_medium=api&utm_source=f62da352&v=C3B9EEC8E8E48B13556CC400FAECE53B97015F0C"
     },
     "3e1fefebbfdefba2": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Cedar, Cole County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892735850?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=7F62DD1412EFC8451A00373B66F89A84846232B8"
     },
@@ -20682,7 +20770,7 @@
     "3eb9492152abc56b": {
       "company": "Checkr",
       "first_seen": "2026-07-16T16:52:38Z",
-      "last_seen": "2026-09-23T10:45:03Z",
+      "last_seen": "2026-09-23T16:04:47Z",
       "location": "San Francisco, California, United States",
       "slug": "checkr",
       "source": "greenhouse",
@@ -20701,6 +20789,17 @@
       "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892327513?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=7ABF2C07FC3ACB8F1CCDD0F33370930C669CB094"
+    },
+    "3ebed34994813e46": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Saint Paul, Ramsey County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895114035?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=977353EE5A2BAB7CE9614B49181BD16A161190FB"
     },
     "3ebf96026c9fe178": {
       "closed_at": "2026-07-28T08:29:36Z",
@@ -22574,6 +22673,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5809402998?se=ZpGbz6aF8RGd5oc3a39PRg&utm_medium=api&utm_source=f62da352&v=FBBF3CAE600B9CB5704C6EA51D01B4DC3DA5C901"
     },
+    "438f5b330236dee9": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Grand Central, Manhattan",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Sales (Nexis Solutions)",
+      "url": "https://www.adzuna.com/land/ad/5895067398?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=48F07FE4588CEDB84F205F94EA969C389F0B1580"
+    },
     "439168aa6a5783cd": {
       "closed_at": "2026-08-18T01:03:37Z",
       "company": "Coinbase",
@@ -22897,6 +23007,17 @@
       "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892720344?se=hpFbiOe18RG8y8PiQeA5bQ&utm_medium=api&utm_source=f62da352&v=84B14D87C2E5AE64B0622765AC60D47FCE77DD53"
+    },
+    "443bbe1f4f81b3ed": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Springfield, Sangamon County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/details/5895125525?utm_medium=api&utm_source=f62da352"
     },
     "4441e8b3dcb3e315": {
       "closed_at": "2026-09-04T20:15:32Z",
@@ -24505,6 +24626,17 @@
       "status": "closed",
       "title": "Chief of Staff to the Senior Vice Chancellor for Budget, Finance and Labor Relations, and CFO",
       "url": "https://www.adzuna.com/land/ad/5871797564?se=DA2P-Gaq8RGlI_dq_IL75Q&utm_medium=api&utm_source=f62da352&v=CAFDE643A03533841642F314866A4F3CC846DE9F"
+    },
+    "4939796e4dcda4ce": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Bismarck, Burleigh County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5894741651?se=IECfl2i38RGJ2swHbDsdyg&utm_medium=api&utm_source=f62da352&v=404CD2BFE33944606F8B75CB95CF6EB5BA7CD2B2"
     },
     "4939f37826ee6a69": {
       "closed_at": "2026-08-18T01:03:37Z",
@@ -26967,13 +27099,14 @@
       "url": "https://www.adzuna.com/details/5886533482?utm_medium=api&utm_source=f62da352"
     },
     "51009e50c6b7bfef": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Chisolm, Montgomery County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892730102?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=C9A76F2D7C637C6B7C3624FC146FB303DD31B2AE"
     },
@@ -27996,6 +28129,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5868850194?se=NMQqvQuo8RGpEdUzgEZ57g&utm_medium=api&utm_source=f62da352&v=60317DA968F7557F5ACF2F301F90BA5A31DB24D8"
+    },
+    "5434e468e8e3c5a9": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Pittsburgh, Allegheny County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/details/5895113773?utm_medium=api&utm_source=f62da352"
     },
     "5458dc19f59b10a5": {
       "closed_at": "2026-08-04T19:27:59Z",
@@ -30770,13 +30914,14 @@
       "url": "https://www.adzuna.com/land/ad/5836541763?se=jn0YUh6W8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=C38795ED8D5AC4C65C828FB96E5FCDCB667E0540"
     },
     "5d5394be83088f53": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Salem, Marion County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892727702?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=5AB549F71498412F1B761D178C768F91E8465E79"
     },
@@ -31307,6 +31452,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5873229457?se=ksGIZy2q8RGS9tX3gPU9Ng&utm_medium=api&utm_source=f62da352&v=58A80BFEF6A8C273BF115207D0F9B4221B6E4146"
+    },
+    "5f20d360ae21bd41": {
+      "company": "Texas Health Resources",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Arlington, Tarrant County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Foundation Chief of Staff",
+      "url": "https://www.adzuna.com/details/5895342658?utm_medium=api&utm_source=f62da352"
     },
     "5f2a524d447dd6da": {
       "closed_at": "2026-08-30T20:31:58Z",
@@ -33024,6 +33180,17 @@
       "title": "Physician (Deputy Chief of Staff) - Detail NTE 120 Days",
       "url": "https://www.adzuna.com/details/5823944262?utm_medium=api&utm_source=f62da352"
     },
+    "63cfa6954d5558d2": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Bonnie, Utah County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895104085?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=F3A5E84BA792A34D182D510D6666C891BF3C49C3"
+    },
     "63d1bf2078f0f198": {
       "closed_at": "2026-08-27T07:14:50Z",
       "company": "Alpha Medical Partners.",
@@ -33553,13 +33720,14 @@
       "url": "https://www.adzuna.com/land/ad/5890510227?se=msoVuT208RG21Njjpj2Wpg&utm_medium=api&utm_source=f62da352&v=7CB2137C748757732F9A1330DF50B24C14207371"
     },
     "65807fc14ed76649": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Veterans Health Administration",
       "first_seen": "2026-09-22T03:16:10Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Honolulu, Hawaii",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Physician - Associate Chief of Staff (Primary Care)",
       "url": "https://www.adzuna.com/details/5893489215?utm_medium=api&utm_source=f62da352"
     },
@@ -33622,6 +33790,17 @@
       "status": "closed",
       "title": "Chief of Staff to the CEO (Founder's Office) (New York)",
       "url": "https://www.adzuna.com/land/ad/5825811150?se=iq-4R0iP8RGeH-dJzLXcrg&utm_medium=api&utm_source=f62da352&v=69DCD296B7EAFACB8A4B2D894BA0861AA552CFFC"
+    },
+    "660b7a85f5b8239b": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Belgrade, Gallatin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5894628670?se=IECfl2i38RGJ2swHbDsdyg&utm_medium=api&utm_source=f62da352&v=5B7C65836394BB3FFAB4863B5E08A3CC53B86D44"
     },
     "661006fb9154534b": {
       "closed_at": "2026-07-24T19:21:32Z",
@@ -34440,13 +34619,14 @@
       "url": "https://www.adzuna.com/details/5837243439?utm_medium=api&utm_source=f62da352"
     },
     "6912d99e72ac736e": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892735091?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=7AA4580F2D97B8300244B870E65459A9CE450A54"
     },
@@ -35255,13 +35435,14 @@
       "url": "https://www.adzuna.com/land/ad/5844848686?se=gMbtsKCa8RGB8rnM-OiTpQ&utm_medium=api&utm_source=f62da352&v=284828018AC5D0A03CAE28D44DE64486ADBA59C6"
     },
     "6b9200edcfada42f": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Atlanta, Fulton County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892739194?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=03B83C3F0A0A5354129A27C02A2E86200E37BEDE"
     },
@@ -35626,13 +35807,14 @@
       "url": "https://www.adzuna.com/land/ad/5870053569?se=aDn8hXeo8RG8xKIibWFxMw&utm_medium=api&utm_source=f62da352&v=9BE3A9B1C4DFE3A2D1D1BADF9931C6162E9B1DAB"
     },
     "6cc628d0cdde0a5d": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "STEM Boomerang",
       "first_seen": "2026-09-22T10:56:52Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Rancho West, Sandoval County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff (Stellios Technologies)",
       "url": "https://www.adzuna.com/details/5893730669?utm_medium=api&utm_source=f62da352"
     },
@@ -36117,24 +36299,26 @@
       "url": "https://www.adzuna.com/land/ad/5840139397?se=9GEsJ0mX8RG_yaSmB0dnHA&utm_medium=api&utm_source=f62da352&v=D5BEEF763F16DEA4F8DB0B2CC3076CB5C677A1C1"
     },
     "6e2b45ce92334b6a": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Uptown, Marion County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892734571?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=20E7F668F71F0B7CC85F16CF801D4AF96C5FF521"
     },
     "6e304b49ff4610e6": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Trenton, Mercer County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892736437?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=8EDDD716EB30D4A8A79A247348189347C6CBC132"
     },
@@ -36377,6 +36561,17 @@
       "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892330108?se=IFto07O18RGhpt24NKnzbw&utm_medium=api&utm_source=f62da352&v=7779D30D934790D977E7D1E86900F972427E7CC2"
+    },
+    "6f23e9308d74aaca": {
+      "company": "Avid",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff to CCO",
+      "url": "https://www.adzuna.com/land/ad/5895200466?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=C9A29D2FA413A9F76AE04CFD39D3AAFD176D1DFD"
     },
     "6f25e030c9a58e97": {
       "closed_at": "2026-09-13T11:04:27Z",
@@ -37557,7 +37752,7 @@
     "7257a59b5904976e": {
       "company": "LexisNexis",
       "first_seen": "2026-09-23T10:45:03Z",
-      "last_seen": "2026-09-23T10:45:03Z",
+      "last_seen": "2026-09-23T16:04:47Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -38130,13 +38325,14 @@
       "url": "https://www.adzuna.com/land/ad/5812337663?se=vHDlhcqG8RGJI6GuGHE2oA&utm_medium=api&utm_source=f62da352&v=24A110FD53F05C1DDE99F68984F02EDF9AB41718"
     },
     "7471945a25d5d3f7": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Phoenix, Maricopa County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892732891?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=420D6DBBEB343CC94BF3F7EFF5D8FAF7EB88CEDA"
     },
@@ -38451,6 +38647,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5868824429?se=LES6Hdan8RGAquma5vUeHg&utm_medium=api&utm_source=f62da352&v=C21770CCC01F18263F71EF04405CD4975AC3909E"
+    },
+    "75b742567b80c984": {
+      "company": "Veriswap",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "New York City, New York",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5894848398?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=35DD5C6626742B30A6B3A7F1D6B6E4293720CBD5"
     },
     "75baca5159d52b71": {
       "closed_at": "2026-08-01T13:14:19Z",
@@ -39412,6 +39619,17 @@
       "title": "Chief of Staff - AI Experiences, Copilot Engineering",
       "url": "https://www.adzuna.com/land/ad/5841041590?se=eE_hP0WY8RGuk-5x9cqEqA&utm_medium=api&utm_source=f62da352&v=6E87FC76050511D79DC82D343C92346D5BF85565"
     },
+    "79159094cea1ccbc": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Providence, Providence County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5894746462?se=IECfl2i38RGJ2swHbDsdyg&utm_medium=api&utm_source=f62da352&v=605DED394DD8152A3712FA0649C608393FE2046B"
+    },
     "7916d88797bff8e4": {
       "closed_at": "2026-08-21T06:40:25Z",
       "company": "Catholic Charities Fort Worth",
@@ -39809,13 +40027,14 @@
       "url": "https://www.adzuna.com/land/ad/5823375929?se=TlXt8qqN8RGv1eY0AXRckA&utm_medium=api&utm_source=f62da352&v=7150F4EC642A2294DA2F9F083FC29FC79A936287"
     },
     "7a1823d1411221a9": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Madison, Dane County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892733396?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=65BEC642B3BDCAEAFBE42A2AEA602C9D28F3A2E2"
     },
@@ -40732,13 +40951,14 @@
       "url": "https://www.adzuna.com/land/ad/5887016362?se=sAiyQdqy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=2DB2627B88593570D5543F68A71CB8F18411B067"
     },
     "7c6f376f9981bb6c": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "talentpluto",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5894840089?se=ojh74Tu38RGC4YytmZ486A&utm_medium=api&utm_source=f62da352&v=68A6590BBFB54EAFD17744FA50B9C9E20916C580"
     },
@@ -42038,6 +42258,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5826813157?se=PjltE9-P8RGLT5ECL-xKtg&utm_medium=api&utm_source=f62da352&v=E53F266DADBB9537D39DEE979C84FE06AFC2778A"
     },
+    "804df080b5df7bc5": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Chisolm, Montgomery County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895102888?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=311A6B897FCAA8540A8D0FB96C716BB1A339064B"
+    },
     "804f4ec6279af9c8": {
       "closed_at": "2026-08-28T09:27:54Z",
       "company": "Banfield",
@@ -42998,6 +43229,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/details/5860177376?utm_medium=api&utm_source=f62da352"
     },
+    "8357e438f4036580": {
+      "company": "LexisNexis",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Sales (Nexis Solutions)",
+      "url": "https://www.adzuna.com/details/5895323700?utm_medium=api&utm_source=f62da352"
+    },
     "8388e9ffb655bbde": {
       "closed_at": "2026-07-30T19:21:37Z",
       "company": "Renesas",
@@ -43550,6 +43792,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5874458921?se=Sr4m1cWr8RGifYq7VNE_hg&utm_medium=api&utm_source=f62da352&v=D4B91303074A1DE24480F233D10D02AD065993DF"
     },
+    "84f9f30a0e8fb3a0": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Chandler, Maricopa County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895113668?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=415E8954923D569D7B8AC573B56C8874735B741C"
+    },
     "84fae0d2bf3b2509": {
       "closed_at": "2026-07-17T13:22:32Z",
       "company": "Private Staff Group",
@@ -43922,6 +44175,17 @@
       "title": "Physician - Associate Chief of Staff of Medicine Services",
       "url": "https://www.adzuna.com/details/5817623314?utm_medium=api&utm_source=f62da352"
     },
+    "85f78a1a09f467d5": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Wyoming, Kent County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5894747578?se=IECfl2i38RGJ2swHbDsdyg&utm_medium=api&utm_source=f62da352&v=8408C96CF898067EB1784CB0DC8A9AD686AF40AF"
+    },
     "85fb26a04baf6044": {
       "closed_at": "2026-07-24T02:28:17Z",
       "company": "Hunter SF",
@@ -44283,13 +44547,14 @@
       "url": "https://www.adzuna.com/land/ad/5836512892?se=SO6IDk6W8RGBkclIi1idWA&utm_medium=api&utm_source=f62da352&v=709B6B1EC9022799D01386CAFD99F351500A5795"
     },
     "86ca8445c2eb991c": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "RELX INC",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Belgrade, Gallatin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Head of Global Customer Operations Strategy & Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5894628670?se=YNJe4ju38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=5B7C65836394BB3FFAB4863B5E08A3CC53B86D44"
     },
@@ -44520,6 +44785,17 @@
       "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823969544?se=5n9zbBqO8RGBm-nBsWM45g&utm_medium=api&utm_source=f62da352&v=F6AC58D700ADA5CF936779D4AF556867489827B1"
+    },
+    "8796a498daee4406": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "International, King County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895121691?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=4C48AE4755E9D9D2FD20CAA8CDC44176290D9DC9"
     },
     "879ca50de5c28d7e": {
       "closed_at": "2026-09-03T15:45:29Z",
@@ -45770,13 +46046,14 @@
       "url": "https://www.adzuna.com/land/ad/5823236790?se=dCikSYGN8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=47C53BEB1A0EF829BF79667CB14E0DA3DD3C0FB8"
     },
     "8b3ca0bd46ef1741": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "J.P. Morgan",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Jersey City, Hudson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Lead Technical Program Manager- Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5893494898?se=YNJe4ju38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=20684E48B28A9B55D04C40D6DF340B8E21A53AE0"
     },
@@ -47041,13 +47318,14 @@
       "url": "https://www.adzuna.com/details/5829854998?utm_medium=api&utm_source=f62da352"
     },
     "8f0eea0647f990d8": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Tumwater, Thurston County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892736916?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=91FBF16954B5935C5D4838109C96DC9FF1F9A384"
     },
@@ -47748,13 +48026,14 @@
       "url": "https://www.adzuna.com/land/ad/5878360292?se=TJW7kMyt8RGKhrN6RT1scQ&utm_medium=api&utm_source=f62da352&v=901E2066A04CED29460A4553189492779C6F0F55"
     },
     "913546761152921c": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Edgewood, Richland County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892734443?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=23E41880991DE5A76EA4B3EFCEB482B0B8A24A25"
     },
@@ -48541,7 +48820,7 @@
     "9350403aaa917efa": {
       "company": "Amentum",
       "first_seen": "2026-09-23T10:45:03Z",
-      "last_seen": "2026-09-23T10:45:03Z",
+      "last_seen": "2026-09-23T16:04:47Z",
       "location": "El Paso, El Paso County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -48813,6 +49092,17 @@
       "title": "Associate, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5847995297?se=CkoPDDOc8RGvGrvTGRxIcA&utm_medium=api&utm_source=f62da352&v=ACE28C162C3F5C47C871A3571E804C53789DF75A"
     },
+    "94280b3275f612f9": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Annapolis, Anne Arundel County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895109060?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=8F5E2AF8F6E9C9390B3AF4DE5AF198079F5AB1B5"
+    },
     "9429908a81ddeca7": {
       "closed_at": "2026-08-22T01:04:09Z",
       "company": "Nuveen",
@@ -49052,6 +49342,17 @@
       "status": "closed",
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/land/ad/5856779067?se=Nppli4ah8RG3h_QZnPTmVA&utm_medium=api&utm_source=f62da352&v=73285F35BBB6B76533B0DB921C1F96F584BD3C58"
+    },
+    "94e4072d8549ebef": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Five Points, Wake County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895125751?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=DA70533D02DC4AC0227E5592897BCA1CD7A9DC26"
     },
     "94f2fa0e9a2a50d3": {
       "closed_at": "2026-08-05T14:02:28Z",
@@ -51128,6 +51429,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844814933?se=gMbtsKCa8RGB8rnM-OiTpQ&utm_medium=api&utm_source=f62da352&v=CF920AF8F2ED60D7740A6D09FE8006AF9E9E19F8"
+    },
+    "9bd435b7c1d365c2": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Augusta, Kennebec County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5894628686?se=IECfl2i38RGJ2swHbDsdyg&utm_medium=api&utm_source=f62da352&v=0739A6B3213BAD59917E5F50D58771765DFDEDF9"
     },
     "9bdac13d02a3b1ba": {
       "closed_at": "2026-09-05T09:56:29Z",
@@ -53985,6 +54297,17 @@
       "title": "Chief of Staff - Chief Executive Officer",
       "url": "https://www.adzuna.com/land/ad/5874528845?se=3sR-9P-q8RGyxtY0rUukWA&utm_medium=api&utm_source=f62da352&v=1DA87EE6BF1C881A7834349ECAB5F53C5345E303"
     },
+    "a39e2a9040c0a5d6": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Harvard Square, Middlesex County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895118957?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=01124F9C301113467EFCA579B3A110F68D5DF127"
+    },
     "a3a09ce7bf4f2d18": {
       "closed_at": "2026-07-28T19:18:51Z",
       "company": "J.P. Morgan",
@@ -54297,6 +54620,17 @@
       "title": "Chief of Staff & Strategy Executive",
       "url": "https://www.adzuna.com/land/ad/5809398493?se=en1txnSF8RG974pouqc-_w&utm_medium=api&utm_source=f62da352&v=FDCDC7D507BC8F94293106021CE54BBF3B2038D9"
     },
+    "a49220b15e257faf": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Frankfort, Franklin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895101771?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=83C849EB709FD3D3ED129244FEB81697D0397F88"
+    },
     "a497dafddf6e124d": {
       "closed_at": "2026-07-25T02:26:37Z",
       "company": "Career1Source - Executive Recruiting",
@@ -54358,13 +54692,14 @@
       "url": "https://www.adzuna.com/land/ad/5834278048?se=Jg8L6e-T8RGWPoJqQXFPnw&utm_medium=api&utm_source=f62da352&v=3E7AE20DF344F6D2CC684E2266FD792110140BE2"
     },
     "a4f56530c677989d": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "RELX INC",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Bismarck, Burleigh County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Head of Global Customer Operations Strategy & Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5894741651?se=ojh74Tu38RGC4YytmZ486A&utm_medium=api&utm_source=f62da352&v=404CD2BFE33944606F8B75CB95CF6EB5BA7CD2B2"
     },
@@ -54632,6 +54967,17 @@
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/details/5887120484?utm_medium=api&utm_source=f62da352"
     },
+    "a5d4fd3eb9822a09": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "William Penn Annex East, Philadelphia County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/details/5895113740?utm_medium=api&utm_source=f62da352"
+    },
     "a5d53aba7fb9113d": {
       "closed_at": "2026-08-17T18:35:00Z",
       "company": "Coinbase",
@@ -54681,13 +55027,14 @@
       "url": "https://www.adzuna.com/land/ad/5874599339?se=6OJ1HZ6r8RGIJqh87QWbzg&utm_medium=api&utm_source=f62da352&v=E4CB0E6989A50BC768710D784EADFA03347A42A1"
     },
     "a5df17226dbcc0a4": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Five Points, Wake County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892740634?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=D60180444F62D060C6D295F89A34D4D72A07FF8C"
     },
@@ -55258,7 +55605,7 @@
     "a7c1df58df36a0fe": {
       "company": "Conch Technologies Inc",
       "first_seen": "2026-09-23T03:16:43Z",
-      "last_seen": "2026-09-23T10:45:03Z",
+      "last_seen": "2026-09-23T16:04:47Z",
       "location": "Florida",
       "slug": "adzuna",
       "source": "adzuna",
@@ -56646,6 +56993,17 @@
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/land/ad/5857959438?se=4gQrzMKi8RGrBvooV1Y1sg&utm_medium=api&utm_source=f62da352&v=1C24320C7F27DB169E25A09F58ECFAC0A55B8B2D"
     },
+    "abb9fb28af5095bc": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Madison, Dane County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895113993?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=D49C8E982043D9D69D794694A2A7AC7EE770FB2C"
+    },
     "abea254a93165d2d": {
       "closed_at": "2026-08-04T19:27:59Z",
       "company": "Bridgebio",
@@ -56922,6 +57280,17 @@
       "title": "Veterinarian - Chief of Staff",
       "url": "https://www.adzuna.com/details/5833163300?utm_medium=api&utm_source=f62da352"
     },
+    "acb19c387b11f159": {
+      "company": "Roger Healthcare",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "San Francisco, California",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5894850816?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=4532AE71711AFFAE0A0CB221EE74071D07207066"
+    },
     "acb33e4208034693": {
       "closed_at": "2026-08-15T06:32:43Z",
       "company": "Jefferies Llc",
@@ -56993,6 +57362,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5803630257?se=ZPoKZraB8RGuXZiVwx-Xkw&utm_medium=api&utm_source=f62da352&v=9794822DF4D7DC5753077FAB9D94F994E7036041"
+    },
+    "acdbc2f579f6a5ff": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Portland, Multnomah County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895110930?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=A14BB33F676BD0BE6F298DEDEE13A1816191C5F5"
     },
     "acdeb49b1bfe2622": {
       "closed_at": "2026-07-24T19:21:32Z",
@@ -57137,6 +57517,17 @@
       "status": "closed",
       "title": "Chief of Staff, Online Grocery",
       "url": "https://www.adzuna.com/details/5833323534?utm_medium=api&utm_source=f62da352"
+    },
+    "ad5ee18f0aefb017": {
+      "company": "talentpluto",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "New York City, New York",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5894840089?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=68A6590BBFB54EAFD17744FA50B9C9E20916C580"
     },
     "ad73f6e79c5a3783": {
       "closed_at": "2026-09-17T10:56:21Z",
@@ -58447,13 +58838,14 @@
       "url": "https://www.adzuna.com/land/ad/5806079649?se=3u-unRmD8RGoF7z_8ztEoQ&utm_medium=api&utm_source=f62da352&v=75865FFC01A1899851B2CFACF8E8ADFACB1B7990"
     },
     "b211274f3297fe79": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Veriswap",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5894848398?se=ojh74Tu38RGC4YytmZ486A&utm_medium=api&utm_source=f62da352&v=35DD5C6626742B30A6B3A7F1D6B6E4293720CBD5"
     },
@@ -58926,13 +59318,14 @@
       "url": "https://www.adzuna.com/land/ad/5870876797?se=Sif-ap2o8RGogquEo3zAlQ&utm_medium=api&utm_source=f62da352&v=0B7A6041CE4D87EF214113462703502825388369"
     },
     "b37e24069ba5110a": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Capital One",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Mc Lean, Fairfax County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Capital One Shopping Tech, Staff Full Stack Engineer, Technical Chief of Staff (Remote - Eligible)",
       "url": "https://www.adzuna.com/land/ad/5893905839?se=YNJe4ju38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=F887520B15BE80F1A5CA80749CD68F71EFFF2524"
     },
@@ -59595,6 +59988,17 @@
       "status": "closed",
       "title": "AI-Driven Chief of Staff, People & Ops (Washington)",
       "url": "https://www.adzuna.com/land/ad/5826706154?se=pmSWTHGP8RGiFPg8UCT7uA&utm_medium=api&utm_source=f62da352&v=9FD9DE10BCF098294ABBA30528BBC72B54B9891F"
+    },
+    "b544e93f1c9607de": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Oakwood, Montgomery County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895128567?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=13C9826C9291B77C845E689BDDE65194431E2425"
     },
     "b551b34ff5ad3766": {
       "closed_at": "2026-08-01T08:16:04Z",
@@ -61372,6 +61776,17 @@
       "title": "Chief of Staff - Patient & Provider Services",
       "url": "https://www.adzuna.com/land/ad/5802342457?se=JM3r1EKB8RG74qdaV3Otcw&utm_medium=api&utm_source=f62da352&v=A67A60364AACAA4D3279D73CF76C41D70F10868A"
     },
+    "ba52208dea692729": {
+      "company": "Banfield",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Peoria, Maricopa County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Area Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895242608?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=7DB870CE2F8452E9442B34E9E4A6CB346A875A4B"
+    },
     "ba53afe9c82288d0": {
       "closed_at": "2026-07-22T13:46:35Z",
       "company": "Bespoke Private Service",
@@ -61383,6 +61798,17 @@
       "status": "closed",
       "title": "Dionysus (2025) - Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5809394226?se=ZpGbz6aF8RGd5oc3a39PRg&utm_medium=api&utm_source=f62da352&v=B7149BA0389C5461583CA3D246BCB4F6F9BB9D36"
+    },
+    "ba705cf5a4a60088": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "La Cienga, Santa Fe County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895106024?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=7A3FBF6C67136A3DA70E93C4D58854A84FF48918"
     },
     "ba758a1156c39ad8": {
       "closed_at": "2026-08-13T01:45:55Z",
@@ -61503,6 +61929,17 @@
       "status": "closed",
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/details/5854662900?utm_medium=api&utm_source=f62da352"
+    },
+    "bab56d8ba482c480": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "South Norwalk, Fairfield County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895098131?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=7FA9EE7CF606FF9DB1435C99D1D88291371E3EB9"
     },
     "bab8be1e2199737e": {
       "closed_at": "2026-09-17T20:56:03Z",
@@ -61913,13 +62350,14 @@
       "url": "https://www.adzuna.com/land/ad/5809391309?se=GDkh5jiF8RG974pouqc-_w&utm_medium=api&utm_source=f62da352&v=C771483CF12A9045096EBE1CF9F7D3290EAE9A5E"
     },
     "bbf6ec1b84255026": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-21T11:58:39Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Penbrook, Dauphin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/details/5892738573?utm_medium=api&utm_source=f62da352"
     },
@@ -63171,6 +63609,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823949594?se=uoZ-8aqN8RGv1eY0AXRckA&utm_medium=api&utm_source=f62da352&v=6B19F45C1054BBD93531C85DA797ABB5688B96E7"
     },
+    "bf8b92dbb6fff33c": {
+      "company": "Workweek",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Austin, Travis County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/details/5895144928?utm_medium=api&utm_source=f62da352"
+    },
     "bf974953edd569db": {
       "closed_at": "2026-09-08T10:33:21Z",
       "company": "Flourish Health",
@@ -63435,6 +63884,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844660066?se=ANoFjDia8RG7zt0Y6Ss4iw&utm_medium=api&utm_source=f62da352&v=6CEE2615F75CEAF897748001E9EB01C8387F6243"
     },
+    "c0668039b2365b98": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Butler, Butler County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/details/5895113757?utm_medium=api&utm_source=f62da352"
+    },
     "c07273b61529aafa": {
       "closed_at": "2026-09-10T15:48:45Z",
       "company": "Simon-Kucher",
@@ -63568,13 +64028,14 @@
       "url": "https://www.adzuna.com/land/ad/5861965251?se=BpoG72Ok8RGEeLI7Dotn4Q&utm_medium=api&utm_source=f62da352&v=26D705C3B7909B49590EFB5EB09423504F2D4D89"
     },
     "c0a758bcc87fb6ef": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Shift5",
       "first_seen": "2026-09-21T11:58:39Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5892745285?utm_medium=api&utm_source=f62da352"
     },
@@ -64753,6 +65214,17 @@
       "status": "closed",
       "title": "Associate Chief of Staff for Spinal Cord Injury - St. Louis, MO - 54 Days Paid Time Off!",
       "url": "https://www.adzuna.com/land/ad/5853317535?se=pltzMVif8RGU6LIjyaRnwA&utm_medium=api&utm_source=f62da352&v=338FF1D78D4779BB7045CA7EB3EEC8354286D28D"
+    },
+    "c42d9867044c68b2": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Grand Central, Manhattan",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895067399?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=F9A4075BFEED5398C937C124611E42C05F6E0A64"
     },
     "c457629893ab0775": {
       "closed_at": "2026-08-21T12:40:41Z",
@@ -66266,6 +66738,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5836537964?se=ODatQISV8RG6LpicnsiRlg&utm_medium=api&utm_source=f62da352&v=14D49F7F3C3EC44A9C6C12397AEB8A1058536B58"
     },
+    "c90c21036c8f2f09": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Archer, Laramie County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5894740601?se=IECfl2i38RGJ2swHbDsdyg&utm_medium=api&utm_source=f62da352&v=E355C8EC00C1532DC29330106E46711620A940FA"
+    },
     "c912c3c184b61d5e": {
       "closed_at": "2026-09-04T15:44:13Z",
       "company": "Acxiom",
@@ -66783,13 +67266,14 @@
       "url": "https://www.adzuna.com/land/ad/5820940177?se=uoDYcIiM8RGB7Ox-pl9dqQ&utm_medium=api&utm_source=f62da352&v=73D8B3DE87597F69844FB594F9235DAD4849DC10"
     },
     "caf3b1933ab2d734": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "RELX INC",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Pierre, Hughes County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Head of Global Customer Operations Strategy & Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5894746527?se=ojh74Tu38RGC4YytmZ486A&utm_medium=api&utm_source=f62da352&v=BA0BCBB71885F992F54057033D1DBD92F69FA93F"
     },
@@ -67814,13 +68298,14 @@
       "url": "https://www.adzuna.com/land/ad/5874481140?se=rnojwnCr8RGeFb9QzgmiBg&utm_medium=api&utm_source=f62da352&v=77C0F495F3C46E75D173A407A4816EEC52731DAD"
     },
     "cea6b19914adf8a0": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "VSG Business Solutions LLC",
       "first_seen": "2026-09-22T03:16:10Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Brickell, Miami-Dade County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Project Coordinator/Chief of Staff",
       "url": "https://www.adzuna.com/details/5893431716?utm_medium=api&utm_source=f62da352"
     },
@@ -69696,6 +70181,17 @@
       "title": "Chief of Staff - Executive Support",
       "url": "https://www.adzuna.com/land/ad/5845071217?se=Jm1iZ2qa8RGLRNMmwLdNsA&utm_medium=api&utm_source=f62da352&v=AFE279EEA1E9895427B5357E7EB640E063146DC2"
     },
+    "d4047fe729c912c7": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Glendale, Denver",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895079495?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=DFDD63BE132CEB7662E0B6201BE61AF8E48208CD"
+    },
     "d409fb5cc296e5a2": {
       "closed_at": "2026-08-27T21:43:39Z",
       "company": "Banfield",
@@ -70571,6 +71067,17 @@
       "status": "closed",
       "title": "Deputy Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5830507888?se=jvsYNS-S8RGs5OGOuqfOdQ&utm_medium=api&utm_source=f62da352&v=51CFB103E986540144099340D5DB9171DBBB4EFA"
+    },
+    "d6e1035bacd6e7aa": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Topeka, Shawnee County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895085650?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=885C216C4009EE4AD1D3BFCFE59825AB4C3DD1D8"
     },
     "d6ebbef6d87b376b": {
       "closed_at": "2026-08-08T06:47:17Z",
@@ -72793,24 +73300,26 @@
       "url": "https://www.adzuna.com/land/ad/5850462906?se=CsqUvY6d8RGAqoiRcLlpzA&utm_medium=api&utm_source=f62da352&v=92C76F6AD2E953237FC2C35287B9BE9869B8926F"
     },
     "dd47523140f7a3db": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Roger Healthcare",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5894850816?se=ojh74Tu38RGC4YytmZ486A&utm_medium=api&utm_source=f62da352&v=4532AE71711AFFAE0A0CB221EE74071D07207066"
     },
     "dd50513da24e32de": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "RELX INC",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Augusta, Kennebec County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Head of Global Customer Operations Strategy & Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5894628686?se=YNJe4ju38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=0739A6B3213BAD59917E5F50D58771765DFDEDF9"
     },
@@ -73369,7 +73878,7 @@
     "df29fdbae11586e7": {
       "company": "RELX INC",
       "first_seen": "2026-09-23T10:45:03Z",
-      "last_seen": "2026-09-23T10:45:03Z",
+      "last_seen": "2026-09-23T16:04:47Z",
       "location": "Douglas, Juneau",
       "slug": "adzuna",
       "source": "adzuna",
@@ -73484,6 +73993,17 @@
       "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5874229086?se=JP4cumas8RGLWNueJPgGLw&utm_medium=api&utm_source=f62da352&v=E04298A73D0BF93E0DD90142CB9CBEB1593A6B59"
+    },
+    "df8f520c187eed14": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895089531?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=759EC5DA61B89A6E9B9F0CC10083017C95403ED3"
     },
     "dfa69b49b80a5a91": {
       "closed_at": "2026-07-25T13:19:18Z",
@@ -74638,13 +75158,14 @@
       "url": "https://www.adzuna.com/land/ad/5823968152?se=5u8y5duN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=C1B2F77815501D0D43295D050BD9BC9EDF87EBCD"
     },
     "e34c1095ce605c0b": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "RELX INC",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Providence, Providence County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Head of Global Customer Operations Strategy & Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5894746462?se=ojh74Tu38RGC4YytmZ486A&utm_medium=api&utm_source=f62da352&v=605DED394DD8152A3712FA0649C608393FE2046B"
     },
@@ -74827,6 +75348,17 @@
       "status": "closed",
       "title": "CREW Carbon - Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5853744001?se=PM9gMFif8RGSb8VpDRDiVA&utm_medium=api&utm_source=f62da352&v=2A620D0D848BB030FE2CA83377B656966406A9A6"
+    },
+    "e3b4507a0bd0e17f": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Lansing, Ingham County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895118078?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=ED4264C486000E48E807CB09389E88D3DB1B1FCF"
     },
     "e3b7061042a3cc75": {
       "closed_at": "2026-07-16T19:05:57Z",
@@ -75920,6 +76452,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5874602102?se=jK8Bzvqr8RGw4d6epSviNQ&utm_medium=api&utm_source=f62da352&v=2C6E63E80DECD1504D40D1584F06AE148B30E155"
     },
+    "e6789c1fb23baa8e": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Brentwood, Williamson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895120923?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=C48F92413530107317CD5140E5245A7B0A8E432E"
+    },
     "e684f0c374b5bd4c": {
       "closed_at": "2026-09-05T09:56:29Z",
       "company": "Lonza",
@@ -76352,6 +76895,17 @@
       "title": "Administration, Lead Medical Services for Veterans: Physician (Deputy Associate Chief of Staff, Medi",
       "url": "https://www.adzuna.com/land/ad/5852398248?se=zmJS5Fae8RGYCPkgqRwtpg&utm_medium=api&utm_source=f62da352&v=67C6597C599013C6CCAF08BDF16A2CC0B0625D78"
     },
+    "e79c4e34d4c06313": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Oklahoma City, Oklahoma County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895109816?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=AC41CC633C9AE15D74BA098203674A93418D85D0"
+    },
     "e79e6718cf793025": {
       "closed_at": "2026-08-30T16:00:52Z",
       "company": "Indeed",
@@ -76711,6 +77265,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5812307557?se=dNZzYAeH8RGlu8FcJJTwKw&utm_medium=api&utm_source=f62da352&v=A0B22BD4A66CB34684F022AD4AAC8128510CF6CF"
+    },
+    "e89964a9059ac092": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Tumwater, Thurston County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895121666?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=42865E1E88795B1F6D707CB2D2CEFFECF163DB38"
     },
     "e89dad186f7963c8": {
       "closed_at": "2026-09-07T21:05:54Z",
@@ -79472,6 +80037,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5874593877?se=1qY11MWr8RGN55pnK-PhvQ&utm_medium=api&utm_source=f62da352&v=9BFA95BF66F83917FC69F9B74B8DD0AB0C13E45A"
     },
+    "f0cd46a66ceca01f": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Trenton, Mercer County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895120891?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=7E262EB4BEB14FEDBC8FE160EA8F8B153E108326"
+    },
     "f0cfc432b30b0209": {
       "closed_at": "2026-08-26T12:45:35Z",
       "company": "HouseholdStaffing",
@@ -79579,6 +80155,17 @@
       "status": "closed",
       "title": "Chief of Staff to CEO and President",
       "url": "https://www.adzuna.com/land/ad/5870042685?se=aDn8hXeo8RG8xKIibWFxMw&utm_medium=api&utm_source=f62da352&v=E33F6D2E8B4AD953878C939BF647278C36C3C913"
+    },
+    "f1116e5c897cd5c0": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Jackson, Hinds County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895092039?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=B053BBD3431E26D21F2D7C49519E856DAB3389A1"
     },
     "f117982b70febfda": {
       "closed_at": "2026-09-16T03:17:36Z",
@@ -80084,6 +80671,17 @@
       "title": "Chief of Staff: Strategic Partner to the CEO",
       "url": "https://www.adzuna.com/land/ad/5809392819?se=en1txnSF8RG974pouqc-_w&utm_medium=api&utm_source=f62da352&v=918BB6020CCA3B6B4B7AA2A3CCF019A4AA845F78"
     },
+    "f2a3e55b131a9419": {
+      "company": "Capital One",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Mc Lean, Fairfax County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Capital One Shopping Tech, Staff Full Stack Engineer, Technical Chief of Staff (Remote - Eligible)",
+      "url": "https://www.adzuna.com/land/ad/5893905839?se=IECfl2i38RGJ2swHbDsdyg&utm_medium=api&utm_source=f62da352&v=F887520B15BE80F1A5CA80749CD68F71EFFF2524"
+    },
     "f2a3fa7d12bcfc42": {
       "closed_at": "2026-08-17T12:38:08Z",
       "company": "NetApp",
@@ -80227,6 +80825,17 @@
       "status": "closed",
       "title": "HRE Enablement Partner / Deputy Chief Of Staff to HR Executives",
       "url": "https://www.adzuna.com/details/5870630463?utm_medium=api&utm_source=f62da352"
+    },
+    "f2f42f9e7535f520": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Carson Mall, Carson City",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895106135?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=511ABB844403AD6EA93395F23933BCC7AC897539"
     },
     "f30085638ab0dbae": {
       "closed_at": "2026-08-30T16:00:52Z",
@@ -80636,6 +81245,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5812358850?se=miOXCzmH8RG4J83nekfXWA&utm_medium=api&utm_source=f62da352&v=BC4DE250B574965FF4815ADF94FAC9CE9AB530BC"
     },
+    "f3e452379ab33dc4": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Atlanta, Fulton County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5895122280?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=49834C8092F7009F93BC250779EE2732EC4B4D18"
+    },
     "f3e5dd5d11ca87a3": {
       "closed_at": "2026-08-12T07:20:22Z",
       "company": "Banfield",
@@ -80999,7 +81619,7 @@
     "f532edb127f6fd1e": {
       "company": "Veterans Health Administration",
       "first_seen": "2026-09-23T03:16:43Z",
-      "last_seen": "2026-09-23T10:45:03Z",
+      "last_seen": "2026-09-23T16:04:47Z",
       "location": "Kansas City, Jackson County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -81176,13 +81796,14 @@
       "url": "https://www.adzuna.com/land/ad/5811765243?se=DOTjI3CG8RGbGoMv58FbYQ&utm_medium=api&utm_source=f62da352&v=0C7B575B9C339C31F0FCF92D0B3DDA26180C268D"
     },
     "f5e1b75a38bdd9e2": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "RELX INC",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Archer, Laramie County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Head of Global Customer Operations Strategy & Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5894740601?se=ojh74Tu38RGC4YytmZ486A&utm_medium=api&utm_source=f62da352&v=E355C8EC00C1532DC29330106E46711620A940FA"
     },
@@ -81269,6 +81890,17 @@
       "status": "closed",
       "title": "Physician / Family Practice / Oklahoma / Permanent / Family Medicine; Chief of Staff and Collaborative Physician. Job",
       "url": "https://www.adzuna.com/land/ad/5856518692?se=cPwLEOeh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=f62da352&v=C62495FE4F2CC03FD78720F88B59D359E565960F"
+    },
+    "f60d539357aa18ea": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Boca Raton, Palm Beach County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/details/5895114224?utm_medium=api&utm_source=f62da352"
     },
     "f60d5f1c2ec5b873": {
       "closed_at": "2026-09-11T10:35:27Z",
@@ -81703,13 +82335,14 @@
       "url": "https://www.adzuna.com/land/ad/5865098838?se=Stnc9nim8RG5At0T0GlLXQ&utm_medium=api&utm_source=f62da352&v=2901B44DB68D436A9943783DE100A46DFB2005EE"
     },
     "f760a69d761d900b": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "Western Digital",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Nashville, Davidson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892736208?se=sNJO4zu38RGpV9S3FnLg6g&utm_medium=api&utm_source=f62da352&v=278B4AAA44D45DE3295AF934F20C671E8FB5B6FF"
     },
@@ -82206,13 +82839,14 @@
       "url": "https://www.adzuna.com/land/ad/5892734443?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=23E41880991DE5A76EA4B3EFCEB482B0B8A24A25"
     },
     "f8ac70b7b22f571a": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "JPMorgan Chase & Co.",
       "first_seen": "2026-09-21T18:08:11Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Jersey City, Hudson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Lead Technical Program Manager- Chief of Staff",
       "url": "https://www.adzuna.com/details/5893010973?utm_medium=api&utm_source=f62da352"
     },
@@ -82468,6 +83102,17 @@
       "title": "Chief of Staff, Data Center Construction",
       "url": "https://www.adzuna.com/land/ad/5834593772?se=jKaa4n-W8RGBkclIi1idWA&utm_medium=api&utm_source=f62da352&v=1C1B91801B381752F23141019A5194CA0AC65D80"
     },
+    "f9253788d5c29787": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Jefferson Manor, Fairfax County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/details/5895126275?utm_medium=api&utm_source=f62da352"
+    },
     "f92704d2cdfb578c": {
       "closed_at": "2026-07-24T19:21:32Z",
       "company": "WindBorne Systems",
@@ -82552,6 +83197,17 @@
       "title": "CHIEF OF STAFF \u2013 PEDIATRIC ORTHOPEDICS - SHRINERS ST LOUIS",
       "url": "https://www.adzuna.com/land/ad/5823991483?se=Uj9tSkiP8RGWZOGY_UmluA&utm_medium=api&utm_source=f62da352&v=620874561D7789D39397562399CA4FB89B7EFCEA"
     },
+    "f98659fa75473d26": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Pierre, Hughes County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5894746527?se=IECfl2i38RGJ2swHbDsdyg&utm_medium=api&utm_source=f62da352&v=BA0BCBB71885F992F54057033D1DBD92F69FA93F"
+    },
     "f98de52eab73c656": {
       "closed_at": "2026-09-18T15:48:13Z",
       "company": "Alex and Ani",
@@ -82613,13 +83269,14 @@
       "url": "https://www.adzuna.com/land/ad/5823947940?se=3AY28qqN8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=D6C00178AA1E8B80E26CEBFF084B6427EC872A68"
     },
     "f9c63e72cab86365": {
+      "closed_at": "2026-09-23T16:04:47Z",
       "company": "RELX INC",
       "first_seen": "2026-09-23T10:45:03Z",
       "last_seen": "2026-09-23T10:45:03Z",
       "location": "Wyoming, Kent County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Head of Global Customer Operations Strategy & Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5894747578?se=ojh74Tu38RGC4YytmZ486A&utm_medium=api&utm_source=f62da352&v=8408C96CF898067EB1784CB0DC8A9AD686AF40AF"
     },
@@ -83354,6 +84011,17 @@
       "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5858495183?se=dtsHy8Ki8RGrBvooV1Y1sg&utm_medium=api&utm_source=f62da352&v=6C1FA735FEDD57165B5434A8A0DB7DB8299228BA"
+    },
+    "fbcb78718791ef4b": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Montpelier, Washington County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5894802835?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=73B6F3079D2BF6DEAEF9D4941E711C515BC676C4"
     },
     "fbd0b14fd6875ffe": {
       "closed_at": "2026-08-05T19:25:46Z",
@@ -84111,6 +84779,17 @@
       "title": "Strategic Legal Operations Leader & Chief of Staff (San Francisco)",
       "url": "https://www.adzuna.com/land/ad/5830758836?se=xGI5g1-S8RGvg6_5HonlUw&utm_medium=api&utm_source=f62da352&v=B90F89C54B0A04C12E7F0BD18D606CC1BFC2DD45"
     },
+    "fe01a7e5590721a0": {
+      "company": "RELX INC",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "Urbanizaci\u00f3n El Vedado, San Juan",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Head of Global Customer Operations Strategy & Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5894740321?se=IECfl2i38RGJ2swHbDsdyg&utm_medium=api&utm_source=f62da352&v=6A6037CB9AEA88D0E9B253F300DB3118AC7003FE"
+    },
     "fe02d5fe1f9f21a5": {
       "closed_at": "2026-08-06T02:21:53Z",
       "company": "Socket.dev",
@@ -84447,6 +85126,17 @@
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/details/5854662519?utm_medium=api&utm_source=f62da352"
     },
+    "ff10cbfceec1fc65": {
+      "company": "MSD",
+      "first_seen": "2026-09-23T16:04:47Z",
+      "last_seen": "2026-09-23T16:04:47Z",
+      "location": "US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Executive Director, Chief of Staff, Global Clinical Trial Operations",
+      "url": "https://www.adzuna.com/details/5895236540?utm_medium=api&utm_source=f62da352"
+    },
     "ff17a0c361997da9": {
       "closed_at": "2026-08-12T13:02:00Z",
       "company": "Banfield",
@@ -84772,5 +85462,5 @@
       "url": "https://www.adzuna.com/details/5816410970?utm_medium=api&utm_source=f62da352"
     }
   },
-  "last_run": "2026-09-23T10:45:03Z"
+  "last_run": "2026-09-23T16:04:47Z"
 }
