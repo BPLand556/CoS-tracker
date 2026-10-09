@@ -1498,7 +1498,7 @@
     "04245df7e478800d": {
       "company": "Scale AI",
       "first_seen": "2026-08-03T19:26:43Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "Washington, DC",
       "slug": "scaleai",
       "source": "greenhouse",
@@ -1519,13 +1519,14 @@
       "url": "https://www.adzuna.com/land/ad/5844911263?se=7MwtrqCa8RGB8rnM-OiTpQ&utm_medium=api&utm_source=f62da352&v=A6AA47C4675EA431E4E6F7930D272674CEE6A67A"
     },
     "042822403c0f58b1": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Providence, Providence County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918423963?se=fJc37WrD8RGehKgrpTYXiQ&utm_medium=api&utm_source=f62da352&v=A38F9325BC953D96B673523907CA8A1B69FB8F81"
     },
@@ -2465,6 +2466,17 @@
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5836536574?se=ODatQISV8RG6LpicnsiRlg&utm_medium=api&utm_source=f62da352&v=A90C1C04F54373E30CB87F2000B6F668D3826C62"
     },
+    "06484ef894a12ba5": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "La Cienga, Santa Fe County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918814288?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=8F57A2903EDDA6340A0B0D01D0F0EF5BD4D8B3B3"
+    },
     "06592560c21b4a3b": {
       "closed_at": "2026-09-19T10:17:22Z",
       "company": "Oracle",
@@ -2514,13 +2526,14 @@
       "url": "https://www.adzuna.com/land/ad/5895619109?se=yAwB-8S38RGy9Y8VGxfkJg&utm_medium=api&utm_source=f62da352&v=67EA86DDCFE14AA85902C4D88727A61B0EC731C9"
     },
     "069029f517cdf7da": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Talcott Village, Hartford County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918827003?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=E19AD8093242C69769B931F465D3409DF6CE2745"
     },
@@ -3136,6 +3149,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5890502956?se=ZqXKJN-08RGWV-1h9kn0Jg&utm_medium=api&utm_source=f62da352&v=12AB199F9738CF117E26AB915D5C55A2E6DE41E5"
     },
+    "081cb2b33e8d7769": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Montpelier, Washington County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918484699?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=067A7AF48D79C306121BEC7ED1F5D31BD07F773C"
+    },
     "08212ebb6d699d02": {
       "closed_at": "2026-09-05T14:33:57Z",
       "company": "Lisa Fabiano Group",
@@ -3567,6 +3591,17 @@
       "status": "closed",
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5889157431?se=IlTwZXiz8RGk6dCvHcHp9g&utm_medium=api&utm_source=f62da352&v=924C2F742AC79F4C154E553BD247744ECA0FD655"
+    },
+    "08f420c4d633a402": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Atlanta, Fulton County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918880184?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=505594D9581147FAFB66B3B4BB9D9D7D9BABBEE8"
     },
     "08fc7060e0cddfed": {
       "closed_at": "2026-09-23T10:45:03Z",
@@ -6007,13 +6042,24 @@
     "0e84bad6debfe421": {
       "company": "HP Inc.",
       "first_seen": "2026-10-08T22:52:01Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "Oak Ridge North, Montgomery County",
       "slug": "adzuna",
       "source": "adzuna",
       "status": "active",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5919241469?utm_medium=api&utm_source=f62da352"
+    },
+    "0e8e6363f2a33562": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Oklahoma City, Oklahoma County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918832791?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=C76F23BAEC08ED45D9D75C2DBACA58D21B41F7CB"
     },
     "0e947c2fa2fe4620": {
       "closed_at": "2026-09-21T03:16:44Z",
@@ -6508,13 +6554,14 @@
       "url": "https://www.adzuna.com/land/ad/5813534761?se=sOMRDGWH8RGNtYVpDt6oXg&utm_medium=api&utm_source=f62da352&v=8A074383EABD9B63E246E82EE6B75AF20C522D76"
     },
     "0fb6313254558c88": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Charleston, Kanawha County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918811860?se=fJc37WrD8RGehKgrpTYXiQ&utm_medium=api&utm_source=f62da352&v=3A943109FACF260FF9CF46402B258C0861F3A92A"
     },
@@ -6879,13 +6926,14 @@
       "url": "https://www.adzuna.com/land/ad/5823279440?se=FkKFSIGN8RG8DqYT68M2aw&utm_medium=api&utm_source=f62da352&v=61A5944BAF510F9AD39BD4088BCBA4EAE3F38AC4"
     },
     "10c3ccf3c3b572aa": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "InfoCepts",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Palm Beach County, Florida",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff / Senior Business Consultant",
       "url": "https://www.adzuna.com/land/ad/5919069504?se=HMJG62rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=004AB29BEC533DC6F350D86FFF9C5E1C4CF00541"
     },
@@ -7500,6 +7548,17 @@
       "status": "closed",
       "title": "Chief of Staff, CEO",
       "url": "https://www.adzuna.com/land/ad/5815899410?se=FojYhF6K8RG1d7LYFOmBDw&utm_medium=api&utm_source=f62da352&v=66BB92DA0851D565009A8CF56224D1FDB651A8C4"
+    },
+    "12bc8c174114ad33": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Cammack Village, Pulaski County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918824923?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=214F2C413F0DD023A45648ACDB19FD6FCC27BA8A"
     },
     "12c085de2b729486": {
       "closed_at": "2026-08-06T14:01:26Z",
@@ -8318,13 +8377,14 @@
       "url": "https://www.adzuna.com/land/ad/5874489218?se=rnojwnCr8RGeFb9QzgmiBg&utm_medium=api&utm_source=f62da352&v=1A9438729307375D84E0791D8CDB61D81A11F7C6"
     },
     "1546bd3f59758020": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Baton Rouge, East Baton Rouge Parish",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918826140?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=02B53AAA25FC02600E89CDABB132C119E5FE937A"
     },
@@ -9635,6 +9695,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5829834949?utm_medium=api&utm_source=f62da352"
+    },
+    "189bb200ec55142e": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Grandview Heights, Franklin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918911300?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=5CFBF50444DC0A631CC59B11AC6FB27DEA7AC95E"
     },
     "18ae1f3259f4d9fd": {
       "closed_at": "2026-07-19T08:12:28Z",
@@ -11259,7 +11330,7 @@
     "1cbbb2a7b181a53a": {
       "company": "Vetcor",
       "first_seen": "2026-10-08T22:52:01Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "Palatine, Cook County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -12206,7 +12277,7 @@
     "1f914f60191cedf9": {
       "company": "Myriad Genetics",
       "first_seen": "2026-10-08T12:47:33Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "Salt Lake City, Salt Lake County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -12263,13 +12334,14 @@
       "url": "https://www.adzuna.com/land/ad/5822097982?se=gtNzQLyM8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=C952BD0481340CDF345A6D46D313A307244B1998"
     },
     "1f9b23dc9b3ff3f1": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Phoenix, Maricopa County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918854224?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=493CA9D58F5FE0FDE3057D576BA5CFBF1691F5FB"
     },
@@ -12778,13 +12850,14 @@
       "url": "https://www.adzuna.com/land/ad/5857806767?se=TnygCeeh8RG8gvfPEA1sLQ&utm_medium=api&utm_source=f62da352&v=4EDC8E7CDD609ADF03FAC46AAA46B7CCE6C1A3B1"
     },
     "20ed83822d3aa7a7": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Jackson, Hinds County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918837110?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=7EFCFFD9CCB9B992055A0397F56284D98E827AC8"
     },
@@ -15620,6 +15693,17 @@
       "title": "Chief of Staff Manager",
       "url": "https://www.adzuna.com/land/ad/5808071678?se=psREm92E8RGrzJaJ3knFvQ&utm_medium=api&utm_source=f62da352&v=1C8764AAF97E147C01556B147123E9C155068183"
     },
+    "282e5803cc6474d0": {
+      "company": "InfoCepts",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Palm Beach County, Florida",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff / Senior Business Consultant",
+      "url": "https://www.adzuna.com/land/ad/5919069504?se=lkr7XprD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=004AB29BEC533DC6F350D86FFF9C5E1C4CF00541"
+    },
     "282e5cfdb50b9233": {
       "closed_at": "2026-08-29T12:16:17Z",
       "company": "Banfield Pet Hospitals",
@@ -16713,13 +16797,14 @@
       "url": "https://www.adzuna.com/land/ad/5821090001?se=Aq-wCBWN8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=B190088979931D4AC08D7E0CAC9B9DE064F10F15"
     },
     "2aa4545055a48363": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Cammack Village, Pulaski County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918824923?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=214F2C413F0DD023A45648ACDB19FD6FCC27BA8A"
     },
@@ -17671,6 +17756,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5865151793?se=jNnEKUSm8RGUNa3mkcr13g&utm_medium=api&utm_source=f62da352&v=C6EB86C83FF2E52D22521800B6CD48E19DB7AC65"
     },
+    "2cf7d7786e068198": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Chisolm, Montgomery County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918826939?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=CCC91F0D4C6C18800B9F0CCECF348709C8DE7687"
+    },
     "2cfa05cf8e43647f": {
       "closed_at": "2026-09-09T15:53:57Z",
       "company": "Seattle University",
@@ -18223,6 +18319,17 @@
       "title": "Strategic Chief of Staff, Public Finance & ESG (New York)",
       "url": "https://www.adzuna.com/land/ad/5814077353?se=UGfd7JSH8RG3tOkLR0Zx3w&utm_medium=api&utm_source=f62da352&v=259E8A6D5F60A087ECF6DB351079A535C0363C49"
     },
+    "2e4b0cf68b129aec": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Edgewood, Richland County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918846916?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=3479AB0C2A2B968C27C2FB15A452BCE67B3F59C6"
+    },
     "2e549157ddfbe04b": {
       "closed_at": "2026-08-02T19:05:33Z",
       "company": "BGS Consulting",
@@ -18416,13 +18523,14 @@
       "url": "https://www.adzuna.com/land/ad/5806766929?se=Ji83n0mD8RG64bpm-6Bw6w&utm_medium=api&utm_source=f62da352&v=5488C737E7693030DC7EE8824AE09A7FF024646A"
     },
     "2ed52f6ba7669f4c": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Lansing, Ingham County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918864745?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=0ECB1B693E184F14E0A70DF6D1F03280D4AA464D"
     },
@@ -21186,6 +21294,17 @@
       "title": "Chief of Staff - Enterprise Systems",
       "url": "https://www.adzuna.com/land/ad/5884820532?se=PqmebiCx8RGErbR4kG1BOA&utm_medium=api&utm_source=f62da352&v=040A135C5C38D48A62F8A0230E6AA9B72749566D"
     },
+    "35888d59b27f8bed": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Frankfort, Franklin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918828350?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=A6D73F5214C4129469C611684E9EEC9D7A93D4C6"
+    },
     "358ae5909da6f2c6": {
       "closed_at": "2026-08-30T20:31:58Z",
       "company": "Indeed",
@@ -22386,6 +22505,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5868765247?se=sFfSM0yo8RG7o9UvOH5KAA&utm_medium=api&utm_source=f62da352&v=4AE063E89C392D70B9B310A5FDF57B9C0CBD2A22"
     },
+    "38c72fa6ddd03417": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Jackson, Hinds County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918837110?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=7EFCFFD9CCB9B992055A0397F56284D98E827AC8"
+    },
     "38d1b1aa954cda2b": {
       "closed_at": "2026-09-20T03:21:30Z",
       "company": "CenterWell",
@@ -22675,13 +22805,14 @@
       "url": "https://www.adzuna.com/land/ad/5844855489?se=sv45izia8RG99P0DnZNbXw&utm_medium=api&utm_source=f62da352&v=4B34DE87CC29A50EAA9DFB9A84B7A539B4909ED6"
     },
     "39dbe7bac705a812": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Atlanta, Fulton County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918880184?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=505594D9581147FAFB66B3B4BB9D9D7D9BABBEE8"
     },
@@ -25184,7 +25315,7 @@
     "3f8fbf93b4937918": {
       "company": "Microsoft",
       "first_seen": "2026-10-08T12:47:33Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "Redmond, King County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -25217,13 +25348,14 @@
       "url": "https://www.adzuna.com/land/ad/5874229086?se=Bp920fqr8RGw4d6epSviNQ&utm_medium=api&utm_source=f62da352&v=E04298A73D0BF93E0DD90142CB9CBEB1593A6B59"
     },
     "3fa4ac5f226bf8ce": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Sacramento, Sacramento County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918792764?se=fJc37WrD8RGehKgrpTYXiQ&utm_medium=api&utm_source=f62da352&v=7D9719A837FFC715B73E1C728AB203F5518B4A67"
     },
@@ -28012,13 +28144,14 @@
       "url": "https://www.adzuna.com/land/ad/5826706909?se=PjltE9-P8RGLT5ECL-xKtg&utm_medium=api&utm_source=f62da352&v=58F97EA140D820F59494EFACE3A18A3C9EABBA3C"
     },
     "45dafeda12940fb1": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Five Points, Wake County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918906995?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=977FB51914E22B7007454EA6052B297B17D13711"
     },
@@ -28371,13 +28504,14 @@
       "url": "https://www.adzuna.com/land/ad/5847015411?se=EGGrLsub8RG3PelkDUppDQ&utm_medium=api&utm_source=f62da352&v=5DF7301B7CC2905BDCBCA9ADD82AF4F33202D495"
     },
     "46fed5ce93fd6cf0": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Chisolm, Montgomery County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918826939?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=CCC91F0D4C6C18800B9F0CCECF348709C8DE7687"
     },
@@ -32341,6 +32475,17 @@
       "title": "Principal Program Manager, Chief of Staff, Applied AI",
       "url": "https://www.adzuna.com/land/ad/5888675108?se=xOudX0yz8RG0QeQxJsRAzA&utm_medium=api&utm_source=f62da352&v=E6F0107A37E708C2DB0C5BE7A5A6FFC0E28E1966"
     },
+    "513e836ccae1b2d5": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Trenton, Mercer County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918868368?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=63019BDBCF909214D8E7FD1264C5D55A0296C944"
+    },
     "5147c626151bfb6a": {
       "closed_at": "2026-08-06T14:01:26Z",
       "company": "Simon-Kucher",
@@ -32440,7 +32585,7 @@
     "517a33a61c9f9bab": {
       "company": "Lumen",
       "first_seen": "2026-10-08T12:47:33Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "Capitol, Richmond",
       "slug": "adzuna",
       "source": "adzuna",
@@ -34657,13 +34802,14 @@
       "url": "https://www.adzuna.com/land/ad/5844816443?se=phyHaGqa8RGoq93y-acWwA&utm_medium=api&utm_source=f62da352&v=57753034637F8E90B890F8AEDEABFAEAFFFF0EE7"
     },
     "5724af5a85e2e8f5": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Oklahoma City, Oklahoma County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918832791?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=C76F23BAEC08ED45D9D75C2DBACA58D21B41F7CB"
     },
@@ -36828,13 +36974,14 @@
       "url": "https://www.adzuna.com/details/5850360528?utm_medium=api&utm_source=f62da352"
     },
     "5d4cbd4a5b951f3f": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "State House, Lancaster County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918809394?se=fJc37WrD8RGehKgrpTYXiQ&utm_medium=api&utm_source=f62da352&v=1D87C8504B950D2E8CAF365EA26B484B610D0133"
     },
@@ -36949,7 +37096,7 @@
     "5d8dca2f3308daf0": {
       "company": "Lumen",
       "first_seen": "2026-10-08T12:47:33Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "Springfield, Sangamon County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -37654,13 +37801,14 @@
       "url": "https://www.adzuna.com/land/ad/5917296705?se=KvwCNaDC8RG_PYTtY09nDQ&utm_medium=api&utm_source=f62da352&v=2EEE682242D0F94CC45DD513CA0B4EBA8FFB6BD0"
     },
     "5f68bc26762e9c1a": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Pierre, Hughes County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918424123?se=fJc37WrD8RGehKgrpTYXiQ&utm_medium=api&utm_source=f62da352&v=F56464F3B2389B47A911B4388BFF4450E204DD16"
     },
@@ -37941,13 +38089,14 @@
       "url": "https://www.adzuna.com/details/5898391778?utm_medium=api&utm_source=f62da352"
     },
     "602373ecec15a7fe": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Tumwater, Thurston County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918891241?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=52A71829F49C9942D22594D5C72D7A3071C07BA5"
     },
@@ -38144,13 +38293,14 @@
       "url": "https://www.adzuna.com/land/ad/5836547279?se=SO6IDk6W8RGBkclIi1idWA&utm_medium=api&utm_source=f62da352&v=684B3FAFDC201113F5AEE5AB328763504356C8E9"
     },
     "60700abee3b67c57": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Saint Paul, Ramsey County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918844247?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=654C2B9AF9CCDAFC6F6F3B1B5C8FB6307BB8DCA3"
     },
@@ -38369,6 +38519,17 @@
       "status": "closed",
       "title": "Executive Chief of Staff & Growth Strategy Lead (New York)",
       "url": "https://www.adzuna.com/land/ad/5825811166?se=7hTi4eOO8RGGgO_n0rmdiQ&utm_medium=api&utm_source=f62da352&v=8149A18E2F111C2CE475F34E2BE09073075839EF"
+    },
+    "60e40ac6553368ac": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Bonnie, Utah County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918844459?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=C5138D6E2AEEDA6DFA5204C67BFC46C92E9918A5"
     },
     "60e88104459b5a89": {
       "closed_at": "2026-10-04T20:51:17Z",
@@ -39042,6 +39203,17 @@
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892727702?se=DKb-AjS28RGiuvI-4ONkHw&utm_medium=api&utm_source=f62da352&v=5AB549F71498412F1B761D178C768F91E8465E79"
     },
+    "625cc93fe357a083": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Des Moines, Polk County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918824426?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=DF57EC704B9D7D9338EC7BD600C71A2843B5E88D"
+    },
     "6268497786791751": {
       "closed_at": "2026-10-08T04:27:41Z",
       "company": "Boys & Girls Club of Oakland",
@@ -39701,6 +39873,17 @@
       "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5836540134?se=ODatQISV8RG6LpicnsiRlg&utm_medium=api&utm_source=f62da352&v=E4F8EA157A0EAF2FB42123B3721BAF4CAB748A52"
+    },
+    "6400fa1543aff49f": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Cedar, Cole County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918867832?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=88223FF4A231D066CA3BC52B40FBA8B9775DDE1C"
     },
     "6403666acbfbcd21": {
       "closed_at": "2026-08-27T07:14:50Z",
@@ -40385,6 +40568,17 @@
       "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5836568707?se=tg2wobaV8RGwIbMnLvoVfw&utm_medium=api&utm_source=f62da352&v=32B0814B16E81262561ED28A52622D0AEB38D146"
+    },
+    "66643cb92997b1c4": {
+      "company": "Early Warning Services",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "San Francisco, California",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Senior Director, Chief of Staff \u2013 Office of the CTO",
+      "url": "https://www.adzuna.com/details/5920116194?utm_medium=api&utm_source=f62da352"
     },
     "666a0ff06a0fa288": {
       "closed_at": "2026-09-29T04:11:08Z",
@@ -41253,7 +41447,7 @@
     "68e1a55f264a28af": {
       "company": "UiPath",
       "first_seen": "2026-10-08T12:47:33Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -42810,13 +43004,14 @@
       "url": "https://www.adzuna.com/land/ad/5850364550?se=3pFWPCud8RGhArhxtbtVlg&utm_medium=api&utm_source=f62da352&v=908BA9B4E52D9331D1E6ED779AC392C5D956EB98"
     },
     "6cf84646915bcfbd": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Salem, Marion County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918839690?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=88B71051B725D73268DF8EBA89112A653DD16BF3"
     },
@@ -47141,13 +47336,14 @@
       "url": "https://www.adzuna.com/details/5854662442?utm_medium=api&utm_source=f62da352"
     },
     "7853faa0e5f1bc12": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Boise, Ada County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918830448?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=9E76DF96C85C06E401E9D0FF63784257E69424E9"
     },
@@ -47394,7 +47590,7 @@
     "78fd82e9655b3e0f": {
       "company": "Maven AGI",
       "first_seen": "2026-10-08T12:47:33Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -49946,6 +50142,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5890507291?se=ZqXKJN-08RGWV-1h9kn0Jg&utm_medium=api&utm_source=f62da352&v=D4C9B34CBD142C7E78E810908578F50ACE483A21"
     },
+    "7ec545c403f08169": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Topeka, Shawnee County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918845411?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=2A8B107AF9C00992FE54DD37A40F1A5B52AE3D60"
+    },
     "7edd3486005769ac": {
       "closed_at": "2026-08-02T19:05:33Z",
       "company": "AtOrchard LLC",
@@ -51830,6 +52037,17 @@
       "title": "Advanced Optics Technology Portfolio Manager and Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5905045432?se=Nu5sRea98RGs4p7qNUO4VA&utm_medium=api&utm_source=f62da352&v=BF9B49FA8B3168474DC9F3A45316286D830F5772"
     },
+    "840c711a1c027fbd": {
+      "company": "EBAY",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "San Jose, Santa Clara County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director & Chief of Staff-Design",
+      "url": "https://www.adzuna.com/land/ad/5919211243?se=lkr7XprD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=41B4AE6FBE066D4949925DB1276F275861C8DC1D"
+    },
     "840c8747837e2326": {
       "closed_at": "2026-08-17T18:35:00Z",
       "company": "Coinbase",
@@ -52877,7 +53095,7 @@
     "86537e4b26b6ab88": {
       "company": "Lumen",
       "first_seen": "2026-10-08T12:47:33Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "Tallahassee, Leon County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -54194,13 +54412,14 @@
       "url": "https://www.adzuna.com/land/ad/5890515529?se=br1SgDC18RGdfoIAofxwAg&utm_medium=api&utm_source=f62da352&v=168C5F1365BFAE017E5EF184BA79ACA8E9DFD7B7"
     },
     "89d9a51aa5aae7ec": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Uptown, Marion County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918854985?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=0E060653D7E4E19980E3390A56FE0B3EFEB3554F"
     },
@@ -54948,6 +55167,17 @@
       "title": "Deputy Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5830444822?se=xiAGNi-S8RGCBfheOeDrGw&utm_medium=api&utm_source=f62da352&v=5934593916A4DECD2F4A209BB545680896D0E333"
     },
+    "8b57d1ad964f8ce1": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Sacramento, Sacramento County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918792764?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=7D9719A837FFC715B73E1C728AB203F5518B4A67"
+    },
     "8b58b68de92757c3": {
       "closed_at": "2026-09-09T10:44:36Z",
       "company": "talentpluto",
@@ -55455,7 +55685,7 @@
     "8c97297ea2883c6b": {
       "company": "Clinton Health Access Initiative",
       "first_seen": "2026-10-08T22:52:01Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -55666,6 +55896,17 @@
       "status": "closed",
       "title": "Chief of Staff, Communications",
       "url": "https://www.adzuna.com/land/ad/5811769670?se=3FX9InCG8RGpocN_4bcAxw&utm_medium=api&utm_source=f62da352&v=17B547CA009099398919554266BB11683D3B9353"
+    },
+    "8d15b5f6688d73fb": {
+      "company": "InfoCepts",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Palm Beach, Palm Beach County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff / Senior Business Consultant",
+      "url": "https://www.adzuna.com/details/5919646919?utm_medium=api&utm_source=f62da352"
     },
     "8d22955f785cdfeb": {
       "closed_at": "2026-09-27T20:51:45Z",
@@ -56854,6 +57095,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5853604044?utm_medium=api&utm_source=f62da352"
+    },
+    "9027b78390f3d99e": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Tumwater, Thurston County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918891241?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=52A71829F49C9942D22594D5C72D7A3071C07BA5"
     },
     "9028cca0b1d9ed0f": {
       "closed_at": "2026-07-24T13:38:53Z",
@@ -58116,13 +58368,14 @@
       "url": "https://www.adzuna.com/land/ad/5890501886?se=ZqXKJN-08RGWV-1h9kn0Jg&utm_medium=api&utm_source=f62da352&v=2C6D07D6FC1FB72DFB50B24F05BABFC5A596FD5C"
     },
     "93174d239d1f54cf": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Annapolis, Anne Arundel County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918850231?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=B72BE790C82E81412621A07AC7EA59FE95C6AB14"
     },
@@ -58799,13 +59052,14 @@
       "url": "https://www.adzuna.com/land/ad/5856779067?se=Nppli4ah8RG3h_QZnPTmVA&utm_medium=api&utm_source=f62da352&v=73285F35BBB6B76533B0DB921C1F96F584BD3C58"
     },
     "94dd4bb86c91b3bf": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Bonnie, Utah County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918844459?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=C5138D6E2AEEDA6DFA5204C67BFC46C92E9918A5"
     },
@@ -59924,6 +60178,17 @@
       "status": "closed",
       "title": "Veterinarian - Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5821915160?se=VjqMelGN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=23AC718CA8B4219F49D57B08F5D44C2E044BD955"
+    },
+    "98364c2a2ac18e6a": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Uptown, Marion County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918854985?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=0E060653D7E4E19980E3390A56FE0B3EFEB3554F"
     },
     "983910cb524277f2": {
       "closed_at": "2026-09-20T10:36:13Z",
@@ -61330,13 +61595,14 @@
       "url": "https://www.adzuna.com/land/ad/5844814933?se=gMbtsKCa8RGB8rnM-OiTpQ&utm_medium=api&utm_source=f62da352&v=CF920AF8F2ED60D7740A6D09FE8006AF9E9E19F8"
     },
     "9bd146bee628e22f": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "La Cienga, Santa Fe County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918814288?se=fJc37WrD8RGehKgrpTYXiQ&utm_medium=api&utm_source=f62da352&v=8F57A2903EDDA6340A0B0D01D0F0EF5BD4D8B3B3"
     },
@@ -62817,13 +63083,14 @@
       "url": "https://www.adzuna.com/land/ad/5900586164?se=9ot-2ru78RGe_aBsVaeIhA&utm_medium=api&utm_source=f62da352&v=9D5CABF4DE68A8944B1548835F83EE523AFCF0F2"
     },
     "9f3184d68ec1860f": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Frankfort, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918828350?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=A6D73F5214C4129469C611684E9EEC9D7A93D4C6"
     },
@@ -62924,13 +63191,14 @@
       "url": "https://www.adzuna.com/land/ad/5823969554?se=5u8y5duN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=DA4C2B7A15869C8539834C0C7AF36BFF2082CEBD"
     },
     "9f564e43c526967d": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Glendale, Denver",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918811646?se=fJc37WrD8RGehKgrpTYXiQ&utm_medium=api&utm_source=f62da352&v=27964DC8CC742C13FCD9EF0FDA77BC389DA4F332"
     },
@@ -64903,13 +65171,14 @@
       "url": "https://www.adzuna.com/land/ad/5916076962?se=9j3kNqDC8RGRZ6QSUIDhmA&utm_medium=api&utm_source=f62da352&v=3CED40F50991622E540F46148D81BFD11917B78E"
     },
     "a3f0874326d0d34f": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "EBAY",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "San Jose, Santa Clara County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director & Chief of Staff-Design",
       "url": "https://www.adzuna.com/land/ad/5919211243?se=HMJG62rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=41B4AE6FBE066D4949925DB1276F275861C8DC1D"
     },
@@ -64926,13 +65195,14 @@
       "url": "https://www.adzuna.com/land/ad/5852045889?se=TAlTpSWe8RG5ltRfXFt8aQ&utm_medium=api&utm_source=f62da352&v=DCDA1A62CD69A59AF8DB2E26FF0A9F95A50984DD"
     },
     "a3fa5a4e9f1da265": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Grandview Heights, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918911300?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=5CFBF50444DC0A631CC59B11AC6FB27DEA7AC95E"
     },
@@ -68152,6 +68422,17 @@
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918423032?se=pvJuexbD8RGmDNvs5IYFsw&utm_medium=api&utm_source=f62da352&v=EA4DC648CDE1E90D53D9FC0626862AA844224337"
     },
+    "ac36fb79ab762781": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Salem, Marion County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918839690?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=88B71051B725D73268DF8EBA89112A653DD16BF3"
+    },
     "ac3fc2752c97f7d0": {
       "closed_at": "2026-07-31T08:45:43Z",
       "company": "Niural",
@@ -68959,7 +69240,7 @@
     "ae7581815558c46c": {
       "company": "Blue Shield of California",
       "first_seen": "2026-10-08T12:47:33Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "Philatelic, Alameda County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -69270,7 +69551,7 @@
     "af6b656ba28dbe30": {
       "company": "Lisa Fabiano Group",
       "first_seen": "2026-10-08T12:47:33Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "Kenosha, Kenosha County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -71102,6 +71383,17 @@
       "title": "Physician - Chief of Staff",
       "url": "https://www.adzuna.com/details/5896789114?utm_medium=api&utm_source=f62da352"
     },
+    "b436147b11e26bbd": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Talcott Village, Hartford County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918827003?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=E19AD8093242C69769B931F465D3409DF6CE2745"
+    },
     "b43a070548c01d32": {
       "closed_at": "2026-09-05T14:33:57Z",
       "company": "CoreWeave",
@@ -72062,6 +72354,17 @@
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892734571?se=aHz6XHS28RGvd94b4pT8Lw&utm_medium=api&utm_source=f62da352&v=20E7F668F71F0B7CC85F16CF801D4AF96C5FF521"
     },
+    "b687ee4a90322954": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Nashville, Davidson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918869727?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=1506D46FFC7C91CEE9163EF5285F749B56DB8758"
+    },
     "b692059982fd4454": {
       "closed_at": "2026-08-27T07:14:50Z",
       "company": "Banfield",
@@ -72771,13 +73074,14 @@
       "url": "https://www.adzuna.com/land/ad/5850439443?se=3pFWPCud8RGhArhxtbtVlg&utm_medium=api&utm_source=f62da352&v=1455D9050E5BC9F197A13AACB6A75F7E7E518DF2"
     },
     "b83648ec82f1a80a": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Bismarck, Burleigh County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918422729?se=fJc37WrD8RGehKgrpTYXiQ&utm_medium=api&utm_source=f62da352&v=F9ED5965A6769237AE726ED6AE0B603BC2418524"
     },
@@ -73068,6 +73372,17 @@
       "status": "closed",
       "title": "Chief of Staff to the GM of Housing New York, NY",
       "url": "https://www.adzuna.com/land/ad/5827479756?se=ftR-DKiQ8RGLwZkdgahNug&utm_medium=api&utm_source=f62da352&v=7BE2D453862E05013C05B2DAA6B12C48D1B1DBF0"
+    },
+    "b8ee1016a107816e": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Annapolis, Anne Arundel County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918850231?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=B72BE790C82E81412621A07AC7EA59FE95C6AB14"
     },
     "b8f5dc252a6d69ee": {
       "closed_at": "2026-08-11T18:58:05Z",
@@ -74234,13 +74549,14 @@
       "url": "https://www.adzuna.com/land/ad/5909820685?se=3rrB7Gm_8RGdRLcUnFY4TA&utm_medium=api&utm_source=f62da352&v=6A9976F2E3E5004E7228880C7642BF8BEB5D1CB6"
     },
     "bb8bd9513813b2a6": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Edgewood, Richland County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918846916?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=3479AB0C2A2B968C27C2FB15A452BCE67B3F59C6"
     },
@@ -74291,6 +74607,17 @@
       "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918421825?se=pvJuexbD8RGmDNvs5IYFsw&utm_medium=api&utm_source=f62da352&v=74546ED54393DDFC2C287B0382003896E5DD7F30"
+    },
+    "bbea18bfbd799e86": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Five Points, Wake County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918906995?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=977FB51914E22B7007454EA6052B297B17D13711"
     },
     "bbf6ec1b84255026": {
       "closed_at": "2026-09-23T16:04:47Z",
@@ -74617,13 +74944,14 @@
       "url": "https://www.adzuna.com/land/ad/5850559788?se=_ip4vI6d8RGR5o_pugR4nQ&utm_medium=api&utm_source=f62da352&v=E2BD3D9A0903E33EAF73716C0B47B360C33CDC4A"
     },
     "bcba69e9d1d61b4c": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Nashville, Davidson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918869727?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=1506D46FFC7C91CEE9163EF5285F749B56DB8758"
     },
@@ -76847,6 +77175,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5803646256?se=KOBrBE6C8RG9RJh7OG-Znw&utm_medium=api&utm_source=f62da352&v=C18711056A8FDB9831382DEAC7AA992F3E71808F"
     },
+    "c1fde0bb926d3eb3": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Saint Paul, Ramsey County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918844247?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=654C2B9AF9CCDAFC6F6F3B1B5C8FB6307BB8DCA3"
+    },
     "c203efafb2fa6769": {
       "closed_at": "2026-09-10T20:24:21Z",
       "company": "Mission Pet Health",
@@ -77112,24 +77451,26 @@
       "url": "https://www.adzuna.com/land/ad/5823972256?se=1M5paxqO8RGBm-nBsWM45g&utm_medium=api&utm_source=f62da352&v=8E055EE48AD97E5C93F9952CE6E7DFF8A0AECABB"
     },
     "c2b2b2f228a35b16": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "InfoCepts",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Palm Beach, Palm Beach County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff / Senior Business Consultant",
       "url": "https://www.adzuna.com/land/ad/5919646919?se=HMJG62rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=5CE7613032B8DE600069837A282EDF15EAD600A7"
     },
     "c2b2e73afa476b90": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918858485?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=DDAE14112FD1286D935B0217C09EA8BF9855140F"
     },
@@ -77662,13 +78003,14 @@
       "url": "https://www.adzuna.com/land/ad/5910991879?se=6NjtTaq_8RGdRLcUnFY4TA&utm_medium=api&utm_source=f62da352&v=00BB986E905F65577062C8095166BA80F2E703A5"
     },
     "c43d1164d3e293f5": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Madison, Dane County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918834049?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=46C7FE23E00668FA2A89238C673B94E07D902530"
     },
@@ -78069,13 +78411,14 @@
       "url": "https://www.adzuna.com/land/ad/5886852930?se=3rFyKUey8RGPhZDySvILTw&utm_medium=api&utm_source=f62da352&v=34CF4C5EA8E359A6E7E65671093262BA32377FAE"
     },
     "c5324b1d39d74d75": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Carson Mall, Carson City",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918810910?se=fJc37WrD8RGehKgrpTYXiQ&utm_medium=api&utm_source=f62da352&v=055B62C0E71FD80857A8C197BD9D65CEBB784378"
     },
@@ -78512,13 +78855,14 @@
       "url": "https://www.adzuna.com/land/ad/5903027256?se=aJrgusW88RGNc_hKohi8Ew&utm_medium=api&utm_source=f62da352&v=6AAE7D78627E84FC1D7F272CF6FF14CA3E3ACEA9"
     },
     "c68910fbdaa8540f": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Trenton, Mercer County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918868368?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=63019BDBCF909214D8E7FD1264C5D55A0296C944"
     },
@@ -78847,13 +79191,14 @@
       "url": "https://www.adzuna.com/land/ad/5865151958?se=UN8s9Xim8RGehPSUdmwhIg&utm_medium=api&utm_source=f62da352&v=586F2635BC61B61703F51CF0CF13D1B00CBEDC1B"
     },
     "c71b4cf5c97d5a92": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Topeka, Shawnee County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918845411?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=2A8B107AF9C00992FE54DD37A40F1A5B52AE3D60"
     },
@@ -79664,7 +80009,7 @@
     "c9a7a3ec6eaa2df1": {
       "company": "Lumen",
       "first_seen": "2026-10-08T12:47:33Z",
-      "last_seen": "2026-10-08T22:52:01Z",
+      "last_seen": "2026-10-09T04:31:44Z",
       "location": "Penbrook, Dauphin County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -80379,6 +80724,17 @@
       "status": "closed",
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892330108?se=uHwcXnS28RGStvf-5zP7mg&utm_medium=api&utm_source=f62da352&v=7779D30D934790D977E7D1E86900F972427E7CC2"
+    },
+    "cbac5ffd60dce6f3": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Boise, Ada County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918830448?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=9E76DF96C85C06E401E9D0FF63784257E69424E9"
     },
     "cbca7df882727a91": {
       "closed_at": "2026-09-04T02:52:39Z",
@@ -81579,6 +81935,17 @@
       "status": "closed",
       "title": "Chief of Staff, NA Sales",
       "url": "https://www.adzuna.com/land/ad/5847153056?se=rvYFoZib8RG33K-LVeyx-w&utm_medium=api&utm_source=f62da352&v=17048AB7F973AD00AAD0E24E6A08FBF11CA4FA47"
+    },
+    "cecd59fcc4c6a88c": {
+      "company": "Beacon Hill Staffing Group, LLC",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "New York City, New York",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff/Executive Assistant",
+      "url": "https://www.adzuna.com/land/ad/5919776598?se=lkr7XprD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=3104460A1608E327F308349167DB388A58436F41"
     },
     "ced4eb33f97578fc": {
       "closed_at": "2026-08-30T11:13:57Z",
@@ -83308,6 +83675,17 @@
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887587713?se=xr0AWA6z8RGaaeuauh1Rtw&utm_medium=api&utm_source=f62da352&v=CA742B3140022DB63F0E8BEA9A01FB80F889B260"
     },
+    "d2d0829784125b71": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Boston, Suffolk County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918858485?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=DDAE14112FD1286D935B0217C09EA8BF9855140F"
+    },
     "d2d897ff356060f8": {
       "closed_at": "2026-07-31T19:20:45Z",
       "company": "Affirm",
@@ -83631,6 +84009,17 @@
       "status": "closed",
       "title": "Chief of Staff, Global Investments \u2014 Hybrid & Strategic Partner (Baltimore)",
       "url": "https://www.adzuna.com/land/ad/5824235126?se=4rq-4tuN8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=01039855829D0EFBFF7FB20A5B1791DE5C861C34"
+    },
+    "d3bc6e7199617c13": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Phoenix, Maricopa County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918854224?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=493CA9D58F5FE0FDE3057D576BA5CFBF1691F5FB"
     },
     "d3c7e0f3f4e7be57": {
       "closed_at": "2026-10-06T12:43:59Z",
@@ -86776,6 +87165,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5830258907?utm_medium=api&utm_source=f62da352"
     },
+    "db70be9657a9694c": {
+      "company": "Brave Books LLC",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Conroe, Montgomery County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/details/5920050723?utm_medium=api&utm_source=f62da352"
+    },
     "db71b68315c6ca8b": {
       "closed_at": "2026-09-30T21:51:23Z",
       "company": "Human Computer Lab",
@@ -88720,6 +89120,17 @@
       "title": "Chief of Staff to Tech Founder",
       "url": "https://www.adzuna.com/land/ad/5873267892?se=xBu6b9-q8RG84Z70Fx4EkA&utm_medium=api&utm_source=f62da352&v=118B19C86585C5167E33384426647A5A7BCD4F07"
     },
+    "e0693a36c839c61b": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Carson Mall, Carson City",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918810910?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=055B62C0E71FD80857A8C197BD9D65CEBB784378"
+    },
     "e07c2847c8c2de1f": {
       "closed_at": "2026-09-17T20:56:03Z",
       "company": "UKG",
@@ -89513,13 +89924,14 @@
       "url": "https://www.adzuna.com/details/5861921725?utm_medium=api&utm_source=f62da352"
     },
     "e24f31cbf6e98fa7": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Montpelier, Washington County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918484699?se=fJc37WrD8RGehKgrpTYXiQ&utm_medium=api&utm_source=f62da352&v=067A7AF48D79C306121BEC7ED1F5D31BD07F773C"
     },
@@ -91515,6 +91927,17 @@
       "title": "Chief of Staff for Bureau of Asset Management (BAM) (New York)",
       "url": "https://www.adzuna.com/land/ad/5814076705?se=qikkTP-H8RG3tOkLR0Zx3w&utm_medium=api&utm_source=f62da352&v=1464A8D7276AC9D110DA9CFC413182BEA9BF3D47"
     },
+    "e6e129c6b1c31a5e": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Glendale, Denver",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918811646?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=27964DC8CC742C13FCD9EF0FDA77BC389DA4F332"
+    },
     "e6e6e035ed70e51f": {
       "closed_at": "2026-09-14T17:40:09Z",
       "company": "JPMorganChase",
@@ -92834,6 +93257,17 @@
       "status": "closed",
       "title": "Veterinarian - Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5856769876?se=jBBNEkyh8RGibI7KeL9hYA&utm_medium=api&utm_source=f62da352&v=F238218961106A7C6D9830BC7BC5AB6976191A0C"
+    },
+    "e9eaa747dbeee751": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Baton Rouge, East Baton Rouge Parish",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918826140?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=02B53AAA25FC02600E89CDABB132C119E5FE937A"
     },
     "e9ef7e87c8775aa7": {
       "closed_at": "2026-07-18T02:11:20Z",
@@ -95883,6 +96317,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5882511489?se=3gHxP7Cv8RGw3foOHxJxCQ&utm_medium=api&utm_source=f62da352&v=DBC4A1B55C24ED22785E125BDC842A26E79C3505"
     },
+    "f1e46b85b5162504": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Lansing, Ingham County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918864745?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=0ECB1B693E184F14E0A70DF6D1F03280D4AA464D"
+    },
     "f1f98ff7ed50e276": {
       "closed_at": "2026-08-13T01:45:55Z",
       "company": "Oracle",
@@ -96016,13 +96461,14 @@
       "url": "https://www.adzuna.com/land/ad/5811701176?se=DOTjI3CG8RGbGoMv58FbYQ&utm_medium=api&utm_source=f62da352&v=BD75CBB44C6247EAEBC7B33929FE5595A59E0184"
     },
     "f23abbde8e92aaaf": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Ny State Campus, Albany County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918935833?se=HMJG62rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=21CC831FB3BEFF8FDF6C896A0B125844A3480F40"
     },
@@ -97178,6 +97624,17 @@
       "title": "Area Chief of Staff Veterinarian",
       "url": "https://www.adzuna.com/land/ad/5823971429?se=zr4i5NuN8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=99F7932F1618BB0DFCB63BA3A40BC61E19756FD8"
     },
+    "f4b87e0666e46238": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Charleston, Kanawha County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918811860?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=3A943109FACF260FF9CF46402B258C0861F3A92A"
+    },
     "f4b8c5cfe5b97aa5": {
       "closed_at": "2026-08-18T01:03:37Z",
       "company": "Coinbase",
@@ -97563,13 +98020,14 @@
       "url": "https://www.adzuna.com/land/ad/5871797564?se=pk9kKZ6p8RGogquEo3zAlQ&utm_medium=api&utm_source=f62da352&v=CAFDE643A03533841642F314866A4F3CC846DE9F"
     },
     "f5f222c41347a0f0": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Cedar, Cole County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918867832?se=HNUy7GrD8RGRp-cPGAs4Ig&utm_medium=api&utm_source=f62da352&v=88223FF4A231D066CA3BC52B40FBA8B9775DDE1C"
     },
@@ -97956,6 +98414,17 @@
       "status": "closed",
       "title": "AREA CHIEF OF STAFF",
       "url": "https://www.adzuna.com/land/ad/5874229544?se=gCfqfjus8RGX79OIAGii3A&utm_medium=api&utm_source=f62da352&v=636195540DEAEAC1B00BDCED2A0B479CFBC04272"
+    },
+    "f7101762a80f7910": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "State House, Lancaster County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918809394?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=1D87C8504B950D2E8CAF365EA26B484B610D0133"
     },
     "f724b2bee35658a0": {
       "closed_at": "2026-08-13T01:45:55Z",
@@ -98618,13 +99087,14 @@
       "url": "https://www.adzuna.com/land/ad/5882564136?se=_J2-o7Sw8RGNCI4LXswoCg&utm_medium=api&utm_source=f62da352&v=A569458503D5B12B8F347381DD05AF498882150F"
     },
     "f89e5ebd1d3a79bb": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Des Moines, Polk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918824426?se=fJc37WrD8RGehKgrpTYXiQ&utm_medium=api&utm_source=f62da352&v=DF57EC704B9D7D9338EC7BD600C71A2843B5E88D"
     },
@@ -99936,6 +100406,17 @@
       "title": "Chief of Staff, Production with Security Clearance",
       "url": "https://www.adzuna.com/land/ad/5903027256?se=kK8u-oK88RGnaMK3Ib81hg&utm_medium=api&utm_source=f62da352&v=6AAE7D78627E84FC1D7F272CF6FF14CA3E3ACEA9"
     },
+    "fb87d7f676ce5e0a": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Madison, Dane County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918834049?se=xNvkYJrD8RGdsIWI_BLNVw&utm_medium=api&utm_source=f62da352&v=46C7FE23E00668FA2A89238C673B94E07D902530"
+    },
     "fb8a026fb9b45b3a": {
       "closed_at": "2026-09-18T03:09:03Z",
       "company": "UKG",
@@ -101040,6 +101521,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5874600855?se=6OJ1HZ6r8RGIJqh87QWbzg&utm_medium=api&utm_source=f62da352&v=CEA4201867F4221769565B36928AFED13F896D18"
     },
+    "fe093e5d55a368db": {
+      "company": "Lumen",
+      "first_seen": "2026-10-09T04:31:44Z",
+      "last_seen": "2026-10-09T04:31:44Z",
+      "location": "Ny State Campus, Albany County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director, Chief of Staff - Enterprise Finance Planning",
+      "url": "https://www.adzuna.com/land/ad/5918935833?se=wu7KX5rD8RGYlKz4wh8B5A&utm_medium=api&utm_source=f62da352&v=21CC831FB3BEFF8FDF6C896A0B125844A3480F40"
+    },
     "fe0b5fd4b3f73ecc": {
       "closed_at": "2026-09-18T10:33:02Z",
       "company": "UKG",
@@ -101497,13 +101989,14 @@
       "url": "https://www.adzuna.com/land/ad/5856782321?se=jBBNEkyh8RGibI7KeL9hYA&utm_medium=api&utm_source=f62da352&v=9C418EF1EE8F4780294D1EEAA674C222814DE67A"
     },
     "ff5423631ed1833a": {
+      "closed_at": "2026-10-09T04:31:44Z",
       "company": "Lumen",
       "first_seen": "2026-10-08T22:52:01Z",
       "last_seen": "2026-10-08T22:52:01Z",
       "location": "Wyoming, Kent County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director, Chief of Staff - Enterprise Finance Planning",
       "url": "https://www.adzuna.com/land/ad/5918423032?se=fJc37WrD8RGehKgrpTYXiQ&utm_medium=api&utm_source=f62da352&v=EA4DC648CDE1E90D53D9FC0626862AA844224337"
     },
@@ -101880,5 +102373,5 @@
       "url": "https://www.adzuna.com/details/5816410970?utm_medium=api&utm_source=f62da352"
     }
   },
-  "last_run": "2026-10-08T22:52:01Z"
+  "last_run": "2026-10-09T04:31:44Z"
 }
