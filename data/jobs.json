@@ -103,6 +103,17 @@
       "title": "Chief of Staff, Communications",
       "url": "https://www.adzuna.com/details/5811656906?utm_medium=api&utm_source=f62da352"
     },
+    "004f30fa139befba": {
+      "company": "Rimere",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Lafayette, Boulder County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5935513018?se=NMSAJKLM8RGeF-Sw_vHIlg&utm_medium=api&utm_source=f62da352&v=0F588A72109E3B013C6F8A94BF5C3748CBB7C685"
+    },
     "005cbd26b6a8ac45": {
       "closed_at": "2026-10-04T20:51:17Z",
       "company": "Leidos",
@@ -1664,13 +1675,14 @@
       "url": "https://www.adzuna.com/land/ad/5814089474?se=qikkTP-H8RG3tOkLR0Zx3w&utm_medium=api&utm_source=f62da352&v=E08F2ADEFA2770033291EDCF211692965EF25580"
     },
     "03dfb11f01764f64": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Boise, Ada County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933211486?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=5730CD66B4E84A2D817F70F061F29AEA143E4A5E"
     },
@@ -1761,7 +1773,7 @@
     "04245df7e478800d": {
       "company": "Scale AI",
       "first_seen": "2026-08-03T19:26:43Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "Washington, DC",
       "slug": "scaleai",
       "source": "greenhouse",
@@ -2956,6 +2968,17 @@
       "status": "closed",
       "title": "Area Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5927257460?se=rNeQxb_H8RGghcfl051iWw&utm_medium=api&utm_source=f62da352&v=475C44D365C8190465C6C66E5B572341EC8458EF"
+    },
+    "069607cd739c17be": {
+      "company": "J.P. Morgan",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Jersey City, Hudson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Principal Technical Program Manager - Chief of Staff (Corporate Technology)",
+      "url": "https://www.adzuna.com/land/ad/5935533193?se=NMSAJKLM8RGeF-Sw_vHIlg&utm_medium=api&utm_source=f62da352&v=20D77CA7801978957425BC0D8A87980469CBE0E7"
     },
     "06b493e84315df2a": {
       "closed_at": "2026-08-12T18:58:31Z",
@@ -4445,6 +4468,17 @@
       "title": "Senior Director, Chief of Staff - Global Business Unit",
       "url": "https://www.adzuna.com/land/ad/5820680700?se=nKw9Dh6M8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=D18B2A3EEFECF45D6BA54D3C37EE712CD12B6B70"
     },
+    "095dcee6fbe855ac": {
+      "company": "John Evans Recruiting",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Baltimore, Baltimore County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff (Construction Firm)",
+      "url": "https://www.adzuna.com/land/ad/5935432163?se=NMSAJKLM8RGeF-Sw_vHIlg&utm_medium=api&utm_source=f62da352&v=A36923E73C39949EF6CC490912F1017959C78A19"
+    },
     "096973e9f63b3632": {
       "closed_at": "2026-08-06T08:31:27Z",
       "company": "Clera",
@@ -4612,6 +4646,17 @@
       "status": "closed",
       "title": "Chief of Staff to the CEO",
       "url": "https://www.adzuna.com/land/ad/5909014086?se=hMMrVhq_8RGN96JAzfykhw&utm_medium=api&utm_source=f62da352&v=B83B2C21193C4A0F26095ACD7F1B6C4C673F73E4"
+    },
+    "0998aed1ec2eaffe": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Boston, Suffolk County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933232221?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=985DE6468DA5802121F771E5938E45602856DA2E"
     },
     "09aa79742ff8e4bd": {
       "closed_at": "2026-08-02T19:05:33Z",
@@ -5826,13 +5871,14 @@
       "url": "https://www.adzuna.com/details/5913787789?utm_medium=api&utm_source=f62da352"
     },
     "0c17a0f46e276047": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Oklahoma City, Oklahoma County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933216842?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=CA303BA1F524C2C24008D201D4E592C8B5A6729D"
     },
@@ -7793,13 +7839,14 @@
       "url": "https://www.adzuna.com/land/ad/5887122490?se=sAiyQdqy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=0E9347012C202F16B1EC89AA66AB7A9775E9A6AD"
     },
     "103de8453c7b4324": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Glendale, Denver",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933206331?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=24BFB09F23C6540E888A85D3E90B2E30C6B6809D"
     },
@@ -8812,13 +8859,14 @@
       "url": "https://www.adzuna.com/land/ad/5895714395?se=-r45BVy48RGj3rbruZk4CQ&utm_medium=api&utm_source=f62da352&v=8ED7002AC16A198BA5F0699EBA8D59BA371D2354"
     },
     "12dfc68f8fe08f28": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Frankfort, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933214615?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=8C48104487213F79A20D84A33469FE845B5C2ED0"
     },
@@ -9965,7 +10013,7 @@
     "157f4e111a99251a": {
       "company": "Banfield Pet Hospital",
       "first_seen": "2026-10-19T12:06:03Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -12169,6 +12217,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5874600855?se=rnojwnCr8RGeFb9QzgmiBg&utm_medium=api&utm_source=f62da352&v=CEA4201867F4221769565B36928AFED13F896D18"
     },
+    "1aa619dd4f43b293": {
+      "company": "BFCareers",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "East Lake-Orient Park, Hillsborough County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff (Hiring Immediately)",
+      "url": "https://www.adzuna.com/land/ad/5933773645?se=zkSIJaLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=B5DFF5682A677F8686628B060D852CA9432D1F27"
+    },
     "1aab911892cc6cc2": {
       "closed_at": "2026-07-29T19:12:11Z",
       "company": "Veterans Health Administration",
@@ -13048,7 +13107,7 @@
     "1c944b19e5be8075": {
       "company": "Ping Identity",
       "first_seen": "2026-10-18T15:21:16Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -14979,7 +15038,7 @@
     "211bb8d8ead13a20": {
       "company": "Acquisition Network",
       "first_seen": "2026-10-19T12:06:03Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -15744,13 +15803,14 @@
       "url": "https://www.adzuna.com/land/ad/5895700510?se=-r45BVy48RGj3rbruZk4CQ&utm_medium=api&utm_source=f62da352&v=5CDCD2DF5BB076D21EF09E531EC8B36AF98F95B0"
     },
     "22c46e47479aac63": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Jackson, Hinds County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933209508?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=C638370CBEEFCBCB33FE50375B6D8B6CA7E72CED"
     },
@@ -17171,13 +17231,14 @@
       "url": "https://www.adzuna.com/land/ad/5843665180?se=pFWkaWqa8RGB8rnM-OiTpQ&utm_medium=api&utm_source=f62da352&v=3ECB8B9C1FFF6666CF4C613628301C40EEB3BD51"
     },
     "2625eddb3972dcb2": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Madison Collective",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "San Francisco | Chief of Staff | Luxury Operations",
       "url": "https://www.adzuna.com/land/ad/5933577337?se=pI6AvXTM8RGSvYUmXtLuxQ&utm_medium=api&utm_source=f62da352&v=C8CB53532E3AEED66FFF911DFCAF1F866292196E"
     },
@@ -17566,13 +17627,14 @@
       "url": "https://www.adzuna.com/land/ad/5874513910?se=rnojwnCr8RGeFb9QzgmiBg&utm_medium=api&utm_source=f62da352&v=3301F6091CF3336EE7E7F2226A79B73E9FF0CC44"
     },
     "26ca6f5bdef8599e": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "BFCareers",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Temple Terrace, Hillsborough County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Veterinarian - Area Chief of Staff (Hiring Immediately)",
       "url": "https://www.adzuna.com/land/ad/5933773640?se=pI6AvXTM8RGSvYUmXtLuxQ&utm_medium=api&utm_source=f62da352&v=A113B6C05EF37EACCC6302D2D1A154966D6D0F78"
     },
@@ -18979,6 +19041,17 @@
       "status": "closed",
       "title": "Technology Chief of Staff for Governance and Technical Program Management",
       "url": "https://www.adzuna.com/land/ad/5922039741?se=fgKhqsvE8RG_59bpLSVmjQ&utm_medium=api&utm_source=f62da352&v=FF7C17B5AC896841CAEF8CBBE88585BA3F1AD16D"
+    },
+    "29ce4f643ec54bf7": {
+      "company": "Virtual Tech Gurus Inc",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Highland Park, Dallas",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Marketing Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5935550569?se=NMSAJKLM8RGeF-Sw_vHIlg&utm_medium=api&utm_source=f62da352&v=0A3E6EF9E7D6B98DE8D9EA0BA4EAFB38F9D40E24"
     },
     "29d18eb1ae7799ed": {
       "closed_at": "2026-09-30T03:56:38Z",
@@ -20696,6 +20769,17 @@
       "title": "Chief of Staff to the CMO",
       "url": "https://www.adzuna.com/land/ad/5861830778?se=IC-nDYyk8RGEeLI7Dotn4Q&utm_medium=api&utm_source=f62da352&v=6F469A39B332BDD3CA5776F19FE748BD12A2AC76"
     },
+    "2d984bb892d3015f": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Phoenix, Maricopa County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933216266?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=A186451E0C211946EE07408B5E31AD192DC2A797"
+    },
     "2d98dadce7c8034e": {
       "closed_at": "2026-08-15T01:04:01Z",
       "company": "Microsoft Corporation",
@@ -21907,6 +21991,17 @@
       "status": "closed",
       "title": "Chief of Staff, Acquisitions Project Manager, Business Cards & Payments (Remote-Eligible)",
       "url": "https://www.adzuna.com/land/ad/5922047834?se=fgKhqsvE8RG_59bpLSVmjQ&utm_medium=api&utm_source=f62da352&v=1750CA21FDF860923CF710307F876BE450A48431"
+    },
+    "3003ff1f2ee947a3": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Frankfort, Franklin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933214615?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=8C48104487213F79A20D84A33469FE845B5C2ED0"
     },
     "30045f7c4466aacb": {
       "closed_at": "2026-09-15T20:51:11Z",
@@ -23433,13 +23528,14 @@
       "url": "https://www.adzuna.com/land/ad/5821527837?se=gKBXQbyM8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=CFD2F2F27A94B2DEAE8883CE5E08605D179C5E1B"
     },
     "3342c60c68c94929": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Phoenix, Maricopa County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933216266?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=A186451E0C211946EE07408B5E31AD192DC2A797"
     },
@@ -24222,6 +24318,17 @@
       "status": "closed",
       "title": "Chief of Staff, CEO",
       "url": "https://www.adzuna.com/details/5816502121?utm_medium=api&utm_source=f62da352"
+    },
+    "3529a5ecdabfafbe": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Edgewood, Richland County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933222339?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=5DFADB4CBC5B78952B24CF97CF96224C5415569A"
     },
     "3529b3f4cfcb6416": {
       "closed_at": "2026-10-08T22:52:01Z",
@@ -25748,13 +25855,14 @@
       "url": "https://www.adzuna.com/land/ad/5918827003?se=JPhkehbD8RGSdsiqONmNKg&utm_medium=api&utm_source=f62da352&v=E19AD8093242C69769B931F465D3409DF6CE2745"
     },
     "385e84d11e3d5e73": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "BFCareers",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "East Lake-Orient Park, Hillsborough County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Veterinarian - Area Chief of Staff (Hiring Immediately)",
       "url": "https://www.adzuna.com/land/ad/5933773645?se=pI6AvXTM8RGSvYUmXtLuxQ&utm_medium=api&utm_source=f62da352&v=B5DFF5682A677F8686628B060D852CA9432D1F27"
     },
@@ -26217,7 +26325,7 @@
     "397d1da9ff972744": {
       "company": "Datavant",
       "first_seen": "2026-10-18T15:21:16Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "Tallahassee, Leon County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -26464,6 +26572,17 @@
       "status": "closed",
       "title": "Chief of Staff, GTM",
       "url": "https://www.adzuna.com/land/ad/5887113011?se=Ihwqy7Ky8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=A7E9CA354DF8F06E047B67EA0C40473681B58FF6"
+    },
+    "3a2de5075053afce": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Baton Rouge, East Baton Rouge Parish",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933213226?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=B2D39DFF118C8EC88AB95BBDC7FE49A42E9AEA10"
     },
     "3a3a02a1d88ce8a1": {
       "closed_at": "2026-09-08T10:33:21Z",
@@ -29010,13 +29129,14 @@
       "url": "https://www.adzuna.com/land/ad/5889759314?se=FFFkWBO08RGG797_AW7uWA&utm_medium=api&utm_source=f62da352&v=F3196158EA95AE64A4262CD429F907FE3759B222"
     },
     "3f3e2ebf45ae0335": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Des Moines, Polk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933208982?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=A115785785A04586D4B967B28E87BFDE83B8DB5D"
     },
@@ -30137,13 +30257,14 @@
       "url": "https://www.adzuna.com/land/ad/5823949287?se=uoZ-8aqN8RGv1eY0AXRckA&utm_medium=api&utm_source=f62da352&v=279228493FE403E09BE59F8D741E71D2E1158264"
     },
     "416b6a2872ca75d3": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Talcott Village, Hartford County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933209811?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=235A10C41A5E0903399CC2751DDF5635CA65723E"
     },
@@ -33051,6 +33172,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5870040920?se=RA-NbZ2o8RGikbOdqLjlXw&utm_medium=api&utm_source=f62da352&v=D8CFD7115CA775B53D2AD7FEEDDB0472AECB9DBB"
     },
+    "47541a7efb2b356a": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Cammack Village, Pulaski County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933212555?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=5035C4621F480888EB2F994405CB76AC70AC9814"
+    },
     "4760caedf91d86dd": {
       "closed_at": "2026-08-27T21:43:39Z",
       "company": "Banfield",
@@ -33748,13 +33880,14 @@
       "url": "https://www.adzuna.com/land/ad/5829649967?se=uF7yQXGR8RGAH5Uy5zPJIg&utm_medium=api&utm_source=f62da352&v=158EAB24394459AA37E4EBAA1866226846C58041"
     },
     "48c2ac75e0017c4d": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Saint Paul, Ramsey County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933224820?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=CE7148197A08E94B8C7142EE3F5B1389F122475B"
     },
@@ -34705,6 +34838,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5890508865?se=yCReaqK08RGMKJQ-dpRMIg&utm_medium=api&utm_source=f62da352&v=B4BE74B90898D0D0C45F3EBC538B69483B677D52"
+    },
+    "4ae7a21770ff3139": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Grandview Heights, Franklin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933242601?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=BCC509B047C036274EC7CD82B66F81381B0D2D1F"
     },
     "4af2a9a56f106c9e": {
       "closed_at": "2026-10-08T12:47:33Z",
@@ -35869,6 +36013,17 @@
       "status": "closed",
       "title": "Chief of Staff to Tech Founder",
       "url": "https://www.adzuna.com/land/ad/5912746340?se=WjyJjRbB8RGr5sMVJZBn5Q&utm_medium=api&utm_source=f62da352&v=5C163C625DDD964C302B72F091BF1F6F9B635E09"
+    },
+    "4d6e4f2df2833e21": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Ny State Campus, Albany County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933265224?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=7D3064CE0D4260CF0CE0B9307532F25C52D1537F"
     },
     "4d72286bf69dd733": {
       "closed_at": "2026-09-10T03:02:05Z",
@@ -37119,13 +37274,14 @@
       "url": "https://www.adzuna.com/land/ad/5823966060?se=kEXZBkuO8RGNzO_fQd9OLg&utm_medium=api&utm_source=f62da352&v=0F1454B95D32917C7DD122BB56A63573C0260743"
     },
     "50075c4086ac52de": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "United States Space Foundation",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Colorado Springs, El Paso County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Executive Assistant - Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5935062117?se=bEK6vHTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=32832721F9B7248449A2EA384557405E7DB3C0A6"
     },
@@ -37560,6 +37716,17 @@
       "status": "closed",
       "title": "Executive Chief of Staff for Luxury Private Estate",
       "url": "https://www.adzuna.com/land/ad/5809407175?se=_vFz5TiF8RGgQcTn0fwhJg&utm_medium=api&utm_source=f62da352&v=547EF6475A4520E44CEAA620AC6AF8F69BA6747B"
+    },
+    "512bba0e83c6b60a": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Trenton, Mercer County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933227831?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=033A11B655516AD463F8009CCA274BDEF8A7A891"
     },
     "5132de6d5966812c": {
       "closed_at": "2026-08-11T18:58:05Z",
@@ -40048,7 +40215,7 @@
     "5673137a3eaa1769": {
       "company": "Radiology Partners",
       "first_seen": "2026-10-18T15:21:16Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -40439,6 +40606,17 @@
       "status": "closed",
       "title": "Deputy Chief of Staff with Security Clearance",
       "url": "https://www.adzuna.com/land/ad/5840658657?se=0svonLCX8RGzU6d8t-5u2w&utm_medium=api&utm_source=f62da352&v=1AFDA9907300C30F613C47C27DFBD6CFD2E9BBE9"
+    },
+    "5753becd0431ebf6": {
+      "company": "International Data Group",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "US",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Marketing",
+      "url": "https://www.adzuna.com/details/5935509518?utm_medium=api&utm_source=f62da352"
     },
     "5753f40b4c9680e6": {
       "closed_at": "2026-08-13T07:22:34Z",
@@ -40935,7 +41113,7 @@
     "58dd6443a125f6b6": {
       "company": "Kimberly-Clark Corporation",
       "first_seen": "2026-10-19T03:13:00Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "Summit, Union County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -41543,6 +41721,17 @@
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933397452?se=xpMdmgfL8RGq65mh8wCbFA&utm_medium=api&utm_source=f62da352&v=FC1EF44B9D5C6465BC3BC3297AF986293C1D605C"
     },
+    "5a8748dd566e1a99": {
+      "company": "Beacon Hill Staffing Group, LLC",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "New York City, New York",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff/Executive Assistant",
+      "url": "https://www.adzuna.com/land/ad/5934672593?se=NMSAJKLM8RGeF-Sw_vHIlg&utm_medium=api&utm_source=f62da352&v=4717086C042721A0CC35E2D2E526B03E1D731936"
+    },
     "5aa481fe8be3295f": {
       "closed_at": "2026-08-05T19:25:46Z",
       "company": "HITT Contracting",
@@ -41554,6 +41743,17 @@
       "status": "closed",
       "title": "Associate, Chief of Staff",
       "url": "https://www.adzuna.com/details/5828915068?utm_medium=api&utm_source=f62da352"
+    },
+    "5aa714f9610385ab": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Cedar, Cole County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933225698?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=53AA66B5F78CF85A10B3D2009EA0386F54D8AD9D"
     },
     "5aba2cbe2d19e366": {
       "closed_at": "2026-08-01T19:04:38Z",
@@ -42014,7 +42214,7 @@
     "5b47832afd7f582d": {
       "company": "Acquisition Network",
       "first_seen": "2026-10-18T15:21:16Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -42574,6 +42774,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5803479881?utm_medium=api&utm_source=f62da352"
     },
+    "5cab647137cf46e8": {
+      "company": "Thomas Talent Network",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "San Francisco, California",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5935524848?se=NMSAJKLM8RGeF-Sw_vHIlg&utm_medium=api&utm_source=f62da352&v=D66DAF08ED6384D3ADCB0BF705485EDD00831456"
+    },
     "5cb3e193a3bee0a1": {
       "closed_at": "2026-08-05T14:02:28Z",
       "company": "CVS Health",
@@ -42681,6 +42892,17 @@
       "status": "closed",
       "title": "Executive Assistant, Chief of Staff to the President & Chief Product Officer (Onsite)",
       "url": "https://www.adzuna.com/details/5850771581?utm_medium=api&utm_source=f62da352"
+    },
+    "5ce8ef9c21d507fd": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Bonnie, Utah County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933218356?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=5AA04129B7F03744961E899D715780EE6788CD24"
     },
     "5cedffba4d383b10": {
       "closed_at": "2026-10-14T03:29:47Z",
@@ -43257,6 +43479,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5863482950?se=TkC0pbWl8RGS6e_oRoerSw&utm_medium=api&utm_source=f62da352&v=72A0FA8E2C6C6A5F3CC646F24CE0DCCD94888EB4"
+    },
+    "5e27224f8b009742": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Five Points, Wake County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933241031?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=ABE03065B70A22441955ACE20733BF765DCA29B1"
     },
     "5e28c8a7fcd1833c": {
       "closed_at": "2026-10-10T16:57:01Z",
@@ -44387,13 +44620,14 @@
       "url": "https://www.adzuna.com/details/5882578459?utm_medium=api&utm_source=f62da352"
     },
     "60477f677ef91fd9": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Northwest Administrators, Inc.",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Seattle, King County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5935066957?se=bEK6vHTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=C584A05877270B139C93E9F28CAC07540DE8DFD3"
     },
@@ -45226,13 +45460,14 @@
       "url": "https://www.adzuna.com/land/ad/5812335364?se=-pZQmJ2G8RGH_PwTOBsIqA&utm_medium=api&utm_source=f62da352&v=16CDBB5C77B1E8CF3FCA55538412C88633967AAB"
     },
     "61d15bb43c710aa0": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Nashville, Davidson County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933236960?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=01198D56E84B3CAFA464AC2E3D9D14FC025C566F"
     },
@@ -46112,6 +46347,17 @@
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933195794?se=5rWjOy_L8RGq65mh8wCbFA&utm_medium=api&utm_source=f62da352&v=891F7855338BEAB9EF619367FB1D7E20637A7E73"
     },
+    "63b30517c32b63ad": {
+      "company": "BFCareers",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Ybor, Hillsborough County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff (Hiring Immediately)",
+      "url": "https://www.adzuna.com/land/ad/5933773655?se=zkSIJaLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=FF2F571E2B79DFA1BAAD3A22EBEB71D2239FBB34"
+    },
     "63b54c10a36859a1": {
       "closed_at": "2026-08-17T12:38:08Z",
       "company": "Coinbase",
@@ -46351,6 +46597,17 @@
       "status": "closed",
       "title": "Chief of Staff, Communications",
       "url": "https://www.adzuna.com/land/ad/5811745023?se=QvN0kz6G8RGC_vzP8iGe4A&utm_medium=api&utm_source=f62da352&v=CA9193FF0CE4BE2CE5D4EB74F42FCBA0527FA654"
+    },
+    "642b5b4ebb9fdd24": {
+      "company": "Kunin Technologies",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Chattanooga, Hamilton County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/details/5935325637?utm_medium=api&utm_source=f62da352"
     },
     "64306f63b299f074": {
       "closed_at": "2026-09-07T21:05:54Z",
@@ -48260,6 +48517,17 @@
       "title": "Veterinarian - Area Chief of Staff (Hiring Immediately)",
       "url": "https://www.adzuna.com/land/ad/5933773645?se=DhvdBmvL8RGjutuTSb6jOA&utm_medium=api&utm_source=f62da352&v=B5DFF5682A677F8686628B060D852CA9432D1F27"
     },
+    "696638de58ec0828": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Madison, Dane County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933233498?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=F3A329375C833520CAA998450DA3DE67BAC61DA9"
+    },
     "6966ed658648288d": {
       "closed_at": "2026-10-13T13:32:47Z",
       "company": "Ally Behavior Centers",
@@ -48561,13 +48829,14 @@
       "url": "https://www.adzuna.com/land/ad/5930160259?se=nFvjFE7J8RGM0Lzv7Y7D7g&utm_medium=api&utm_source=f62da352&v=FA3E824198915B624D8C9A7F6BF40CC361F05C29"
     },
     "6a332cdf6a66784c": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "United Water Restoration Group of So. FL., Inc.",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Deerfield Beach, Broward County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff & Strategic Operations",
       "url": "https://www.adzuna.com/land/ad/5933577723?se=pI6AvXTM8RGSvYUmXtLuxQ&utm_medium=api&utm_source=f62da352&v=A40820E083A68511E7C8D68ACE6AD2B1E62B91B1"
     },
@@ -50454,6 +50723,28 @@
       "status": "closed",
       "title": "Chief of Staff Manager",
       "url": "https://www.adzuna.com/land/ad/5840139397?se=9GEsJ0mX8RG_yaSmB0dnHA&utm_medium=api&utm_source=f62da352&v=D5BEEF763F16DEA4F8DB0B2CC3076CB5C677A1C1"
+    },
+    "6e22073f02d9ec45": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Lansing, Ingham County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933225240?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=BDEF3F6E51E618E86C98B43B74F5EF22380A665F"
+    },
+    "6e272a9d2971597a": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Oklahoma City, Oklahoma County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933216842?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=CA303BA1F524C2C24008D201D4E592C8B5A6729D"
     },
     "6e2b45ce92334b6a": {
       "closed_at": "2026-09-23T16:04:47Z",
@@ -52486,7 +52777,7 @@
     "724924f52fe0c814": {
       "company": "Banfield Pet Hospital",
       "first_seen": "2026-10-19T21:58:59Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -52759,13 +53050,14 @@
       "url": "https://www.adzuna.com/details/5915130612?utm_medium=api&utm_source=f62da352"
     },
     "72ed885bac792961": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Washington, D.C., US",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933212421?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=6E98DC5C3E010FDD62F21C20755FD8EC69B3CE86"
     },
@@ -57534,13 +57826,14 @@
       "url": "https://www.adzuna.com/land/ad/5834278052?se=6BdYQCGU8RGlDuOngCclFw&utm_medium=api&utm_source=f62da352&v=F42503D9FDF2E3B23C5EB31FBF3A6D199EBA6691"
     },
     "7da7e5bf949d95a6": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Windsor Advantage",
       "first_seen": "2026-10-18T15:21:16Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Chicago, Cook County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5933206178?utm_medium=api&utm_source=f62da352"
     },
@@ -58963,7 +59256,7 @@
     "812332d0365a71c7": {
       "company": "Datavant",
       "first_seen": "2026-10-18T15:21:16Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "Springfield, Sangamon County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -59678,6 +59971,17 @@
       "status": "closed",
       "title": "Business Director-Chief of Staff (Payment Network, U.S. and Canadian Markets)",
       "url": "https://www.adzuna.com/land/ad/5846386459?se=SnbK6QGb8RGwu5GXH5X5Og&utm_medium=api&utm_source=f62da352&v=6AF5EDF9F061264E0F001BB44CC67FED72B801BD"
+    },
+    "82c6858b804967f8": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Charleston, Kanawha County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933216579?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=594C36CCAE4706B94ACAFFBDD51660C983F83C8F"
     },
     "82cdb113d3e2272b": {
       "closed_at": "2026-10-14T21:16:28Z",
@@ -61204,13 +61508,14 @@
       "url": "https://www.adzuna.com/details/5829997650?utm_medium=api&utm_source=f62da352"
     },
     "85d671b885d95459": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Lansing, Ingham County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933225240?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=BDEF3F6E51E618E86C98B43B74F5EF22380A665F"
     },
@@ -62943,13 +63248,14 @@
       "url": "https://www.adzuna.com/details/5811674012?utm_medium=api&utm_source=f62da352"
     },
     "89b4db61b253d659": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Baton Rouge, East Baton Rouge Parish",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933213226?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=B2D39DFF118C8EC88AB95BBDC7FE49A42E9AEA10"
     },
@@ -63638,13 +63944,14 @@
       "url": "https://www.adzuna.com/land/ad/5910839920?se=EOsbNBDA8RGN96JAzfykhw&utm_medium=api&utm_source=f62da352&v=BCAEDCDBFC637E8331549B897561F95EB77962B6"
     },
     "8b020037538fc43d": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Topeka, Shawnee County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933210564?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=ED3F135CF08B1FF1F56BE077C8FCB19B606A19AC"
     },
@@ -63721,13 +64028,14 @@
       "url": "https://www.adzuna.com/land/ad/5911069083?se=jMF_jxbB8RGr5sMVJZBn5Q&utm_medium=api&utm_source=f62da352&v=9D4759E54042585AD39A77EEE384E05E28AE3994"
     },
     "8b26d5de80b541fa": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Annapolis, Anne Arundel County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933215303?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=82FAD42972EFAB64E14DA20487D2C1252FE35A85"
     },
@@ -64031,6 +64339,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5834488095?se=rgFCx1qU8RG1jtA4vRlyKQ&utm_medium=api&utm_source=f62da352&v=95F67E5CE6E7232C43B842CB09878DE0D8CB955C"
     },
+    "8ba7e6d951c26b79": {
+      "company": "Kemper",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Highland Park, Dallas",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "AVP, Strategy and Executive Operations (Chief of Staff",
+      "url": "https://www.adzuna.com/details/5935539277?utm_medium=api&utm_source=f62da352"
+    },
     "8ba9855bb6c54aa2": {
       "closed_at": "2026-08-06T14:01:26Z",
       "company": "British American Household Staffing",
@@ -64272,13 +64591,14 @@
       "url": "https://www.adzuna.com/details/5831341831?utm_medium=api&utm_source=f62da352"
     },
     "8c1a45d1ce0f874f": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Strawn Arnold & Associates",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Grand Central, Manhattan",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Director of Business Development and Chief of Staff - Remote - Strawn Arnold & Associates",
       "url": "https://www.adzuna.com/land/ad/5934656685?se=bEK6vHTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=268A894EF428AE40FF330A4F8D69A5FC9A544CA3"
     },
@@ -65183,13 +65503,14 @@
       "url": "https://www.adzuna.com/land/ad/5876982034?se=cKLjkcyt8RGKhrN6RT1scQ&utm_medium=api&utm_source=f62da352&v=5C71E2693063BC456F3ED455B20242AADB3DA573"
     },
     "8e680b4e5f1670cd": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Uptown, Marion County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933234144?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=12C46CE83167AF1610C55311FAEEC2C0FEC981BB"
     },
@@ -67329,6 +67650,17 @@
       "title": "Chief of Staff to the GM of Housing New York, NY",
       "url": "https://www.adzuna.com/land/ad/5827479756?se=CKj6oT2R8RGQ4Z-QtyXkyw&utm_medium=api&utm_source=f62da352&v=7BE2D453862E05013C05B2DAA6B12C48D1B1DBF0"
     },
+    "9294e8d8bb195a75": {
+      "company": "BFCareers",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Temple Terrace, Hillsborough County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Veterinarian - Area Chief of Staff (Hiring Immediately)",
+      "url": "https://www.adzuna.com/land/ad/5933773640?se=zkSIJaLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=A113B6C05EF37EACCC6302D2D1A154966D6D0F78"
+    },
     "929bc52c7be39edc": {
       "closed_at": "2026-08-09T06:52:00Z",
       "company": "A Caring Doctor",
@@ -67618,13 +67950,14 @@
       "url": "https://www.adzuna.com/land/ad/5850463839?se=1sJbOyud8RGVwpWvD-HIQQ&utm_medium=api&utm_source=f62da352&v=8FB2678358AE2642D908BA7DBB73E5C1885EF074"
     },
     "932d2248fd30d061": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Tumwater, Thurston County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933247409?se=pI6AvXTM8RGSvYUmXtLuxQ&utm_medium=api&utm_source=f62da352&v=600DB76D2FED8DFFFEE37AE2A1AA6F6A57D4AA96"
     },
@@ -69848,6 +70181,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5890515529?se=yCReaqK08RGMKJQ-dpRMIg&utm_medium=api&utm_source=f62da352&v=168C5F1365BFAE017E5EF184BA79ACA8E9DFD7B7"
     },
+    "983b4af3703715d3": {
+      "company": "Edward Jones",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Wellston, Saint Louis County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5934131023?se=zkSIJaLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=B007007D44C8324BA2DDD9C09E845D241CCDDF21"
+    },
     "9846445698c1ac78": {
       "closed_at": "2026-07-17T08:06:01Z",
       "company": "Flam",
@@ -70735,6 +71079,17 @@
       "status": "closed",
       "title": "Associate, Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5804778443?se=hkVyA06C8RG9RJh7OG-Znw&utm_medium=api&utm_source=f62da352&v=9AFA119EF68A347746895781E490E91B861DF654"
+    },
+    "9a22037d078f808c": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Uptown, Marion County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933234144?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=12C46CE83167AF1610C55311FAEEC2C0FEC981BB"
     },
     "9a27ae76d025ecc0": {
       "closed_at": "2026-10-14T21:16:28Z",
@@ -73665,13 +74020,14 @@
       "url": "https://www.adzuna.com/land/ad/5803630257?se=cI2yRRKC8RGFMa6bWHzthQ&utm_medium=api&utm_source=f62da352&v=9794822DF4D7DC5753077FAB9D94F994E7036041"
     },
     "a04f0856a3c345e8": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Centurion Consulting Group",
       "first_seen": "2026-10-18T10:22:18Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Germantown, Montgomery County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5933157135?utm_medium=api&utm_source=f62da352"
     },
@@ -75343,6 +75699,17 @@
       "title": "Head of Global Customer Operations Strategy & Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5895118957?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=01124F9C301113467EFCA579B3A110F68D5DF127"
     },
+    "a39ed782da2425d2": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Saint Paul, Ramsey County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933224820?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=CE7148197A08E94B8C7142EE3F5B1389F122475B"
+    },
     "a3a09ce7bf4f2d18": {
       "closed_at": "2026-07-28T19:18:51Z",
       "company": "J.P. Morgan",
@@ -76268,13 +76635,14 @@
       "url": "https://www.adzuna.com/land/ad/5837092556?se=zv2toLaV8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=f62da352&v=30C0AA4B4A338350F266A3D6F961DCE4AA3D77FB"
     },
     "a5db1f055e80f232": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Sacramento, Sacramento County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933195794?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=891F7855338BEAB9EF619367FB1D7E20637A7E73"
     },
@@ -77851,13 +78219,14 @@
       "url": "https://www.adzuna.com/land/ad/5856776594?se=KsuPjIah8RGhZ7gcUJZivg&utm_medium=api&utm_source=f62da352&v=E7B2950F633EDADE38CFE9017F3C5F688B0B1449"
     },
     "a98cc3a617ea9aa6": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Trenton, Mercer County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933227831?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=033A11B655516AD463F8009CCA274BDEF8A7A891"
     },
@@ -79361,6 +79730,17 @@
       "title": "Chief of Staff, IT Business Systems & Digital Employee Experience",
       "url": "https://www.adzuna.com/land/ad/5892720344?se=aHz6XHS28RGvd94b4pT8Lw&utm_medium=api&utm_source=f62da352&v=84B14D87C2E5AE64B0622765AC60D47FCE77DD53"
     },
+    "ac91639b0b05a517": {
+      "company": "Northwest Administrators, Inc.",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Seattle, King County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5935066957?se=NMSAJKLM8RGeF-Sw_vHIlg&utm_medium=api&utm_source=f62da352&v=C584A05877270B139C93E9F28CAC07540DE8DFD3"
+    },
     "ac994dde74e4b1c7": {
       "closed_at": "2026-09-23T03:16:43Z",
       "company": "Western Digital",
@@ -79710,13 +80090,14 @@
       "url": "https://www.adzuna.com/land/ad/5869153806?se=Qg8RM0yo8RGditPr9QqE6w&utm_medium=api&utm_source=f62da352&v=1A5DC03022EA979AA79E37252FE940F5AC667233"
     },
     "ad23d2f31f6b5ab8": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "BFCareers",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Ybor, Hillsborough County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Veterinarian - Area Chief of Staff (Hiring Immediately)",
       "url": "https://www.adzuna.com/land/ad/5933773655?se=pI6AvXTM8RGSvYUmXtLuxQ&utm_medium=api&utm_source=f62da352&v=FF2F571E2B79DFA1BAAD3A22EBEB71D2239FBB34"
     },
@@ -80909,13 +81290,14 @@
       "url": "https://www.adzuna.com/land/ad/5922855649?se=yo_wEmzF8RGRs48L_-pA7w&utm_medium=api&utm_source=f62da352&v=9563443C3109F84B43FC3889DE9AFADAE65BE01D"
     },
     "b024272e940f1ffa": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "La Cienga, Santa Fe County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933212127?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=885260C395B6E7E71CD5CDC4E071250C4A14CAB6"
     },
@@ -81220,13 +81602,14 @@
       "url": "https://www.adzuna.com/land/ad/5810657977?se=zGhglD6G8RGa14EqyXoy-w&utm_medium=api&utm_source=f62da352&v=669AC6882CB42D2542ED8AA4311A964E88ED5092"
     },
     "b10af3041e865314": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Chisolm, Montgomery County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933210216?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=3B16BA4D659FBEE803C9264F92EE0C99A54B3DC2"
     },
@@ -82346,6 +82729,17 @@
       "title": "Chief of Staff - Executive Support",
       "url": "https://www.adzuna.com/land/ad/5840126126?se=0svonLCX8RGzU6d8t-5u2w&utm_medium=api&utm_source=f62da352&v=A5D52F74A0390EC4F3DA60558DD2CDCF90315DB5"
     },
+    "b39288e080298d46": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Carson Mall, Carson City",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933213249?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=E93095F8DD8FAC94CE93878568B4300C664E1067"
+    },
     "b3a14c927f583adb": {
       "closed_at": "2026-09-22T16:15:17Z",
       "company": "Western Digital",
@@ -82803,13 +83197,14 @@
       "url": "https://www.adzuna.com/land/ad/5812335994?se=-pZQmJ2G8RGH_PwTOBsIqA&utm_medium=api&utm_source=f62da352&v=DEE0B9D7713ECD40D9CCFAF28222C9B913CD4892"
     },
     "b47090aab49dc556": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Cedar, Cole County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933225698?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=53AA66B5F78CF85A10B3D2009EA0386F54D8AD9D"
     },
@@ -83858,13 +84253,14 @@
       "url": "https://www.adzuna.com/land/ad/5892710455?se=aHz6XHS28RGvd94b4pT8Lw&utm_medium=api&utm_source=f62da352&v=5DF5B3FF6EB4FE32D25ABF9EC3376A25125579DE"
     },
     "b6aa70fdd909c923": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Madison, Dane County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933233498?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=F3A329375C833520CAA998450DA3DE67BAC61DA9"
     },
@@ -84387,7 +84783,7 @@
     "b7ad22faf8414f9a": {
       "company": "Banfield Pet Hospital",
       "first_seen": "2026-10-19T21:58:59Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "Hyde Park, Chicago",
       "slug": "adzuna",
       "source": "adzuna",
@@ -85967,6 +86363,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5911069083?se=BoGcicHA8RGG747TTDN8rQ&utm_medium=api&utm_source=f62da352&v=9D4759E54042585AD39A77EEE384E05E28AE3994"
     },
+    "baff9eddce76dfa2": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Nashville, Davidson County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933236960?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=01198D56E84B3CAFA464AC2E3D9D14FC025C566F"
+    },
     "bb0322e54175645b": {
       "closed_at": "2026-08-30T11:13:57Z",
       "company": "Howard University",
@@ -86160,13 +86567,14 @@
       "url": "https://www.adzuna.com/land/ad/5868409475?se=IIXywYOn8RGxLcPzt0M5RA&utm_medium=api&utm_source=f62da352&v=86CE01CC930876EE52CA6357DF756886502639A3"
     },
     "bb451fe6f5f99ee2": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Five Points, Wake County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933241031?se=pI6AvXTM8RGSvYUmXtLuxQ&utm_medium=api&utm_source=f62da352&v=ABE03065B70A22441955ACE20733BF765DCA29B1"
     },
@@ -86459,13 +86867,14 @@
       "url": "https://www.adzuna.com/land/ad/5812337644?se=vHDlhcqG8RGJI6GuGHE2oA&utm_medium=api&utm_source=f62da352&v=9303179EA7BEE11D7A34DE45124ED4396BE44B32"
     },
     "bc1ef892d2109203": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Nuro",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Mountain View, Santa Clara County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Nuro Driver",
       "url": "https://www.adzuna.com/land/ad/5933576678?se=pI6AvXTM8RGSvYUmXtLuxQ&utm_medium=api&utm_source=f62da352&v=C681D5106F52E4BC4669B18B0387BCCA42FCCFBD"
     },
@@ -87657,6 +88066,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5905698966?utm_medium=api&utm_source=f62da352"
     },
+    "be89b8cfc404a750": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Salem, Marion County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933215313?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=3550E08F2BEEC21FC19B7FD221F141930E7C5269"
+    },
     "be8f4c865fa877c0": {
       "closed_at": "2026-08-05T02:12:55Z",
       "company": "Coast",
@@ -87994,13 +88414,14 @@
       "url": "https://www.adzuna.com/land/ad/5900833443?se=siNkSbW68RGCw6kuTDrJlg&utm_medium=api&utm_source=f62da352&v=CC7D519A71F96BA8B2CE2A93F7D3A3B51BC023FE"
     },
     "bf4619ea762f4913": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Bonnie, Utah County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933218356?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=5AA04129B7F03744961E899D715780EE6788CD24"
     },
@@ -88499,7 +88920,7 @@
     "c02f2c554231f6ee": {
       "company": "Hewlett Packard Enterprise",
       "first_seen": "2026-10-20T10:55:00Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "San Jose, Santa Clara County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -90716,13 +91137,14 @@
       "url": "https://www.adzuna.com/land/ad/5841364811?se=YsCZARGY8RGOaqmpVDVsqA&utm_medium=api&utm_source=f62da352&v=31EC586DCEA2CBE92D4D55EE5C0F97FF34F3888C"
     },
     "c4bf2bcedc64a5fc": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Edgewood, Richland County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933222339?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=5DFADB4CBC5B78952B24CF97CF96224C5415569A"
     },
@@ -90849,7 +91271,7 @@
     "c524489eba719b4f": {
       "company": "Fuku",
       "first_seen": "2026-10-19T12:06:03Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -91878,13 +92300,14 @@
       "url": "https://www.adzuna.com/land/ad/5886525661?se=xLdTKkey8RGnoPsPYNB2-Q&utm_medium=api&utm_source=f62da352&v=7E11C7F74446B559897436FBE3A3AA8EE8731DDB"
     },
     "c731544cf30c90cc": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Salem, Marion County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933215313?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=3550E08F2BEEC21FC19B7FD221F141930E7C5269"
     },
@@ -94013,13 +94436,14 @@
       "url": "https://www.adzuna.com/land/ad/5835893945?se=msbforaV8RGNEO0SxDr7vQ&utm_medium=api&utm_source=f62da352&v=C6058C8B7E48BA0B1A9C0AC5AE979C9775295CB5"
     },
     "cc5b19a5fa90f750": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Edward Jones",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Wellston, Saint Louis County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5934131023?se=bEK6vHTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=B007007D44C8324BA2DDD9C09E845D241CCDDF21"
     },
@@ -94550,6 +94974,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5882682036?utm_medium=api&utm_source=f62da352"
+    },
+    "cdadb5ebe2032996": {
+      "company": "Strawn Arnold & Associates",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Grand Central, Manhattan",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Director of Business Development and Chief of Staff - Remote - Strawn Arnold & Associates",
+      "url": "https://www.adzuna.com/land/ad/5934656685?se=NMSAJKLM8RGeF-Sw_vHIlg&utm_medium=api&utm_source=f62da352&v=268A894EF428AE40FF330A4F8D69A5FC9A544CA3"
     },
     "cdaf7e28e2701314": {
       "closed_at": "2026-10-07T22:40:58Z",
@@ -95306,6 +95741,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5890510471?se=br1SgDC18RGdfoIAofxwAg&utm_medium=api&utm_source=f62da352&v=B0B2AC7467BB9D99BBCA0C3BB001E12A30F2E22A"
+    },
+    "cf617ed30e92dcb1": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Atlanta, Fulton County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933224447?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=ADE1ABC77FDD7292E76E2F8FB9AA9E4FC4F02A65"
     },
     "cf61ec0364edc3ef": {
       "closed_at": "2026-07-30T13:53:17Z",
@@ -97132,13 +97578,14 @@
       "url": "https://www.adzuna.com/land/ad/5884849682?se=3NkgXryx8RGrKYPkZO3OQg&utm_medium=api&utm_source=f62da352&v=9A6DBA0436286F253E81A40CC48A3E8BF342BDF7"
     },
     "d3278dc81e5ab8ff": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Grandview Heights, Franklin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933242601?se=pI6AvXTM8RGSvYUmXtLuxQ&utm_medium=api&utm_source=f62da352&v=BCC509B047C036274EC7CD82B66F81381B0D2D1F"
     },
@@ -98270,6 +98717,17 @@
       "title": "Strategic President\u2019s Office VP & Chief of Staff (San Antonio)",
       "url": "https://www.adzuna.com/land/ad/5869362257?se=pFj6hneo8RGE7Lau09UNwg&utm_medium=api&utm_source=f62da352&v=F82BD4D7333342B6F9AB41C2627EB954750799C5"
     },
+    "d5b41cb9cd3bc834": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Tumwater, Thurston County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933247409?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=600DB76D2FED8DFFFEE37AE2A1AA6F6A57D4AA96"
+    },
     "d5b486f395af53d7": {
       "closed_at": "2026-10-19T21:58:59Z",
       "company": "Northwestern Mutual",
@@ -98859,13 +99317,14 @@
       "url": "https://www.adzuna.com/details/5831334124?utm_medium=api&utm_source=f62da352"
     },
     "d6ed2f1c4a51f52e": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Atlanta, Fulton County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933224447?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=ADE1ABC77FDD7292E76E2F8FB9AA9E4FC4F02A65"
     },
@@ -98918,13 +99377,14 @@
       "url": "https://www.adzuna.com/land/ad/5887572601?se=tFaiQNqy8RG-HvXocs6iYQ&utm_medium=api&utm_source=f62da352&v=6A6AF361F14CD3F204453789CBE0B65D9B543F55"
     },
     "d6ff28c8cd82c6c6": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Charleston, Kanawha County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933216579?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=594C36CCAE4706B94ACAFFBDD51660C983F83C8F"
     },
@@ -101377,13 +101837,14 @@
       "url": "https://www.adzuna.com/land/ad/5887593287?se=RKB5P9qy8RGv64qE4zjWDA&utm_medium=api&utm_source=f62da352&v=20A0F2BBECFDF2AEB4E27EFE6C98324B4C92D1BF"
     },
     "dc4d5fab4b9f50ee": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Cammack Village, Pulaski County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933212555?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=5035C4621F480888EB2F994405CB76AC70AC9814"
     },
@@ -102876,13 +103337,14 @@
       "url": "https://www.adzuna.com/land/ad/5895089531?se=UtNslmi38RGQx6VkGkFOAg&utm_medium=api&utm_source=f62da352&v=759EC5DA61B89A6E9B9F0CC10083017C95403ED3"
     },
     "df96aae6ac7e96ee": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Carson Mall, Carson City",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933213249?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=E93095F8DD8FAC94CE93878568B4300C664E1067"
     },
@@ -106463,13 +106925,14 @@
       "url": "https://www.adzuna.com/land/ad/5818627804?se=GECRNLmK8RGh4YMJCQ8cOQ&utm_medium=api&utm_source=f62da352&v=D1D4315ABBF52293B5D1FDDBD88225C406AD3D42"
     },
     "e6d7646fcb813882": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933232221?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=985DE6468DA5802121F771E5938E45602856DA2E"
     },
@@ -108408,7 +108871,7 @@
     "ead8d7b9b7f34530": {
       "company": "Datavant",
       "first_seen": "2026-10-19T12:06:03Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "Capitol, Richmond",
       "slug": "adzuna",
       "source": "adzuna",
@@ -112328,6 +112791,17 @@
       "title": "U.S. Consumer Cards Chief of Staff, Director (Hybrid)",
       "url": "https://www.adzuna.com/land/ad/5869091309?se=3i4wvAuo8RGAquma5vUeHg&utm_medium=api&utm_source=f62da352&v=6237BF2B5C1956985994B1E50602523FD479DC3A"
     },
+    "f30dd585e2059fb1": {
+      "company": "Hope Villages of America",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Clearwater, Pinellas County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/land/ad/5935525927?se=NMSAJKLM8RGeF-Sw_vHIlg&utm_medium=api&utm_source=f62da352&v=82FD65C7BA89F12C895D79AB1BF3F1DFAADC0C43"
+    },
     "f30e29e1e1f0a11d": {
       "closed_at": "2026-08-02T02:32:15Z",
       "company": "Jordan Search Consultants",
@@ -112367,7 +112841,7 @@
     "f31901b9d4a83dfb": {
       "company": "Datavant",
       "first_seen": "2026-10-18T15:21:16Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "Penbrook, Dauphin County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -112376,13 +112850,14 @@
       "url": "https://www.adzuna.com/details/5933232058?utm_medium=api&utm_source=f62da352"
     },
     "f31f79992a8ba45d": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "Ny State Campus, Albany County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933265224?se=pI6AvXTM8RGSvYUmXtLuxQ&utm_medium=api&utm_source=f62da352&v=7D3064CE0D4260CF0CE0B9307532F25C52D1537F"
     },
@@ -113229,7 +113704,7 @@
     "f4e820060c2923f1": {
       "company": "Banfield Pet Hospital",
       "first_seen": "2026-10-19T12:06:03Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -114500,7 +114975,7 @@
     "f8169f6a1c9027aa": {
       "company": "Banfield Pet Hospital",
       "first_seen": "2026-10-19T12:06:03Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -114747,6 +115222,17 @@
       "status": "closed",
       "title": "Chief of Staff Manager",
       "url": "https://www.adzuna.com/land/ad/5835643574?se=vPapn1KV8RG7ILaWj3cC-A&utm_medium=api&utm_source=f62da352&v=4773B202D50E9E3DD546DC978D20F509C84B01F0"
+    },
+    "f888d82e9311be3c": {
+      "company": "Vetcor",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Canton Center, Hartford County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff Veterinarian - Canton, CT",
+      "url": "https://www.adzuna.com/details/5935508705?utm_medium=api&utm_source=f62da352"
     },
     "f88a4288aca347ad": {
       "closed_at": "2026-08-17T18:35:00Z",
@@ -115023,6 +115509,17 @@
       "status": "closed",
       "title": "Chief of Staff to the CEO (Founder's Office) (New York)",
       "url": "https://www.adzuna.com/land/ad/5825811150?se=ZtjfLaWO8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=69DCD296B7EAFACB8A4B2D894BA0861AA552CFFC"
+    },
+    "f8fbd37edc25e97e": {
+      "company": "Datavant",
+      "first_seen": "2026-10-20T16:20:01Z",
+      "last_seen": "2026-10-20T16:20:01Z",
+      "location": "Annapolis, Anne Arundel County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Science",
+      "url": "https://www.adzuna.com/land/ad/5933215303?se=qNd0JqLM8RGUlZcLbi9XfA&utm_medium=api&utm_source=f62da352&v=82FAD42972EFAB64E14DA20487D2C1252FE35A85"
     },
     "f8ff22ea3ecf906a": {
       "closed_at": "2026-08-29T12:16:17Z",
@@ -116791,7 +117288,7 @@
     "fc9b2e0696ab48cd": {
       "company": "Banfield Pet Hospital",
       "first_seen": "2026-10-19T21:58:59Z",
-      "last_seen": "2026-10-20T10:55:00Z",
+      "last_seen": "2026-10-20T16:20:01Z",
       "location": "US",
       "slug": "adzuna",
       "source": "adzuna",
@@ -117892,13 +118389,14 @@
       "url": "https://www.adzuna.com/land/ad/5892739194?se=JDD0ATS28RGrwJOOm3vXfg&utm_medium=api&utm_source=f62da352&v=03B83C3F0A0A5354129A27C02A2E86200E37BEDE"
     },
     "ff0842fb9c997a51": {
+      "closed_at": "2026-10-20T16:20:01Z",
       "company": "Datavant",
       "first_seen": "2026-10-20T10:55:00Z",
       "last_seen": "2026-10-20T10:55:00Z",
       "location": "State House, Lancaster County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933211837?se=DMhvvnTM8RGDdvJW8eCByg&utm_medium=api&utm_source=f62da352&v=843E24260857CADAF665A4A4175D805434818ECC"
     },
@@ -118431,5 +118929,5 @@
       "url": "https://www.adzuna.com/details/5816410970?utm_medium=api&utm_source=f62da352"
     }
   },
-  "last_run": "2026-10-20T10:55:00Z"
+  "last_run": "2026-10-20T16:20:01Z"
 }
