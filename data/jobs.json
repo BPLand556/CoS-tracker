@@ -3,7 +3,7 @@
     "greenhouse/notion: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/notion/jobs?content=true",
     "greenhouse/rippling: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/rippling/jobs?content=true",
     "lever/plaid: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/plaid?mode=json",
-    "lever/anduril: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/anduril?mode=json",
+    "lever/anduril: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)",
     "lever/attentive: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/attentive?mode=json"
   ],
   "jobs": {
@@ -8132,13 +8132,14 @@
       "url": "https://www.adzuna.com/land/ad/5927648621?se=zJWBkhTI8RGzTbLyus6u7g&utm_medium=api&utm_source=f62da352&v=F48789FE3846872890A8A69FF2DB3D6842BCB86F"
     },
     "0faa5ae02d7c6f0f": {
+      "closed_at": "2026-10-27T17:27:12Z",
       "company": "PEG",
       "first_seen": "2026-10-25T15:31:46Z",
       "last_seen": "2026-10-27T11:34:53Z",
       "location": "Lakeview, Utah County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5941492875?utm_medium=api&utm_source=f62da352"
     },
@@ -30978,6 +30979,17 @@
       "title": "Chief of Staff To The President",
       "url": "https://www.adzuna.com/land/ad/5932537557?se=CpFw9Z_K8RGq65mh8wCbFA&utm_medium=api&utm_source=f62da352&v=2C1602718BF6D8BB550746CDCF19D722BF4529C8"
     },
+    "3ef287f9b95966e7": {
+      "company": "Vetcor",
+      "first_seen": "2026-10-27T17:27:12Z",
+      "last_seen": "2026-10-27T17:27:12Z",
+      "location": "Newport, Penobscot County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff - Newport, ME",
+      "url": "https://www.adzuna.com/details/5943506614?utm_medium=api&utm_source=f62da352"
+    },
     "3ef5b014fed5f96c": {
       "closed_at": "2026-09-18T10:33:02Z",
       "company": "DeKalb County School District",
@@ -40110,6 +40122,17 @@
       "title": "Chief of Staff to the President",
       "url": "https://www.adzuna.com/land/ad/5933046787?se=ZmaNCGvL8RGjutuTSb6jOA&utm_medium=api&utm_source=f62da352&v=CE01B6AB577BB8B9367A4C06DC5B286CFD5EE863"
     },
+    "50fed602928f3a6e": {
+      "company": "AJAIA",
+      "first_seen": "2026-10-27T17:27:12Z",
+      "last_seen": "2026-10-27T17:27:12Z",
+      "location": "Fort Lauderdale, Broward County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff (AI-Enabled CEO Operations Partner)",
+      "url": "https://www.adzuna.com/land/ad/5943552470?se=zF7KvivS8RGxuoS9WdYAyQ&utm_medium=api&utm_source=f62da352&v=7BB2364718F227F006E0DCC37705DB1FA6D7BA8B"
+    },
     "50ff8aa68e709072": {
       "closed_at": "2026-09-17T16:13:19Z",
       "company": "United Water Restoration Group of So. FL., Inc.",
@@ -41313,7 +41336,7 @@
     "5371772c09c594f8": {
       "company": "Rypples Ltd",
       "first_seen": "2026-10-27T03:40:17Z",
-      "last_seen": "2026-10-27T11:34:53Z",
+      "last_seen": "2026-10-27T17:27:12Z",
       "location": "New York City, New York",
       "slug": "adzuna",
       "source": "adzuna",
@@ -41576,7 +41599,7 @@
     "53d5f2fc6216167e": {
       "company": "Icon Health",
       "first_seen": "2026-10-26T22:16:42Z",
-      "last_seen": "2026-10-27T11:34:53Z",
+      "last_seen": "2026-10-27T17:27:12Z",
       "location": "Miami Beach, Miami-Dade County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -42123,6 +42146,17 @@
       "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844852074?se=sv45izia8RG99P0DnZNbXw&utm_medium=api&utm_source=f62da352&v=02599A60AE9578BC5B566095D07CC0AE18997B91"
+    },
+    "5516adadd3a828c6": {
+      "company": "Bright Money",
+      "first_seen": "2026-10-27T17:27:12Z",
+      "last_seen": "2026-10-27T17:27:12Z",
+      "location": "San Francisco, California",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/details/5943506289?utm_medium=api&utm_source=f62da352"
     },
     "551b56f977e4c459": {
       "closed_at": "2026-09-13T11:04:27Z",
@@ -44525,13 +44559,14 @@
       "url": "https://www.adzuna.com/land/ad/5934672593?se=NMSAJKLM8RGeF-Sw_vHIlg&utm_medium=api&utm_source=f62da352&v=4717086C042721A0CC35E2D2E526B03E1D731936"
     },
     "5a98049a9e7f62b0": {
+      "closed_at": "2026-10-27T17:27:12Z",
       "company": "n-Lorem",
       "first_seen": "2026-10-27T11:34:53Z",
       "last_seen": "2026-10-27T11:34:53Z",
       "location": "Carlsbad, San Diego County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Associate Chief of Staff (Cover Letter Required)",
       "url": "https://www.adzuna.com/land/ad/5943072804?se=ZuK7d_rR8RGTmpORxmRtzw&utm_medium=api&utm_source=f62da352&v=F02299023ADF432EC2D1FAA2BE6DD1F17D74141A"
     },
@@ -65223,6 +65258,17 @@
       "title": "Chief of Staff, Science",
       "url": "https://www.adzuna.com/land/ad/5933234144?se=pGECg7XL8RGb-ay6knl-lw&utm_medium=api&utm_source=f62da352&v=12C46CE83167AF1610C55311FAEEC2C0FEC981BB"
     },
+    "85436eb917987ab3": {
+      "company": "Firestorm",
+      "first_seen": "2026-10-27T17:27:12Z",
+      "last_seen": "2026-10-27T17:27:12Z",
+      "location": "San Diego, San Diego County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Deputy Chief of Staff",
+      "url": "https://www.adzuna.com/details/5943500180?utm_medium=api&utm_source=f62da352"
+    },
     "8543c531422eacc4": {
       "closed_at": "2026-09-02T02:49:30Z",
       "company": "Texas-Israel Alliance",
@@ -69268,13 +69314,14 @@
       "url": "https://www.adzuna.com/land/ad/5811769670?se=3FX9InCG8RGpocN_4bcAxw&utm_medium=api&utm_source=f62da352&v=17B547CA009099398919554266BB11683D3B9353"
     },
     "8d03f0554398bf95": {
+      "closed_at": "2026-10-27T17:27:12Z",
       "company": "Bright Machines",
       "first_seen": "2026-10-25T15:31:46Z",
       "last_seen": "2026-10-27T11:34:53Z",
       "location": "Burlingame, San Mateo County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/details/5941499139?utm_medium=api&utm_source=f62da352"
     },
@@ -75170,6 +75217,17 @@
       "title": "Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5844856517?se=Jm1iZ2qa8RGLRNMmwLdNsA&utm_medium=api&utm_source=f62da352&v=282E6290BB65F6F31903A849A4499E953319FFD4"
     },
+    "995837c12b2335d1": {
+      "company": "ServiceNow, Inc.",
+      "first_seen": "2026-10-27T17:27:12Z",
+      "last_seen": "2026-10-27T17:27:12Z",
+      "location": "SoMa, San Francisco",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff, Head of Marketing Strategy & Operations",
+      "url": "https://www.adzuna.com/land/ad/5942148393?se=IsjWwCvS8RGo-vaGDT5ODQ&utm_medium=api&utm_source=f62da352&v=1FB7F684391EEB6C74F2031BA2FA808BAFB01D67"
+    },
     "995d38fa976b0c01": {
       "closed_at": "2026-08-19T12:40:19Z",
       "company": "Socket.dev",
@@ -77393,7 +77451,7 @@
     "9dd4dfcb6b83ea2f": {
       "company": "Pomelo",
       "first_seen": "2026-10-27T11:34:53Z",
-      "last_seen": "2026-10-27T11:34:53Z",
+      "last_seen": "2026-10-27T17:27:12Z",
       "location": "Los Angeles, Los Angeles County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -81110,13 +81168,14 @@
       "url": "https://www.adzuna.com/land/ad/5911279550?se=lt7FYEHB8RGQRoyPXfoVpQ&utm_medium=api&utm_source=f62da352&v=8414779868A7A521562DDCFA0CA8F9BD8E990575"
     },
     "a4ee28070067c45c": {
+      "closed_at": "2026-10-27T17:27:12Z",
       "company": "City of Seattle",
       "first_seen": "2026-10-25T15:31:46Z",
       "last_seen": "2026-10-27T11:34:53Z",
       "location": "Pioneer Square, King County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff (Executive 2)",
       "url": "https://www.adzuna.com/details/5941451742?utm_medium=api&utm_source=f62da352"
     },
@@ -82839,7 +82898,7 @@
     "a8d90f4ce304e3b0": {
       "company": "Boston Medical Center",
       "first_seen": "2026-10-27T11:34:53Z",
-      "last_seen": "2026-10-27T11:34:53Z",
+      "last_seen": "2026-10-27T17:27:12Z",
       "location": "Boston, Suffolk County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -90552,13 +90611,14 @@
       "url": "https://www.adzuna.com/land/ad/5823947998?se=3AY28qqN8RG8JMyxbRrc7Q&utm_medium=api&utm_source=f62da352&v=6CBF752DE3297AF51845EA3A95D7CC92F7A52B98"
     },
     "b8155715a8a53be5": {
+      "closed_at": "2026-10-27T17:27:12Z",
       "company": "ServiceNow, Inc.",
       "first_seen": "2026-10-27T11:34:53Z",
       "last_seen": "2026-10-27T11:34:53Z",
       "location": "SoMa, San Francisco",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff, Head of Marketing Strategy & Operations",
       "url": "https://www.adzuna.com/land/ad/5942148393?se=vixUefrR8RGaLvZ41xPXIA&utm_medium=api&utm_source=f62da352&v=1FB7F684391EEB6C74F2031BA2FA808BAFB01D67"
     },
@@ -92893,7 +92953,7 @@
     "bcaf3a84c3d98d4b": {
       "company": "Veterans Health Administration",
       "first_seen": "2026-10-26T22:16:42Z",
-      "last_seen": "2026-10-27T11:34:53Z",
+      "last_seen": "2026-10-27T17:27:12Z",
       "location": "Fresno, Fresno County",
       "slug": "adzuna",
       "source": "adzuna",
@@ -98914,13 +98974,14 @@
       "url": "https://www.adzuna.com/land/ad/5900539492?se=PGYjSrW68RGCw6kuTDrJlg&utm_medium=api&utm_source=f62da352&v=755E0AA5811E05AB35FE12DD38C6983D96EEA1DB"
     },
     "c8bb874b91a6012f": {
+      "closed_at": "2026-10-27T17:27:12Z",
       "company": "UnitedHealth Group",
       "first_seen": "2026-10-27T11:34:53Z",
       "last_seen": "2026-10-27T11:34:53Z",
       "location": "Minnetonka Mills, Hennepin County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Senior Director, Chief of Staff, E&I Technology",
       "url": "https://www.adzuna.com/land/ad/5942193070?se=ZuK7d_rR8RGTmpORxmRtzw&utm_medium=api&utm_source=f62da352&v=88AC1CA537B5A1B573FA2736F3B9028C8877B004"
     },
@@ -102799,6 +102860,17 @@
       "status": "closed",
       "title": "Chief of Staff to the Co-Heads of Global Investments",
       "url": "https://www.adzuna.com/land/ad/5824520264?se=TD-bJKqP8RG4DoWTD3_mqQ&utm_medium=api&utm_source=f62da352&v=F92CD1589988A9C7E33414B84B3090AC777B98C6"
+    },
+    "d0e468745223252c": {
+      "company": "UnitedHealth Group",
+      "first_seen": "2026-10-27T17:27:12Z",
+      "last_seen": "2026-10-27T17:27:12Z",
+      "location": "Minnetonka Mills, Hennepin County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Senior Director, Chief of Staff, E&I Technology",
+      "url": "https://www.adzuna.com/land/ad/5942193070?se=tqWdvyvS8RGql-zd2-dooQ&utm_medium=api&utm_source=f62da352&v=88AC1CA537B5A1B573FA2736F3B9028C8877B004"
     },
     "d0ecc39dbd8e7d05": {
       "closed_at": "2026-09-04T15:44:13Z",
@@ -114849,13 +114921,14 @@
       "url": "https://www.adzuna.com/land/ad/5895121666?se=Fk5hlWi38RG0s7xl9OR6fQ&utm_medium=api&utm_source=f62da352&v=42865E1E88795B1F6D707CB2D2CEFFECF163DB38"
     },
     "e89989bbc04a3204": {
+      "closed_at": "2026-10-27T17:27:12Z",
       "company": "Novartis",
       "first_seen": "2026-10-25T15:31:46Z",
       "last_seen": "2026-10-27T11:34:53Z",
       "location": "East Hanover, Morris County",
       "slug": "adzuna",
       "source": "adzuna",
-      "status": "active",
+      "status": "closed",
       "title": "Chief of Staff to Workforce Strategy Head, US",
       "url": "https://www.adzuna.com/details/5941452852?utm_medium=api&utm_source=f62da352"
     },
@@ -122623,6 +122696,17 @@
       "title": "Veterinarian - Chief of Staff",
       "url": "https://www.adzuna.com/land/ad/5823949610?se=uoZ-8aqN8RGv1eY0AXRckA&utm_medium=api&utm_source=f62da352&v=DE2DD5174283A8B0E7D32E8A3B665A013AAF3913"
     },
+    "f8a44b846ecb8765": {
+      "company": "Icon Health",
+      "first_seen": "2026-10-27T17:27:12Z",
+      "last_seen": "2026-10-27T17:27:12Z",
+      "location": "Carl Fisher, Miami-Dade County",
+      "slug": "adzuna",
+      "source": "adzuna",
+      "status": "active",
+      "title": "Chief of Staff",
+      "url": "https://www.adzuna.com/details/5943452804?utm_medium=api&utm_source=f62da352"
+    },
     "f8a8a17cc454f880": {
       "closed_at": "2026-09-22T10:56:52Z",
       "company": "Western Digital",
@@ -125002,7 +125086,7 @@
     "fd3bb0d3ae96a7ff": {
       "company": "Shepherd AI",
       "first_seen": "2026-10-27T11:34:53Z",
-      "last_seen": "2026-10-27T11:34:53Z",
+      "last_seen": "2026-10-27T17:27:12Z",
       "location": "San Francisco, California",
       "slug": "adzuna",
       "source": "adzuna",
@@ -126487,5 +126571,5 @@
       "url": "https://www.adzuna.com/details/5816410970?utm_medium=api&utm_source=f62da352"
     }
   },
-  "last_run": "2026-10-27T11:34:53Z"
+  "last_run": "2026-10-27T17:27:12Z"
 }
